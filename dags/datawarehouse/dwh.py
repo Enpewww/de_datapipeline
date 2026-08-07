@@ -37,7 +37,7 @@ def staging_table():
                 else:
                     insert_rows(conn, curr, schema, row)
 
-        ids_json = [row['video_id'] for row in YT_data]
+        ids_json = {row['video_id'] for row in YT_data}
 
         ids_to_delete = set(table_ids) - ids_json
 
