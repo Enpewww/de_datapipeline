@@ -6,10 +6,10 @@ logger = logging.getLogger(__name__)
 
 def load_data():
 
-    file_path = f"./data/YT_data_YB{date.today()}.json"
+    file_path = f"./data/YT_data_API{date.today()}.json"
 
     try:
-        logger.info(f"Processing data file: YT_data(date.today())")
+        logger.info(f"Processing data file: YT_data_API{date.today()}")
 
         with open(file_path, "r", encoding="utf-8") as raw_data:
             data = json.load(raw_data)

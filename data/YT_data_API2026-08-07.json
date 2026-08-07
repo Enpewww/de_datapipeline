@@ -607,8 +607,8 @@
         "title": "Using Linear Models for t tests and ANOVA, Clearly Explained!!!",
         "published_at": "2022-11-18T19:19:19Z",
         "duration": "PT11M38S",
-        "view_count": "85702",
-        "like_count": "1357",
+        "view_count": "85704",
+        "like_count": "1358",
         "comment_count": "58"
     },
     {
@@ -841,7 +841,7 @@
         "title": "Clustering with DBSCAN, Clearly Explained!!!",
         "published_at": "2022-01-10T12:51:02Z",
         "duration": "PT9M30S",
-        "view_count": "522882",
+        "view_count": "522884",
         "like_count": "15607",
         "comment_count": "654"
     },
@@ -940,8 +940,8 @@
         "title": "Decision and Classification Trees, Clearly Explained!!!",
         "published_at": "2021-04-26T04:00:08Z",
         "duration": "PT18M8S",
-        "view_count": "1271463",
-        "like_count": "25433",
+        "view_count": "1271465",
+        "like_count": "25432",
         "comment_count": "1035"
     },
     {
@@ -1075,7 +1075,7 @@
         "title": "The Essential Main Ideas of Neural Networks",
         "published_at": "2020-08-31T04:00:03Z",
         "duration": "PT18M54S",
-        "view_count": "1396820",
+        "view_count": "1396823",
         "like_count": "36619",
         "comment_count": "2499"
     },
@@ -1408,7 +1408,7 @@
         "title": "Support Vector Machines Part 1 (of 3): Main Ideas!!!",
         "published_at": "2019-09-30T18:45:50Z",
         "duration": "PT20M32S",
-        "view_count": "1774511",
+        "view_count": "1774512",
         "like_count": "40273",
         "comment_count": "2240"
     },
@@ -1633,7 +1633,7 @@
         "title": "Ridge, Lasso and Elastic-Net Regression in R",
         "published_at": "2018-10-23T13:30:00Z",
         "duration": "PT17M51S",
-        "view_count": "144333",
+        "view_count": "144329",
         "like_count": "2433",
         "comment_count": "289"
     },
@@ -1858,7 +1858,7 @@
         "title": "Machine Learning Fundamentals: Cross Validation",
         "published_at": "2018-04-24T18:37:54Z",
         "duration": "PT6M5S",
-        "view_count": "1478837",
+        "view_count": "1478839",
         "like_count": "41522",
         "comment_count": "1723"
     },
@@ -1894,7 +1894,7 @@
         "title": "StatQuest: Principal Component Analysis (PCA), Step-by-Step",
         "published_at": "2018-04-02T20:06:10Z",
         "duration": "PT21M58S",
-        "view_count": "3663560",
+        "view_count": "3663562",
         "like_count": "72590",
         "comment_count": "4915"
     },
@@ -2047,8 +2047,8 @@
         "title": "Quantile-Quantile Plots (QQ plots), Clearly Explained!!!",
         "published_at": "2017-11-13T13:09:12Z",
         "duration": "PT6M56S",
-        "view_count": "642231",
-        "like_count": "10424",
+        "view_count": "642245",
+        "like_count": "10425",
         "comment_count": "514"
     },
     {
@@ -2137,8 +2137,8 @@
         "title": "StatQuest: Histograms, Clearly Explained",
         "published_at": "2017-09-25T13:38:28Z",
         "duration": "PT3M42S",
-        "view_count": "1064081",
-        "like_count": "17389",
+        "view_count": "1064083",
+        "like_count": "17390",
         "comment_count": "470"
     },
     {
@@ -2272,7 +2272,7 @@
         "title": "Lowess and Loess, Clearly Explained!!!",
         "published_at": "2017-06-05T17:17:53Z",
         "duration": "PT10M10S",
-        "view_count": "156692",
+        "view_count": "156695",
         "like_count": "3247",
         "comment_count": "209"
     },
@@ -2344,7 +2344,7 @@
         "title": "StatQuest: edgeR, part 1, Library Normalization",
         "published_at": "2017-04-03T16:19:36Z",
         "duration": "PT14M17S",
-        "view_count": "46985",
+        "view_count": "46990",
         "like_count": "690",
         "comment_count": "59"
     },
