@@ -98,10 +98,10 @@ def core_table():
         if ids_to_delete:
             delete_rows(curr, conn, schema, ids_to_delete)
 
-        logger.info(f"Staging table '{schema}.{table}' updated successfully.")
+        logger.info(f"Core table '{schema}.{table}' updated successfully.")
 
     except Exception as e:
-        logger.error(f"Error updating staging table '{schema}.{table}': {e}")
+        logger.error(f"Error updating Core table '{schema}.{table}': {e}")
         raise e
 
     finally:

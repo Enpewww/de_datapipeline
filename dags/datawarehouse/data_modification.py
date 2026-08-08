@@ -3,24 +3,24 @@ import logging
 logger = logging.getLogger(__name__)
 table = "yt_api"
 
-def insert_rows(conn, cur, schema, row):
+def insert_rows(conn, curr, schema, row):
 
     try:
         if schema == "staging":
 
             video_id = 'video_id'
 
-            cur.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Views", "Likes_Count", "Comments_Count")
-            VALUES (%(video_id)s, %(title)s, %(published_at)s, %(duration)s, %(view_count)s, %(like_count)s, %(comment_count)s)
-            """, row 
+            curr.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Views", "Likes_Count", "Comments_Count")
+            VALUES (%(video_id)s, %(title)s, %(published_at)s, %(duration)s, %(view_count)s, %(like_count)s, %(comment_count)s);
+            """, row,
         )
 
         else:
             video_id = 'Video_id'
 
-            cur.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Type", "Video_Views", "Likes_Count", "Comments_Count")
-            VALUES (%(Video_Id)s, %(Video_Title)s, %(Upload_Date)s, %(Duration)s, %(Video_Type)s, %(Video_Views)s, %(Likes_Count)s, %(Comments_Count)s)
-            """, row
+            curr.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Type", "Video_Views", "Likes_Count", "Comments_Count")
+            VALUES (%(Video_Id)s, %(Video_Title)s, %(Upload_Date)s, %(Duration)s, %(Video_Type)s, %(Video_Views)s, %(Like_Count)s, %(Comment_Count)s)
+            """, row,
         )
 
         conn.commit()
@@ -48,8 +48,8 @@ def update_rows(curr, conn, schema, row):
             upload_date = 'Upload_Date'
             video_title = 'Video_Title'
             video_views = 'Video_Views'
-            likes_count = 'Likes_Count'
-            comments_count = 'Comments_Count'
+            likes_count = 'Like_Count'
+            comments_count = 'Comment_Count'
 
         curr.execute(
             f"""

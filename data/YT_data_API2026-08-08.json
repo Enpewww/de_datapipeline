@@ -1,0 +1,2684 @@
+[
+    {
+        "video_id": "lgD9lNB9Ums",
+        "title": "The Simplex Algorithm, Mathematical Details!!!",
+        "published_at": "2026-07-13T04:00:15Z",
+        "duration": "PT26M38S",
+        "view_count": "9970",
+        "like_count": "318",
+        "comment_count": "46"
+    },
+    {
+        "video_id": "h5o1n1QMcmM",
+        "title": "Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!",
+        "published_at": "2026-07-06T04:00:30Z",
+        "duration": "PT24M2S",
+        "view_count": "15696",
+        "like_count": "654",
+        "comment_count": "51"
+    },
+    {
+        "video_id": "mIlw5j3WyVk",
+        "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
+        "published_at": "2026-06-08T15:02:05Z",
+        "duration": "PT10M48S",
+        "view_count": "7196",
+        "like_count": "185",
+        "comment_count": "33"
+    },
+    {
+        "video_id": "L3nlGfSyHV0",
+        "title": "False Discovery Rates, FDR, clearly explained",
+        "published_at": "2026-06-08T15:01:35Z",
+        "duration": "PT18M27S",
+        "view_count": "3178",
+        "like_count": "85",
+        "comment_count": "15"
+    },
+    {
+        "video_id": "aFDOzpTeg0s",
+        "title": "The Essence of Linear Regression!!!",
+        "published_at": "2026-05-18T04:00:01Z",
+        "duration": "PT32M1S",
+        "view_count": "33477",
+        "like_count": "1017",
+        "comment_count": "129"
+    },
+    {
+        "video_id": "q-BiW5srMFQ",
+        "title": "How AI works in Super Simple Terms!!!",
+        "published_at": "2026-01-12T05:01:06Z",
+        "duration": "PT22M51S",
+        "view_count": "35650",
+        "like_count": "1275",
+        "comment_count": "159"
+    },
+    {
+        "video_id": "WRYk7oZiogg",
+        "title": "StatQuest: Career Advice from Tech Industry Leaders",
+        "published_at": "2025-09-04T04:00:42Z",
+        "duration": "PT5M59S",
+        "view_count": "32746",
+        "like_count": "1090",
+        "comment_count": "97"
+    },
+    {
+        "video_id": "qPN_XZcJf_s",
+        "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
+        "published_at": "2025-05-05T04:01:03Z",
+        "duration": "PT18M2S",
+        "view_count": "64524",
+        "like_count": "1741",
+        "comment_count": "159"
+    },
+    {
+        "video_id": "DVGmsnxB2UQ",
+        "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
+        "published_at": "2025-04-14T04:00:27Z",
+        "duration": "PT25M1S",
+        "view_count": "32132",
+        "like_count": "790",
+        "comment_count": "71"
+    },
+    {
+        "video_id": "9hbQieQh7-o",
+        "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
+        "published_at": "2025-04-07T04:00:17Z",
+        "duration": "PT24M",
+        "view_count": "55828",
+        "like_count": "1409",
+        "comment_count": "109"
+    },
+    {
+        "video_id": "Z-T0iJEXiwM",
+        "title": "Reinforcement Learning: Essential Concepts",
+        "published_at": "2025-03-31T04:00:25Z",
+        "duration": "PT18M13S",
+        "view_count": "103862",
+        "like_count": "3450",
+        "comment_count": "218"
+    },
+    {
+        "video_id": "_kstkMF-lQQ",
+        "title": "StatQuest on DeepLearning.AI!!! Check out my short course on attention!",
+        "published_at": "2025-02-12T14:20:19Z",
+        "duration": "PT1M",
+        "view_count": "33052",
+        "like_count": "1365",
+        "comment_count": "71"
+    },
+    {
+        "video_id": "fivdgj5w0K0",
+        "title": "StatQuest with Josh Starmer is live!",
+        "published_at": "2025-02-06T19:12:02Z",
+        "duration": "PT59M55S",
+        "view_count": "9468",
+        "like_count": "193",
+        "comment_count": "25"
+    },
+    {
+        "video_id": "GDN649X_acE",
+        "title": "Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!",
+        "published_at": "2024-11-18T05:00:11Z",
+        "duration": "PT18M52S",
+        "view_count": "106169",
+        "like_count": "2866",
+        "comment_count": "201"
+    },
+    {
+        "video_id": "qJrmQe8TOTw",
+        "title": "Luis Serrano + Josh  Starmer Q&A Livestream!!!",
+        "published_at": "2024-10-10T04:04:08Z",
+        "duration": "PT54M35S",
+        "view_count": "5359",
+        "like_count": "120",
+        "comment_count": "12"
+    },
+    {
+        "video_id": "DkmfIQRDyXc",
+        "title": "Human Stories in AI: Nana Janashia@TechWorld With Nana",
+        "published_at": "2024-09-09T04:00:17Z",
+        "duration": "PT24M8S",
+        "view_count": "9228",
+        "like_count": "176",
+        "comment_count": "27"
+    },
+    {
+        "video_id": "0QOm7Sn5uwQ",
+        "title": "A few more lessons from my Pop!",
+        "published_at": "2024-09-04T04:00:00Z",
+        "duration": "PT4M40S",
+        "view_count": "8561",
+        "like_count": "373",
+        "comment_count": "57"
+    },
+    {
+        "video_id": "wIGOnM6Cf_E",
+        "title": "Human Stories in AI: Abbas Merchant@Matics Analytics",
+        "published_at": "2024-07-29T04:00:38Z",
+        "duration": "PT54M49S",
+        "view_count": "7665",
+        "like_count": "145",
+        "comment_count": "29"
+    },
+    {
+        "video_id": "jp_NcF9Oagk",
+        "title": "Luis Serrano + Jay Alammar + Josh  Starmer Q&A Livestream!!!",
+        "published_at": "2024-07-13T04:14:01Z",
+        "duration": "PT59M56S",
+        "view_count": "6745",
+        "like_count": "172",
+        "comment_count": "14"
+    },
+    {
+        "video_id": "C9QSpl5nmrY",
+        "title": "Coding a ChatGPT Like Transformer From Scratch in PyTorch",
+        "published_at": "2024-07-01T04:00:05Z",
+        "duration": "PT31M11S",
+        "view_count": "119020",
+        "like_count": "3207",
+        "comment_count": "272"
+    },
+    {
+        "video_id": "m8fvdRZb5CE",
+        "title": "Human Stories in AI: Amy Finnegan",
+        "published_at": "2024-06-17T04:00:34Z",
+        "duration": "PT28M25S",
+        "view_count": "6051",
+        "like_count": "87",
+        "comment_count": "9"
+    },
+    {
+        "video_id": "QhWZq8oBpVw",
+        "title": "Human Stories in AI: Xavier Moyá",
+        "published_at": "2024-06-03T04:00:15Z",
+        "duration": "PT32M33S",
+        "view_count": "5102",
+        "like_count": "65",
+        "comment_count": "12"
+    },
+    {
+        "video_id": "JV0S5f89-Q4",
+        "title": "Human Stories in AI: Tommy Tang",
+        "published_at": "2024-05-20T04:00:10Z",
+        "duration": "PT36M55S",
+        "view_count": "5384",
+        "like_count": "102",
+        "comment_count": "25"
+    },
+    {
+        "video_id": "UC5jflMmubs",
+        "title": "Luis Serrano + Josh Starmer Q&A Livestream!!!",
+        "published_at": "2024-05-11T04:01:07Z",
+        "duration": "PT57M30S",
+        "view_count": "6356",
+        "like_count": "165",
+        "comment_count": "62"
+    },
+    {
+        "video_id": "Oekl7K1iwxY",
+        "title": "Human Stories in AI: Simon Stochholm",
+        "published_at": "2024-04-29T11:50:30Z",
+        "duration": "PT37M27S",
+        "view_count": "5303",
+        "like_count": "95",
+        "comment_count": "23"
+    },
+    {
+        "video_id": "iujLN48gumk",
+        "title": "Log_e Song - Official Lyric Video",
+        "published_at": "2024-04-26T04:00:31Z",
+        "duration": "PT3M21S",
+        "view_count": "8218",
+        "like_count": "338",
+        "comment_count": "88"
+    },
+    {
+        "video_id": "s-8kQT-YVJg",
+        "title": "Human Stories in AI: Brian Risk@devra.ai",
+        "published_at": "2024-04-15T04:00:34Z",
+        "duration": "PT35M49S",
+        "view_count": "8247",
+        "like_count": "102",
+        "comment_count": "21"
+    },
+    {
+        "video_id": "KphmOJnLAdI",
+        "title": "The matrix math behind transformer neural networks, one step at a time!!!",
+        "published_at": "2024-04-08T04:00:09Z",
+        "duration": "PT23M43S",
+        "view_count": "92593",
+        "like_count": "1945",
+        "comment_count": "150"
+    },
+    {
+        "video_id": "l2hro8DemsM",
+        "title": "Human Stories in AI: Fabio Urbina",
+        "published_at": "2024-04-01T04:00:26Z",
+        "duration": "PT35M31S",
+        "view_count": "5335",
+        "like_count": "86",
+        "comment_count": "13"
+    },
+    {
+        "video_id": "fx0GGAANIus",
+        "title": "Human Stories in AI: Khushi Jain",
+        "published_at": "2024-03-18T04:00:18Z",
+        "duration": "PT27M13S",
+        "view_count": "10099",
+        "like_count": "161",
+        "comment_count": "20"
+    },
+    {
+        "video_id": "lA2baUE00uY",
+        "title": "Human Stories in AI: Achal Dixit",
+        "published_at": "2024-03-04T07:00:17Z",
+        "duration": "PT33M12S",
+        "view_count": "9868",
+        "like_count": "211",
+        "comment_count": "43"
+    },
+    {
+        "video_id": "QdXF69-EGEI",
+        "title": "Human Stories in AI: Rick Marks",
+        "published_at": "2024-02-19T12:41:38Z",
+        "duration": "PT31M13S",
+        "view_count": "15934",
+        "like_count": "262",
+        "comment_count": "26"
+    },
+    {
+        "video_id": "ZTt9gsGcdDo",
+        "title": "Essential Matrix Algebra for Neural Networks, Clearly Explained!!!",
+        "published_at": "2023-12-11T05:00:25Z",
+        "duration": "PT30M1S",
+        "view_count": "84378",
+        "like_count": "2359",
+        "comment_count": "194"
+    },
+    {
+        "video_id": "Qf06XDYXCXI",
+        "title": "Word Embedding in PyTorch + Lightning",
+        "published_at": "2023-11-06T13:03:55Z",
+        "duration": "PT32M2S",
+        "view_count": "52923",
+        "like_count": "1034",
+        "comment_count": "100"
+    },
+    {
+        "video_id": "rC9vw2dSpQo",
+        "title": "The Golden Play Button, Clearly Explained!!!’",
+        "published_at": "2023-10-07T00:30:48Z",
+        "duration": "PT2M30S",
+        "view_count": "27262",
+        "like_count": "2433",
+        "comment_count": "534"
+    },
+    {
+        "video_id": "Ka04Dj7DxGk",
+        "title": "Another 3 lessons from my Pop!!!",
+        "published_at": "2023-09-04T04:00:16Z",
+        "duration": "PT6M46S",
+        "view_count": "12477",
+        "like_count": "415",
+        "comment_count": "55"
+    },
+    {
+        "video_id": "bQ5BoolX9Ag",
+        "title": "Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!",
+        "published_at": "2023-08-28T04:00:30Z",
+        "duration": "PT36M45S",
+        "view_count": "234701",
+        "like_count": "5305",
+        "comment_count": "451"
+    },
+    {
+        "video_id": "zxQyTK8quyY",
+        "title": "Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!",
+        "published_at": "2023-07-24T04:00:34Z",
+        "duration": "PT36M15S",
+        "view_count": "1162780",
+        "like_count": "26314",
+        "comment_count": "1732"
+    },
+    {
+        "video_id": "8ZcccMzTz7Y",
+        "title": "What is a Logit?",
+        "published_at": "2023-06-19T04:00:04Z",
+        "duration": "PT29S",
+        "view_count": "36648",
+        "like_count": "1186",
+        "comment_count": "46"
+    },
+    {
+        "video_id": "YaQEUgIr4Mk",
+        "title": "Logistic vs Logit Functions",
+        "published_at": "2023-06-12T04:00:16Z",
+        "duration": "PT30S",
+        "view_count": "22137",
+        "like_count": "781",
+        "comment_count": "34"
+    },
+    {
+        "video_id": "PSs6nxngL6k",
+        "title": "Attention for Neural Networks, Clearly Explained!!!",
+        "published_at": "2023-06-05T04:00:19Z",
+        "duration": "PT15M51S",
+        "view_count": "456491",
+        "like_count": "8482",
+        "comment_count": "497"
+    },
+    {
+        "video_id": "953NHzFtGHc",
+        "title": "Likelihood vs Probability",
+        "published_at": "2023-05-15T04:00:08Z",
+        "duration": "PT30S",
+        "view_count": "97207",
+        "like_count": "5181",
+        "comment_count": "128"
+    },
+    {
+        "video_id": "02zO75hHpZQ",
+        "title": "p-values",
+        "published_at": "2023-05-15T04:00:00Z",
+        "duration": "PT23S",
+        "view_count": "15858",
+        "like_count": "535",
+        "comment_count": "20"
+    },
+    {
+        "video_id": "L8HKweZIOmg",
+        "title": "Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!",
+        "published_at": "2023-05-08T04:00:17Z",
+        "duration": "PT16M50S",
+        "view_count": "368352",
+        "like_count": "7031",
+        "comment_count": "470"
+    },
+    {
+        "video_id": "y8xRw76i1qY",
+        "title": "Matrix Multiplication",
+        "published_at": "2023-04-16T04:00:33Z",
+        "duration": "PT20S",
+        "view_count": "38620",
+        "like_count": "907",
+        "comment_count": "20"
+    },
+    {
+        "video_id": "LS6VX7noVWY",
+        "title": "Matrix Notation",
+        "published_at": "2023-04-16T04:00:09Z",
+        "duration": "PT20S",
+        "view_count": "10791",
+        "like_count": "403",
+        "comment_count": "20"
+    },
+    {
+        "video_id": "ZYDN25N5WhQ",
+        "title": "The Ukulele: Clearly Explained!!!",
+        "published_at": "2023-04-01T04:00:28Z",
+        "duration": "PT3M27S",
+        "view_count": "19281",
+        "like_count": "614",
+        "comment_count": "109"
+    },
+    {
+        "video_id": "ccjrsxXmfnw",
+        "title": "PCA Eigenvalues",
+        "published_at": "2023-03-21T17:13:30Z",
+        "duration": "PT32S",
+        "view_count": "57441",
+        "like_count": "2127",
+        "comment_count": "65"
+    },
+    {
+        "video_id": "bv9agba7blc",
+        "title": "PCA Eigenvectors",
+        "published_at": "2023-03-20T11:46:03Z",
+        "duration": "PT32S",
+        "view_count": "31577",
+        "like_count": "1413",
+        "comment_count": "35"
+    },
+    {
+        "video_id": "oZ9SrkF_-LE",
+        "title": "Normalized Data",
+        "published_at": "2023-03-20T11:45:51Z",
+        "duration": "PT34S",
+        "view_count": "11434",
+        "like_count": "435",
+        "comment_count": "14"
+    },
+    {
+        "video_id": "A88rDEf-pfk",
+        "title": "Standardized Data",
+        "published_at": "2023-03-20T11:45:47Z",
+        "duration": "PT29S",
+        "view_count": "14545",
+        "like_count": "626",
+        "comment_count": "16"
+    },
+    {
+        "video_id": "qioNUZGVH1A",
+        "title": "Type 2 Errors",
+        "published_at": "2023-03-20T11:45:38Z",
+        "duration": "PT28S",
+        "view_count": "10754",
+        "like_count": "476",
+        "comment_count": "15"
+    },
+    {
+        "video_id": "P4aYC1kS4d0",
+        "title": "Type 1 Errors",
+        "published_at": "2023-03-20T11:45:33Z",
+        "duration": "PT42S",
+        "view_count": "14995",
+        "like_count": "488",
+        "comment_count": "14"
+    },
+    {
+        "video_id": "viZrOnJclY0",
+        "title": "Word Embedding and Word2Vec, Clearly Explained!!!",
+        "published_at": "2023-03-13T04:00:23Z",
+        "duration": "PT16M12S",
+        "view_count": "584954",
+        "like_count": "13290",
+        "comment_count": "751"
+    },
+    {
+        "video_id": "yOJmPkyyZ18",
+        "title": "The AI Buzz, Episode #5: A new wave of AI-based products and the resurgence of personal applications",
+        "published_at": "2023-03-07T16:00:08Z",
+        "duration": "PT35M57S",
+        "view_count": "14394",
+        "like_count": "177",
+        "comment_count": "15"
+    },
+    {
+        "video_id": "3Bg2XRFOTzg",
+        "title": "CatBoost Part 2: Building and Using Trees",
+        "published_at": "2023-03-06T05:00:01Z",
+        "duration": "PT16M16S",
+        "view_count": "34936",
+        "like_count": "652",
+        "comment_count": "127"
+    },
+    {
+        "video_id": "KXOTSkPL2X4",
+        "title": "CatBoost Part 1: Ordered Target Encoding",
+        "published_at": "2023-02-27T05:00:07Z",
+        "duration": "PT8M32S",
+        "view_count": "65911",
+        "like_count": "1071",
+        "comment_count": "117"
+    },
+    {
+        "video_id": "tc4LGTVRXV8",
+        "title": "The AI Buzz, Episode #4: ChatGPT + Bing and How to start an AI company in 3 easy steps.",
+        "published_at": "2023-02-21T16:00:07Z",
+        "duration": "PT35M26S",
+        "view_count": "7966",
+        "like_count": "164",
+        "comment_count": "25"
+    },
+    {
+        "video_id": "589nCGeWG1w",
+        "title": "One-Hot, Label, Target and K-Fold Target Encoding, Clearly Explained!!!",
+        "published_at": "2023-02-13T05:00:03Z",
+        "duration": "PT15M23S",
+        "view_count": "106857",
+        "like_count": "3200",
+        "comment_count": "237"
+    },
+    {
+        "video_id": "5GqtRXY-80k",
+        "title": "The AI Buzz, Episode #3: Constitutional AI, Emergent Abilities and Foundation Models",
+        "published_at": "2023-02-07T16:00:10Z",
+        "duration": "PT33M43S",
+        "view_count": "5490",
+        "like_count": "105",
+        "comment_count": "11"
+    },
+    {
+        "video_id": "eJIp_mgVLwE",
+        "title": "Mutual Information, Clearly Explained!!!",
+        "published_at": "2023-02-06T05:00:15Z",
+        "duration": "PT16M14S",
+        "view_count": "188831",
+        "like_count": "4422",
+        "comment_count": "228"
+    },
+    {
+        "video_id": "e9U0QAFbfLI",
+        "title": "Cosine Similarity, Clearly Explained!!!",
+        "published_at": "2023-01-30T05:00:13Z",
+        "duration": "PT10M14S",
+        "view_count": "177920",
+        "like_count": "6787",
+        "comment_count": "486"
+    },
+    {
+        "video_id": "RHGiXPuo_pI",
+        "title": "Long Short-Term Memory with PyTorch + Lightning",
+        "published_at": "2023-01-24T21:21:53Z",
+        "duration": "PT33M24S",
+        "view_count": "95659",
+        "like_count": "1940",
+        "comment_count": "227"
+    },
+    {
+        "video_id": "1xBB8iAXxds",
+        "title": "The AI Buzz, Episode #2: Big data, Reinforcement Learning and Aligning Models",
+        "published_at": "2023-01-24T16:00:08Z",
+        "duration": "PT36M52S",
+        "view_count": "6502",
+        "like_count": "147",
+        "comment_count": "26"
+    },
+    {
+        "video_id": "k3b9Mvtt6lU",
+        "title": "The AI Buzz, Episode #1: ChatGPT, Transformers and Attention",
+        "published_at": "2023-01-11T00:26:52Z",
+        "duration": "PT38M21S",
+        "view_count": "27594",
+        "like_count": "501",
+        "comment_count": "53"
+    },
+    {
+        "video_id": "KiGsuKqaq0Y",
+        "title": "Design Matrix Examples in R, Clearly Explained!!!",
+        "published_at": "2022-11-18T19:27:04Z",
+        "duration": "PT8M20S",
+        "view_count": "13164",
+        "like_count": "197",
+        "comment_count": "39"
+    },
+    {
+        "video_id": "LoocDAbgwlM",
+        "title": "Design Matrices For Linear Models, Clearly Explained!!!",
+        "published_at": "2022-11-18T19:22:30Z",
+        "duration": "PT14M40S",
+        "view_count": "16823",
+        "like_count": "271",
+        "comment_count": "36"
+    },
+    {
+        "video_id": "R7xd624pR1A",
+        "title": "Using Linear Models for t tests and ANOVA, Clearly Explained!!!",
+        "published_at": "2022-11-18T19:19:19Z",
+        "duration": "PT11M38S",
+        "view_count": "85735",
+        "like_count": "1358",
+        "comment_count": "58"
+    },
+    {
+        "video_id": "mno47Jn4gaU",
+        "title": "Multiple Regression in R, Step by Step!!!",
+        "published_at": "2022-11-18T19:14:19Z",
+        "duration": "PT7M43S",
+        "view_count": "111297",
+        "like_count": "1906",
+        "comment_count": "86"
+    },
+    {
+        "video_id": "EkAQAi3a4js",
+        "title": "Multiple Regression, Clearly Explained!!!",
+        "published_at": "2022-11-18T19:11:48Z",
+        "duration": "PT5M25S",
+        "view_count": "356982",
+        "like_count": "3985",
+        "comment_count": "80"
+    },
+    {
+        "video_id": "wsi0jg_gH28",
+        "title": "Linear Regression in R, Step by Step",
+        "published_at": "2022-11-18T19:09:00Z",
+        "duration": "PT5M1S",
+        "view_count": "140175",
+        "like_count": "2495",
+        "comment_count": "79"
+    },
+    {
+        "video_id": "7ArmBVF2dCs",
+        "title": "Linear Regression, Clearly Explained!!!",
+        "published_at": "2022-11-18T19:08:44Z",
+        "duration": "PT27M27S",
+        "view_count": "683024",
+        "like_count": "11554",
+        "comment_count": "414"
+    },
+    {
+        "video_id": "bMccdk8EdGo",
+        "title": "R-squared, Clearly Explained!!!",
+        "published_at": "2022-11-18T18:55:45Z",
+        "duration": "PT11M1S",
+        "view_count": "321220",
+        "like_count": "6020",
+        "comment_count": "336"
+    },
+    {
+        "video_id": "YCzL96nL7j0",
+        "title": "Long Short-Term Memory (LSTM), Clearly Explained",
+        "published_at": "2022-11-07T05:00:15Z",
+        "duration": "PT20M45S",
+        "view_count": "1014762",
+        "like_count": "25048",
+        "comment_count": "1780"
+    },
+    {
+        "video_id": "c3xEDTh7Uc8",
+        "title": "The Cosine Similarity for NLP and CatBoost",
+        "published_at": "2022-11-01T15:47:08Z",
+        "duration": "PT43M40S",
+        "view_count": "13638",
+        "like_count": "405",
+        "comment_count": "43"
+    },
+    {
+        "video_id": "zxagGtF9MeU",
+        "title": "Happy Halloween (Neural Networks Are Not Scary)",
+        "published_at": "2022-10-31T04:00:30Z",
+        "duration": "PT59S",
+        "view_count": "487137",
+        "like_count": "5298",
+        "comment_count": "166"
+    },
+    {
+        "video_id": "K8ykIS1x_qQ",
+        "title": "Handmade Pasta, Clearly Explained!!!",
+        "published_at": "2022-10-25T04:00:06Z",
+        "duration": "PT6M59S",
+        "view_count": "9829",
+        "like_count": "433",
+        "comment_count": "82"
+    },
+    {
+        "video_id": "EzjtTh-WUWY",
+        "title": "Live Stream - More details about Target Encoding/AMA/Silly Songs",
+        "published_at": "2022-10-18T15:55:23Z",
+        "duration": "PT51M18S",
+        "view_count": "6666",
+        "like_count": "181",
+        "comment_count": "34"
+    },
+    {
+        "video_id": "Za9wm6HWkvo",
+        "title": "Live Stream - Target Encoding/AMA/Silly Songs!!!",
+        "published_at": "2022-10-05T04:00:22Z",
+        "duration": "PT57M25S",
+        "view_count": "8595",
+        "like_count": "223",
+        "comment_count": "38"
+    },
+    {
+        "video_id": "BgxBEKhaqyQ",
+        "title": "StatQuest with Josh Starmer Live Stream",
+        "published_at": "2022-09-19T11:56:32Z",
+        "duration": "P0D",
+        "view_count": "0",
+        "like_count": "0",
+        "comment_count": "0"
+    },
+    {
+        "video_id": "khMzi6xPbuM",
+        "title": "Introduction to Coding Neural Networks with PyTorch and Lightning",
+        "published_at": "2022-09-19T04:00:14Z",
+        "duration": "PT20M43S",
+        "view_count": "88982",
+        "like_count": "1965",
+        "comment_count": "224"
+    },
+    {
+        "video_id": "CHOir6-ZpkE",
+        "title": "Three more lessons from my Pop!!!",
+        "published_at": "2022-09-04T04:00:03Z",
+        "duration": "PT5M28S",
+        "view_count": "11822",
+        "like_count": "489",
+        "comment_count": "77"
+    },
+    {
+        "video_id": "AsNTP8Kwu80",
+        "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
+        "published_at": "2022-07-11T04:00:06Z",
+        "duration": "PT16M37S",
+        "view_count": "1015564",
+        "like_count": "23422",
+        "comment_count": "996"
+    },
+    {
+        "video_id": "80-Wpwf1_dg",
+        "title": "The StatQuest Illustrated Guide To Machine Learning, Theme Song!!!",
+        "published_at": "2022-05-09T04:00:03Z",
+        "duration": "PT15S",
+        "view_count": "34468",
+        "like_count": "1029",
+        "comment_count": "265"
+    },
+    {
+        "video_id": "FHdlXe1bSe4",
+        "title": "The StatQuest Introduction to PyTorch",
+        "published_at": "2022-04-25T04:00:12Z",
+        "duration": "PT23M22S",
+        "view_count": "216731",
+        "like_count": "5685",
+        "comment_count": "425"
+    },
+    {
+        "video_id": "W4sYsXGeCls",
+        "title": "Troll 2, Clearly Explained!!!",
+        "published_at": "2022-04-01T04:00:09Z",
+        "duration": "PT5M6S",
+        "view_count": "21347",
+        "like_count": "609",
+        "comment_count": "87"
+    },
+    {
+        "video_id": "aH3mZjHkAbs",
+        "title": "The Binomial Distribution in 30 Seconds!!!",
+        "published_at": "2022-03-22T18:39:32Z",
+        "duration": "PT30S",
+        "view_count": "35863",
+        "like_count": "1479",
+        "comment_count": "94"
+    },
+    {
+        "video_id": "jth4kEvJ3P8",
+        "title": "UMAP: Mathematical Details (clearly explained!!!)",
+        "published_at": "2022-03-14T16:00:13Z",
+        "duration": "PT16M2S",
+        "view_count": "49881",
+        "like_count": "1056",
+        "comment_count": "89"
+    },
+    {
+        "video_id": "eN0wFzBA4Sc",
+        "title": "UMAP Dimension Reduction, Main Ideas!!!",
+        "published_at": "2022-03-07T17:00:10Z",
+        "duration": "PT18M52S",
+        "view_count": "165148",
+        "like_count": "4176",
+        "comment_count": "245"
+    },
+    {
+        "video_id": "L35fFDpwIM4",
+        "title": "Tensors for Neural Networks, Clearly Explained!!!",
+        "published_at": "2022-02-28T17:00:11Z",
+        "duration": "PT9M40S",
+        "view_count": "268438",
+        "like_count": "8065",
+        "comment_count": "337"
+    },
+    {
+        "video_id": "PWvfrTgaPBI",
+        "title": "The Sensitivity, Specificity, Precision, Recall Sing-a-Long!!!",
+        "published_at": "2022-02-10T17:19:53Z",
+        "duration": "PT42S",
+        "view_count": "156242",
+        "like_count": "4077",
+        "comment_count": "209"
+    },
+    {
+        "video_id": "wtLQUjfomig",
+        "title": "The Exponential Distribution",
+        "published_at": "2022-01-14T19:44:47Z",
+        "duration": "PT16S",
+        "view_count": "154418",
+        "like_count": "2511",
+        "comment_count": "153"
+    },
+    {
+        "video_id": "-14BImgVENA",
+        "title": "The mean, the median, and the mode.",
+        "published_at": "2022-01-14T19:17:37Z",
+        "duration": "PT13S",
+        "view_count": "141631",
+        "like_count": "1687",
+        "comment_count": "65"
+    },
+    {
+        "video_id": "RDZUdRSDOok",
+        "title": "Clustering with DBSCAN, Clearly Explained!!!",
+        "published_at": "2022-01-10T12:51:02Z",
+        "duration": "PT9M30S",
+        "view_count": "523059",
+        "like_count": "15614",
+        "comment_count": "654"
+    },
+    {
+        "video_id": "6fWk_lQ_K5A",
+        "title": "Frank Starmer Clearly Explained (How my pop influenced StatQuest!!!)",
+        "published_at": "2021-09-04T04:00:01Z",
+        "duration": "PT6M28S",
+        "view_count": "36068",
+        "like_count": "1745",
+        "comment_count": "238"
+    },
+    {
+        "video_id": "YtebGVx-Fxw",
+        "title": "Entropy (for data science) Clearly Explained!!!",
+        "published_at": "2021-08-25T04:00:08Z",
+        "duration": "PT16M35S",
+        "view_count": "883325",
+        "like_count": "26486",
+        "comment_count": "1573"
+    },
+    {
+        "video_id": "9wCnvr7Xw4E",
+        "title": "Bayes' Theorem, Clearly Explained!!!!",
+        "published_at": "2021-08-16T04:00:05Z",
+        "duration": "PT14M",
+        "view_count": "506769",
+        "like_count": "10281",
+        "comment_count": "542"
+    },
+    {
+        "video_id": "_IgyaD7vOOA",
+        "title": "Conditional Probabilities, Clearly Explained!!!",
+        "published_at": "2021-07-21T04:00:12Z",
+        "duration": "PT10M56S",
+        "view_count": "327127",
+        "like_count": "9051",
+        "comment_count": "484"
+    },
+    {
+        "video_id": "N4ZQQqyIf6k",
+        "title": "Using Bootstrapping to Calculate p-values!!!",
+        "published_at": "2021-07-13T04:00:07Z",
+        "duration": "PT8M8S",
+        "view_count": "142848",
+        "like_count": "3386",
+        "comment_count": "285"
+    },
+    {
+        "video_id": "Xz0x-8-cgaQ",
+        "title": "Bootstrapping Main Ideas!!!",
+        "published_at": "2021-07-06T04:00:15Z",
+        "duration": "PT9M27S",
+        "view_count": "618834",
+        "like_count": "16992",
+        "comment_count": "742"
+    },
+    {
+        "video_id": "aOOaGLa8s4c",
+        "title": "Ken Jee's #66DaysOfData Challenge Clearly Explained!!!",
+        "published_at": "2021-06-23T20:44:27Z",
+        "duration": "PT6M22S",
+        "view_count": "18255",
+        "like_count": "617",
+        "comment_count": "71"
+    },
+    {
+        "video_id": "OSPr6G6Ka-U",
+        "title": "Expected Values for Continuous Variables!!!",
+        "published_at": "2021-06-22T04:00:06Z",
+        "duration": "PT19M44S",
+        "view_count": "132314",
+        "like_count": "3320",
+        "comment_count": "229"
+    },
+    {
+        "video_id": "ilUbD7EoQnk",
+        "title": "Three (3) things to do when starting out in Data Science",
+        "published_at": "2021-05-27T04:00:10Z",
+        "duration": "PT11M10S",
+        "view_count": "66964",
+        "like_count": "2260",
+        "comment_count": "167"
+    },
+    {
+        "video_id": "crLXJG-EAhk",
+        "title": "How to make your own StatQuest!!!",
+        "published_at": "2021-05-03T04:00:22Z",
+        "duration": "PT5M",
+        "view_count": "16963",
+        "like_count": "991",
+        "comment_count": "173"
+    },
+    {
+        "video_id": "_L39rN6gz7Y",
+        "title": "Decision and Classification Trees, Clearly Explained!!!",
+        "published_at": "2021-04-26T04:00:08Z",
+        "duration": "PT18M8S",
+        "view_count": "1271949",
+        "like_count": "25442",
+        "comment_count": "1035"
+    },
+    {
+        "video_id": "Llqoz1u8Pfk",
+        "title": "Silly Songs, Clearly Explained!!!",
+        "published_at": "2021-04-01T04:00:10Z",
+        "duration": "PT3M53S",
+        "view_count": "14092",
+        "like_count": "742",
+        "comment_count": "118"
+    },
+    {
+        "video_id": "KLs_7b7SKi4",
+        "title": "Expected Values, Main Ideas!!!",
+        "published_at": "2021-03-29T04:00:03Z",
+        "duration": "PT13M39S",
+        "view_count": "284394",
+        "like_count": "8834",
+        "comment_count": "502"
+    },
+    {
+        "video_id": "HGwBXDKFk9I",
+        "title": "Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)",
+        "published_at": "2021-03-08T05:00:12Z",
+        "duration": "PT15M24S",
+        "view_count": "425462",
+        "like_count": "12567",
+        "comment_count": "929"
+    },
+    {
+        "video_id": "xBEh66V9gZo",
+        "title": "Neural Networks Part 7: Cross Entropy Derivatives and Backpropagation",
+        "published_at": "2021-03-01T05:15:01Z",
+        "duration": "PT22M8S",
+        "view_count": "184285",
+        "like_count": "4252",
+        "comment_count": "384"
+    },
+    {
+        "video_id": "6ArSys5qHAU",
+        "title": "Neural Networks Part 6: Cross Entropy",
+        "published_at": "2021-03-01T05:00:01Z",
+        "duration": "PT9M31S",
+        "view_count": "353854",
+        "like_count": "8630",
+        "comment_count": "333"
+    },
+    {
+        "video_id": "M59JElEPgIg",
+        "title": "The SoftMax Derivative, Step-by-Step!!!",
+        "published_at": "2021-02-08T03:34:35Z",
+        "duration": "PT7M13S",
+        "view_count": "113742",
+        "like_count": "2483",
+        "comment_count": "129"
+    },
+    {
+        "video_id": "KpKog-L9veg",
+        "title": "Neural Networks Part 5: ArgMax and SoftMax",
+        "published_at": "2021-02-08T03:34:23Z",
+        "duration": "PT14M3S",
+        "view_count": "240793",
+        "like_count": "6195",
+        "comment_count": "305"
+    },
+    {
+        "video_id": "83LYR-1IcjA",
+        "title": "Neural Networks Pt. 4: Multiple Inputs and Outputs",
+        "published_at": "2021-02-01T05:00:03Z",
+        "duration": "PT13M50S",
+        "view_count": "237420",
+        "like_count": "5795",
+        "comment_count": "336"
+    },
+    {
+        "video_id": "0nK6iPpqNPU",
+        "title": "US Census Data and Contest!!!",
+        "published_at": "2020-12-08T01:00:16Z",
+        "duration": "PT8M36S",
+        "view_count": "16962",
+        "like_count": "296",
+        "comment_count": "52"
+    },
+    {
+        "video_id": "68BZ5f7P94E",
+        "title": "Neural Networks Pt. 3: ReLU In Action!!!",
+        "published_at": "2020-11-23T09:05:29Z",
+        "duration": "PT8M58S",
+        "view_count": "384388",
+        "like_count": "8438",
+        "comment_count": "361"
+    },
+    {
+        "video_id": "GKZoOHXGcLo",
+        "title": "Backpropagation Details Pt. 2: Going bonkers with The Chain Rule",
+        "published_at": "2020-11-02T05:15:01Z",
+        "duration": "PT13M9S",
+        "view_count": "194491",
+        "like_count": "5632",
+        "comment_count": "599"
+    },
+    {
+        "video_id": "iyn2zdALii8",
+        "title": "Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.",
+        "published_at": "2020-11-02T05:00:06Z",
+        "duration": "PT18M32S",
+        "view_count": "306378",
+        "like_count": "6669",
+        "comment_count": "400"
+    },
+    {
+        "video_id": "IN2XmBhILt4",
+        "title": "Neural Networks Pt. 2: Backpropagation Main Ideas",
+        "published_at": "2020-10-19T04:00:02Z",
+        "duration": "PT17M34S",
+        "view_count": "793001",
+        "like_count": "15379",
+        "comment_count": "679"
+    },
+    {
+        "video_id": "SEwxvjfxxmE",
+        "title": "What is AutoML? A conversation with Gnosis Data Analysis",
+        "published_at": "2020-09-07T04:00:08Z",
+        "duration": "PT15M21S",
+        "view_count": "39484",
+        "like_count": "1045",
+        "comment_count": "95"
+    },
+    {
+        "video_id": "CqOfi41LfDw",
+        "title": "The Essential Main Ideas of Neural Networks",
+        "published_at": "2020-08-31T04:00:03Z",
+        "duration": "PT18M54S",
+        "view_count": "1397385",
+        "like_count": "36635",
+        "comment_count": "2501"
+    },
+    {
+        "video_id": "GrJP9FLV3FE",
+        "title": "XGBoost in Python from Start to Finish",
+        "published_at": "2020-08-01T18:13:06Z",
+        "duration": "PT56M43S",
+        "view_count": "283579",
+        "like_count": "7562",
+        "comment_count": "788"
+    },
+    {
+        "video_id": "Y5tyrAxhmUc",
+        "title": "The Elements of StatQuest (Webinar)",
+        "published_at": "2020-07-20T04:00:03Z",
+        "duration": "PT1H13M39S",
+        "view_count": "9085",
+        "like_count": "362",
+        "comment_count": "103"
+    },
+    {
+        "video_id": "wl1myxrtQHQ",
+        "title": "The Chain Rule, Clearly Explained!!!",
+        "published_at": "2020-07-13T04:00:18Z",
+        "duration": "PT18M24S",
+        "view_count": "404982",
+        "like_count": "9945",
+        "comment_count": "628"
+    },
+    {
+        "video_id": "0oc49DyA3hU",
+        "title": "Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!",
+        "published_at": "2020-07-06T04:00:01Z",
+        "duration": "PT14M41S",
+        "view_count": "834398",
+        "like_count": "16216",
+        "comment_count": "618"
+    },
+    {
+        "video_id": "5koKb5B_YWo",
+        "title": "Alternative Hypotheses: Main Ideas!!!",
+        "published_at": "2020-07-06T04:00:00Z",
+        "duration": "PT9M50S",
+        "view_count": "213456",
+        "like_count": "5486",
+        "comment_count": "192"
+    },
+    {
+        "video_id": "8A7L0GsBiLQ",
+        "title": "Support Vector Machines in Python from Start to Finish.",
+        "published_at": "2020-06-30T17:34:48Z",
+        "duration": "PT44M49S",
+        "view_count": "159623",
+        "like_count": "4254",
+        "comment_count": "393"
+    },
+    {
+        "video_id": "isEcgoCmlO0",
+        "title": "Live 2020-06-15!!! Bootstrapping, Main Ideas",
+        "published_at": "2020-06-15T15:36:26Z",
+        "duration": "PT32M5S",
+        "view_count": "34579",
+        "like_count": "1355",
+        "comment_count": "204"
+    },
+    {
+        "video_id": "q90UDEgYqeI",
+        "title": "Classification Trees in Python from Start to Finish",
+        "published_at": "2020-06-07T01:50:06Z",
+        "duration": "PT1H6M24S",
+        "view_count": "218701",
+        "like_count": "4678",
+        "comment_count": "633"
+    },
+    {
+        "video_id": "H3EjCKtlVog",
+        "title": "Gaussian Naive Bayes, Clearly Explained!!!",
+        "published_at": "2020-06-03T12:36:37Z",
+        "duration": "PT9M26S",
+        "view_count": "440924",
+        "like_count": "9840",
+        "comment_count": "522"
+    },
+    {
+        "video_id": "O2L2Uv9pdDA",
+        "title": "Naive Bayes, Clearly Explained!!!",
+        "published_at": "2020-06-03T12:35:57Z",
+        "duration": "PT15M12S",
+        "view_count": "1391831",
+        "like_count": "34890",
+        "comment_count": "1811"
+    },
+    {
+        "video_id": "hGoTUyBnbxg",
+        "title": "Live 2020-06-01!!! Hypothesis Testing",
+        "published_at": "2020-06-01T15:35:49Z",
+        "duration": "PT31M20S",
+        "view_count": "18749",
+        "like_count": "763",
+        "comment_count": "104"
+    },
+    {
+        "video_id": "Xm2C_gTAl8c",
+        "title": "Ridge vs Lasso Regression, Visualized!!!",
+        "published_at": "2020-05-19T04:00:08Z",
+        "duration": "PT9M6S",
+        "view_count": "347529",
+        "like_count": "7924",
+        "comment_count": "471"
+    },
+    {
+        "video_id": "ONCOkccpk3w",
+        "title": "Live 2020-05-18!!! Bayes' Theorem",
+        "published_at": "2020-05-18T15:42:14Z",
+        "duration": "PT30M17S",
+        "view_count": "25763",
+        "like_count": "890",
+        "comment_count": "107"
+    },
+    {
+        "video_id": "iiN_J9S0KLM",
+        "title": "Live 2020-05-04!!! Conditional Probability",
+        "published_at": "2020-05-04T16:39:56Z",
+        "duration": "PT24M32S",
+        "view_count": "13621",
+        "like_count": "408",
+        "comment_count": "91"
+    },
+    {
+        "video_id": "Rsc5znwR5FA",
+        "title": "Statistical Power, Clearly Explained!!!",
+        "published_at": "2020-05-04T04:00:11Z",
+        "duration": "PT8M19S",
+        "view_count": "405881",
+        "like_count": "8809",
+        "comment_count": "377"
+    },
+    {
+        "video_id": "VX_M3tIyiYk",
+        "title": "Power Analysis, Clearly Explained!!!",
+        "published_at": "2020-05-04T04:00:11Z",
+        "duration": "PT16M45S",
+        "view_count": "402650",
+        "like_count": "7825",
+        "comment_count": "467"
+    },
+    {
+        "video_id": "HDCOUXE3HMM",
+        "title": "p-hacking: What it is and how to avoid it!",
+        "published_at": "2020-05-04T04:00:05Z",
+        "duration": "PT13M45S",
+        "view_count": "182341",
+        "like_count": "4764",
+        "comment_count": "304"
+    },
+    {
+        "video_id": "fU2PuYKsr6M",
+        "title": "Live 2020-04-20!!! Expected Values",
+        "published_at": "2020-04-20T16:46:34Z",
+        "duration": "PT33M",
+        "view_count": "21541",
+        "like_count": "893",
+        "comment_count": "152"
+    },
+    {
+        "video_id": "uHK1-Q8cKAw",
+        "title": "Live 2020-04-06!!! Naive Bayes: Gaussian",
+        "published_at": "2020-04-06T16:49:34Z",
+        "duration": "PT36M41S",
+        "view_count": "18403",
+        "like_count": "626",
+        "comment_count": "117"
+    },
+    {
+        "video_id": "i4iUvjsGCMc",
+        "title": "Bam!!! Clearly Explained!!!",
+        "published_at": "2020-04-01T04:00:14Z",
+        "duration": "PT2M49S",
+        "view_count": "71619",
+        "like_count": "3909",
+        "comment_count": "552"
+    },
+    {
+        "video_id": "JQc3yx0-Q9E",
+        "title": "How to calculate p-values",
+        "published_at": "2020-03-23T04:15:00Z",
+        "duration": "PT25M15S",
+        "view_count": "544327",
+        "like_count": "12841",
+        "comment_count": "879"
+    },
+    {
+        "video_id": "vemZtEM63GY",
+        "title": "p-values: What they are and how to interpret them",
+        "published_at": "2020-03-23T04:00:17Z",
+        "duration": "PT11M21S",
+        "view_count": "1526011",
+        "like_count": "33708",
+        "comment_count": "1231"
+    },
+    {
+        "video_id": "bTs-QA2oJSE",
+        "title": "Live 2020-03-16!!! Naive Bayes",
+        "published_at": "2020-03-16T13:49:34Z",
+        "duration": "PT33M51S",
+        "view_count": "28579",
+        "like_count": "1198",
+        "comment_count": "183"
+    },
+    {
+        "video_id": "8ECts3BErqk",
+        "title": "Live 2020-03-02!!! Virus Models and p-hacking",
+        "published_at": "2020-03-03T02:40:25Z",
+        "duration": "PT30M40S",
+        "view_count": "5987",
+        "like_count": "270",
+        "comment_count": "44"
+    },
+    {
+        "video_id": "oRrKeUCEbq8",
+        "title": "XGBoost Part 4 (of 4): Crazy Cool Optimizations",
+        "published_at": "2020-03-02T05:00:06Z",
+        "duration": "PT24M27S",
+        "view_count": "117224",
+        "like_count": "2584",
+        "comment_count": "228"
+    },
+    {
+        "video_id": "iTxzRVLoTQ0",
+        "title": "Live 2020-02-17!!! Imbalanced Data and Post-Hoc Tests",
+        "published_at": "2020-02-17T14:39:56Z",
+        "duration": "PT30M54S",
+        "view_count": "16790",
+        "like_count": "635",
+        "comment_count": "95"
+    },
+    {
+        "video_id": "ZVFeW798-2I",
+        "title": "XGBoost Part 3 (of 4): Mathematical Details",
+        "published_at": "2020-02-10T05:00:08Z",
+        "duration": "PT27M24S",
+        "view_count": "164294",
+        "like_count": "2464",
+        "comment_count": "318"
+    },
+    {
+        "video_id": "BKnM0MCGbVc",
+        "title": "Live 2020-02-03!!! Statistical Models, Regularization, Best ML Algorithm.",
+        "published_at": "2020-02-04T02:45:07Z",
+        "duration": "PT30M35S",
+        "view_count": "11215",
+        "like_count": "880",
+        "comment_count": "86"
+    },
+    {
+        "video_id": "pSWRT9pObX0",
+        "title": "Live 2020-01-20!!! Favorite ML, Data Leakage, How to Learn ML",
+        "published_at": "2020-01-20T14:34:50Z",
+        "duration": "PT25M42S",
+        "view_count": "12478",
+        "like_count": "549",
+        "comment_count": "86"
+    },
+    {
+        "video_id": "8b1JEDvenQU",
+        "title": "XGBoost Part 2 (of 4): Classification",
+        "published_at": "2020-01-13T12:30:01Z",
+        "duration": "PT25M18S",
+        "view_count": "303952",
+        "like_count": "4430",
+        "comment_count": "436"
+    },
+    {
+        "video_id": "jaXexgj2ONQ",
+        "title": "Live 2020-01-06!!! Sample Sizes, ML vs Statistics and a Poem",
+        "published_at": "2020-01-07T02:28:08Z",
+        "duration": "PT20M3S",
+        "view_count": "8865",
+        "like_count": "525",
+        "comment_count": "151"
+    },
+    {
+        "video_id": "OtD8wVaFm6E",
+        "title": "XGBoost Part 1 (of 4): Regression",
+        "published_at": "2019-12-16T14:00:04Z",
+        "duration": "PT25M46S",
+        "view_count": "891004",
+        "like_count": "11595",
+        "comment_count": "860"
+    },
+    {
+        "video_id": "vP06aMoz4v8",
+        "title": "Machine Learning Fundamentals: Sensitivity and Specificity",
+        "published_at": "2019-12-02T14:07:38Z",
+        "duration": "PT11M47S",
+        "view_count": "492086",
+        "like_count": "10517",
+        "comment_count": "418"
+    },
+    {
+        "video_id": "D0efHEJsfHo",
+        "title": "How to Prune Regression Trees, Clearly Explained!!!",
+        "published_at": "2019-11-25T10:59:44Z",
+        "duration": "PT16M15S",
+        "view_count": "305796",
+        "like_count": "6243",
+        "comment_count": "602"
+    },
+    {
+        "video_id": "Qc5IyLW_hns",
+        "title": "Support Vector Machines Part 3: The Radial (RBF) Kernel (Part 3 of 3)",
+        "published_at": "2019-11-04T13:00:06Z",
+        "duration": "PT15M52S",
+        "view_count": "346512",
+        "like_count": "9023",
+        "comment_count": "674"
+    },
+    {
+        "video_id": "Toet3EiSFcM",
+        "title": "Support Vector Machines Part 2: The Polynomial Kernel (Part 2 of 3)",
+        "published_at": "2019-11-04T12:00:05Z",
+        "duration": "PT7M15S",
+        "view_count": "439126",
+        "like_count": "8820",
+        "comment_count": "477"
+    },
+    {
+        "video_id": "efR1C6CvhmE",
+        "title": "Support Vector Machines Part 1 (of 3): Main Ideas!!!",
+        "published_at": "2019-09-30T18:45:50Z",
+        "duration": "PT20M32S",
+        "view_count": "1774780",
+        "like_count": "40276",
+        "comment_count": "2240"
+    },
+    {
+        "video_id": "g9c66TUylZ4",
+        "title": "Regression Trees, Clearly Explained!!!",
+        "published_at": "2019-08-20T00:30:00Z",
+        "duration": "PT22M33S",
+        "view_count": "829881",
+        "like_count": "18994",
+        "comment_count": "1381"
+    },
+    {
+        "video_id": "xZ_z8KWkhXE",
+        "title": "Pearson's Correlation, Clearly Explained!!!",
+        "published_at": "2019-08-05T15:30:03Z",
+        "duration": "PT19M13S",
+        "view_count": "488329",
+        "like_count": "10692",
+        "comment_count": "670"
+    },
+    {
+        "video_id": "qtaqvPAeEJY",
+        "title": "Covariance, Clearly Explained!!!",
+        "published_at": "2019-07-29T19:15:01Z",
+        "duration": "PT22M23S",
+        "view_count": "659874",
+        "like_count": "15447",
+        "comment_count": "856"
+    },
+    {
+        "video_id": "SzZ6GpcfoQY",
+        "title": "Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!",
+        "published_at": "2019-07-15T18:15:02Z",
+        "duration": "PT14M22S",
+        "view_count": "613937",
+        "like_count": "14212",
+        "comment_count": "631"
+    },
+    {
+        "video_id": "sHRBg6BhKjI",
+        "title": "Why Dividing By N Underestimates the Variance",
+        "published_at": "2019-07-15T18:15:02Z",
+        "duration": "PT17M15S",
+        "view_count": "157930",
+        "like_count": "5264",
+        "comment_count": "675"
+    },
+    {
+        "video_id": "4jRBRDbJemM",
+        "title": "ROC and AUC, Clearly Explained!",
+        "published_at": "2019-07-11T21:15:02Z",
+        "duration": "PT16M17S",
+        "view_count": "1957266",
+        "like_count": "45867",
+        "comment_count": "2365"
+    },
+    {
+        "video_id": "vikkiwjQqfU",
+        "title": "Population and Estimated Parameters, Clearly Explained!!!",
+        "published_at": "2019-07-01T17:30:00Z",
+        "duration": "PT14M31S",
+        "view_count": "497508",
+        "like_count": "9557",
+        "comment_count": "386"
+    },
+    {
+        "video_id": "vMh0zPT0tLI",
+        "title": "Stochastic Gradient Descent, Clearly Explained!!!",
+        "published_at": "2019-05-13T20:45:00Z",
+        "duration": "PT10M53S",
+        "view_count": "591230",
+        "like_count": "13477",
+        "comment_count": "580"
+    },
+    {
+        "video_id": "StWY5QWMXCw",
+        "title": "Gradient Boost Part 4 (of 4): Classification Details",
+        "published_at": "2019-04-22T15:30:00Z",
+        "duration": "PT37M",
+        "view_count": "158705",
+        "like_count": "3059",
+        "comment_count": "583"
+    },
+    {
+        "video_id": "jxuNLH5dXCs",
+        "title": "Gradient Boost Part 3 (of 4): Classification",
+        "published_at": "2019-04-08T14:00:04Z",
+        "duration": "PT17M3S",
+        "view_count": "332891",
+        "like_count": "6187",
+        "comment_count": "605"
+    },
+    {
+        "video_id": "HUzQIZLQxA0",
+        "title": "Saturday",
+        "published_at": "2019-04-06T02:00:00Z",
+        "duration": "PT3M10S",
+        "view_count": "32147",
+        "like_count": "1026",
+        "comment_count": "122"
+    },
+    {
+        "video_id": "2xudPOBz-vs",
+        "title": "Gradient Boost Part 2 (of 4): Regression Details",
+        "published_at": "2019-04-01T23:00:02Z",
+        "duration": "PT26M46S",
+        "view_count": "371195",
+        "like_count": "7859",
+        "comment_count": "969"
+    },
+    {
+        "video_id": "3CC4N4z3GJc",
+        "title": "Gradient Boost Part 1 (of 4): Regression Main Ideas",
+        "published_at": "2019-03-25T16:00:01Z",
+        "duration": "PT15M52S",
+        "view_count": "1056298",
+        "like_count": "15900",
+        "comment_count": "977"
+    },
+    {
+        "video_id": "xOOrxD92Wt4",
+        "title": "Last Night",
+        "published_at": "2019-03-02T22:30:01Z",
+        "duration": "PT3M32S",
+        "view_count": "10362",
+        "like_count": "380",
+        "comment_count": "63"
+    },
+    {
+        "video_id": "sDv4f4s2SB8",
+        "title": "Gradient Descent, Step-by-Step",
+        "published_at": "2019-02-05T16:15:01Z",
+        "duration": "PT23M54S",
+        "view_count": "1830567",
+        "like_count": "43725",
+        "comment_count": "3058"
+    },
+    {
+        "video_id": "Dr2aj85tcUI",
+        "title": "A Drink From The Well",
+        "published_at": "2019-02-01T17:30:00Z",
+        "duration": "PT3M2S",
+        "view_count": "9294",
+        "like_count": "257",
+        "comment_count": "57"
+    },
+    {
+        "video_id": "LsK-xG1cLYA",
+        "title": "AdaBoost, Clearly Explained",
+        "published_at": "2019-01-14T20:00:04Z",
+        "duration": "PT20M54S",
+        "view_count": "950897",
+        "like_count": "18998",
+        "comment_count": "1931"
+    },
+    {
+        "video_id": "CqLGvwi-5Pc",
+        "title": "Design Matrices For Linear Models, Clearly Explained!!!",
+        "published_at": "2019-01-08T02:00:00Z",
+        "duration": "PT14M40S",
+        "view_count": "176326",
+        "like_count": "2802",
+        "comment_count": "216"
+    },
+    {
+        "video_id": "F7Gqjbg3bWI",
+        "title": "Wildest Dreams",
+        "published_at": "2018-12-31T14:00:04Z",
+        "duration": "PT4M3S",
+        "view_count": "8380",
+        "like_count": "308",
+        "comment_count": "88"
+    },
+    {
+        "video_id": "qcvAqAH60Yw",
+        "title": "ROC and AUC in R",
+        "published_at": "2018-12-18T00:00:03Z",
+        "duration": "PT15M13S",
+        "view_count": "301323",
+        "like_count": "4081",
+        "comment_count": "391"
+    },
+    {
+        "video_id": "Rvm1aMwcraY",
+        "title": "Christmas Morning",
+        "published_at": "2018-12-01T17:30:00Z",
+        "duration": "PT3M46S",
+        "view_count": "5260",
+        "like_count": "171",
+        "comment_count": "39"
+    },
+    {
+        "video_id": "Gv9_4yMHFhI",
+        "title": "A Gentle Introduction to Machine Learning",
+        "published_at": "2018-11-26T17:00:01Z",
+        "duration": "PT12M45S",
+        "view_count": "1610828",
+        "like_count": "26207",
+        "comment_count": "1178"
+    },
+    {
+        "video_id": "hRdBqO4FFDs",
+        "title": "You Mean So Much",
+        "published_at": "2018-10-31T04:00:03Z",
+        "duration": "PT2M50S",
+        "view_count": "7547",
+        "like_count": "158",
+        "comment_count": "42"
+    },
+    {
+        "video_id": "Kdsp6soqA7o",
+        "title": "Machine Learning Fundamentals: The Confusion Matrix",
+        "published_at": "2018-10-29T14:00:01Z",
+        "duration": "PT7M13S",
+        "view_count": "965464",
+        "like_count": "21723",
+        "comment_count": "755"
+    },
+    {
+        "video_id": "ctmNq7FgbvI",
+        "title": "Ridge, Lasso and Elastic-Net Regression in R",
+        "published_at": "2018-10-23T13:30:00Z",
+        "duration": "PT17M51S",
+        "view_count": "144350",
+        "like_count": "2433",
+        "comment_count": "289"
+    },
+    {
+        "video_id": "1dKRdX9bfIo",
+        "title": "Regularization Part 3: Elastic Net Regression",
+        "published_at": "2018-10-08T13:06:13Z",
+        "duration": "PT5M19S",
+        "view_count": "255592",
+        "like_count": "5557",
+        "comment_count": "351"
+    },
+    {
+        "video_id": "NGf0voTMlcs",
+        "title": "Regularization Part 2: Lasso (L1) Regression",
+        "published_at": "2018-10-01T13:20:40Z",
+        "duration": "PT8M19S",
+        "view_count": "716347",
+        "like_count": "13464",
+        "comment_count": "696"
+    },
+    {
+        "video_id": "G9POY1cHn50",
+        "title": "Little Red Fiat",
+        "published_at": "2018-10-01T01:02:41Z",
+        "duration": "PT3M35S",
+        "view_count": "4849",
+        "like_count": "126",
+        "comment_count": "26"
+    },
+    {
+        "video_id": "Q81RR3yKn30",
+        "title": "Regularization Part 1: Ridge (L2) Regression",
+        "published_at": "2018-09-24T16:59:00Z",
+        "duration": "PT20M27S",
+        "view_count": "1399173",
+        "like_count": "24591",
+        "comment_count": "1657"
+    },
+    {
+        "video_id": "EuBBz3bI-aA",
+        "title": "Machine Learning Fundamentals: Bias and Variance",
+        "published_at": "2018-09-17T16:00:42Z",
+        "duration": "PT6M36S",
+        "view_count": "1736923",
+        "like_count": "46657",
+        "comment_count": "1628"
+    },
+    {
+        "video_id": "Dn6b9fCIUpM",
+        "title": "Maximum Likelihood For the Normal Distribution, step-by-step!!!",
+        "published_at": "2018-09-10T15:00:12Z",
+        "duration": "PT19M50S",
+        "view_count": "623694",
+        "like_count": "16778",
+        "comment_count": "1428"
+    },
+    {
+        "video_id": "YAlJCEDH2uY",
+        "title": "The Central Limit Theorem, Clearly Explained!!!",
+        "published_at": "2018-09-03T17:04:06Z",
+        "duration": "PT7M35S",
+        "view_count": "1108452",
+        "like_count": "26896",
+        "comment_count": "1254"
+    },
+    {
+        "video_id": "OxA6i3iJd7M",
+        "title": "Miss Carolina",
+        "published_at": "2018-09-01T00:51:18Z",
+        "duration": "PT2M42S",
+        "view_count": "4310",
+        "like_count": "81",
+        "comment_count": "23"
+    },
+    {
+        "video_id": "4KKV9yZCoM4",
+        "title": "Maximum Likelihood for the Binomial Distribution, Clearly Explained!!!",
+        "published_at": "2018-08-13T15:17:38Z",
+        "duration": "PT11M24S",
+        "view_count": "122677",
+        "like_count": "2412",
+        "comment_count": "206"
+    },
+    {
+        "video_id": "J8jNoF-K8E8",
+        "title": "The Binomial Distribution and Test, Clearly Explained!!!",
+        "published_at": "2018-08-06T19:58:36Z",
+        "duration": "PT15M47S",
+        "view_count": "348936",
+        "like_count": "8927",
+        "comment_count": "611"
+    },
+    {
+        "video_id": "tjLaxniTPmE",
+        "title": "Happy Days",
+        "published_at": "2018-08-02T01:40:27Z",
+        "duration": "PT2M55S",
+        "view_count": "3820",
+        "like_count": "111",
+        "comment_count": "32"
+    },
+    {
+        "video_id": "p3T-_LMrvBc",
+        "title": "Maximum Likelihood for the Exponential Distribution, Clearly Explained!!!",
+        "published_at": "2018-07-30T15:18:07Z",
+        "duration": "PT9M39S",
+        "view_count": "241608",
+        "like_count": "6503",
+        "comment_count": "391"
+    },
+    {
+        "video_id": "C4N3_XJJ-jU",
+        "title": "Logistic Regression in R, Clearly Explained!!!!",
+        "published_at": "2018-07-26T10:58:24Z",
+        "duration": "PT17M15S",
+        "view_count": "575660",
+        "like_count": "9470",
+        "comment_count": "677"
+    },
+    {
+        "video_id": "JC56jS2gVUE",
+        "title": "Deviance Residuals",
+        "published_at": "2018-07-16T16:26:47Z",
+        "duration": "PT6M18S",
+        "view_count": "105620",
+        "like_count": "1480",
+        "comment_count": "92"
+    },
+    {
+        "video_id": "9T0wlKdew6I",
+        "title": "Saturated Models and Deviance",
+        "published_at": "2018-07-09T18:48:49Z",
+        "duration": "PT18M40S",
+        "view_count": "137152",
+        "like_count": "2174",
+        "comment_count": "201"
+    },
+    {
+        "video_id": "EH4-RtVpsy4",
+        "title": "joe and sue",
+        "published_at": "2018-07-01T12:30:00Z",
+        "duration": "PT3M39S",
+        "view_count": "2927",
+        "like_count": "71",
+        "comment_count": "12"
+    },
+    {
+        "video_id": "8nm0G-1uJzA",
+        "title": "Odds Ratios and Log(Odds Ratios), Clearly Explained!!!",
+        "published_at": "2018-06-21T21:07:23Z",
+        "duration": "PT16M20S",
+        "view_count": "419050",
+        "like_count": "7522",
+        "comment_count": "489"
+    },
+    {
+        "video_id": "xxFYro8QuXA",
+        "title": "Logistic Regression Details Pt 3: R-squared and p-value",
+        "published_at": "2018-06-18T18:38:47Z",
+        "duration": "PT15M25S",
+        "view_count": "335819",
+        "like_count": "5452",
+        "comment_count": "306"
+    },
+    {
+        "video_id": "BfKanl1aSG0",
+        "title": "Logistic Regression Details Pt 2: Maximum Likelihood",
+        "published_at": "2018-06-11T17:48:12Z",
+        "duration": "PT10M23S",
+        "view_count": "548991",
+        "like_count": "8781",
+        "comment_count": "891"
+    },
+    {
+        "video_id": "vN5cNN2-HWE",
+        "title": "Logistic Regression Details Pt1: Coefficients",
+        "published_at": "2018-06-04T14:13:50Z",
+        "duration": "PT19M2S",
+        "view_count": "1083338",
+        "like_count": "16412",
+        "comment_count": "854"
+    },
+    {
+        "video_id": "Glr8Qk3OZHc",
+        "title": "A War That We Can Win",
+        "published_at": "2018-06-02T11:32:59Z",
+        "duration": "PT3M56S",
+        "view_count": "3110",
+        "like_count": "87",
+        "comment_count": "53"
+    },
+    {
+        "video_id": "4b5d3muPQmA",
+        "title": "StatQuest: K-means clustering",
+        "published_at": "2018-05-23T20:18:55Z",
+        "duration": "PT8M30S",
+        "view_count": "2199798",
+        "like_count": "41796",
+        "comment_count": "1382"
+    },
+    {
+        "video_id": "ARfXDSkQf1Y",
+        "title": "Odds and Log(Odds), Clearly Explained!!!",
+        "published_at": "2018-05-07T17:30:36Z",
+        "duration": "PT11M31S",
+        "view_count": "451353",
+        "like_count": "12514",
+        "comment_count": "748"
+    },
+    {
+        "video_id": "069WKnPyFnw",
+        "title": "Hey Dom",
+        "published_at": "2018-04-28T19:15:50Z",
+        "duration": "PT2M18S",
+        "view_count": "3360",
+        "like_count": "84",
+        "comment_count": "16"
+    },
+    {
+        "video_id": "fSytzGwwBVw",
+        "title": "Machine Learning Fundamentals: Cross Validation",
+        "published_at": "2018-04-24T18:37:54Z",
+        "duration": "PT6M5S",
+        "view_count": "1479305",
+        "like_count": "41535",
+        "comment_count": "1723"
+    },
+    {
+        "video_id": "nkWGmaYRues",
+        "title": "StatQuest: A gentle introduction to ChIP-Seq",
+        "published_at": "2018-04-16T20:12:28Z",
+        "duration": "PT8M30S",
+        "view_count": "174143",
+        "like_count": "4778",
+        "comment_count": "218"
+    },
+    {
+        "video_id": "_ft2yqArm-I",
+        "title": "StatQuest: 10,000 Subscriber Milestone",
+        "published_at": "2018-04-11T12:30:00Z",
+        "duration": "PT1M13S",
+        "view_count": "1183",
+        "like_count": "86",
+        "comment_count": "35"
+    },
+    {
+        "video_id": "oRvgq966yZg",
+        "title": "StatQuest: PCA - Practical Tips",
+        "published_at": "2018-04-09T14:13:54Z",
+        "duration": "PT8M20S",
+        "view_count": "226819",
+        "like_count": "4827",
+        "comment_count": "185"
+    },
+    {
+        "video_id": "FgakZw6K1QQ",
+        "title": "StatQuest: Principal Component Analysis (PCA), Step-by-Step",
+        "published_at": "2018-04-02T20:06:10Z",
+        "duration": "PT21M58S",
+        "view_count": "3664358",
+        "like_count": "72598",
+        "comment_count": "4915"
+    },
+    {
+        "video_id": "kLQD8EJmnx8",
+        "title": "Darling of Mine",
+        "published_at": "2018-04-01T17:41:45Z",
+        "duration": "PT3M18S",
+        "view_count": "4137",
+        "like_count": "154",
+        "comment_count": "21"
+    },
+    {
+        "video_id": "pYxNSUDSFH4",
+        "title": "In Statistics, Probability is not Likelihood.",
+        "published_at": "2018-03-09T19:38:43Z",
+        "duration": "PT5M1S",
+        "view_count": "1546334",
+        "like_count": "42413",
+        "comment_count": "1505"
+    },
+    {
+        "video_id": "yIYKR4sgzI8",
+        "title": "StatQuest: Logistic Regression",
+        "published_at": "2018-03-05T15:17:39Z",
+        "duration": "PT8M48S",
+        "view_count": "2773153",
+        "like_count": "47310",
+        "comment_count": "1301"
+    },
+    {
+        "video_id": "nuumjAsHTxk",
+        "title": "Sunday Best",
+        "published_at": "2018-03-01T15:32:02Z",
+        "duration": "PT3M53S",
+        "view_count": "1110",
+        "like_count": "21",
+        "comment_count": "2"
+    },
+    {
+        "video_id": "6EXPYzbfLCE",
+        "title": "StatQuest: Random Forests in R",
+        "published_at": "2018-02-26T16:44:24Z",
+        "duration": "PT15M10S",
+        "view_count": "180259",
+        "like_count": "3320",
+        "comment_count": "407"
+    },
+    {
+        "video_id": "J4Wdy0Wc_xQ",
+        "title": "StatQuest: Random Forests Part 1 - Building, Using and Evaluating",
+        "published_at": "2018-02-05T15:55:40Z",
+        "duration": "PT9M54S",
+        "view_count": "1455670",
+        "like_count": "23997",
+        "comment_count": "1417"
+    },
+    {
+        "video_id": "lrR9odYNNzs",
+        "title": "Love Song",
+        "published_at": "2018-01-29T15:18:45Z",
+        "duration": "PT3M14S",
+        "view_count": "4021",
+        "like_count": "106",
+        "comment_count": "25"
+    },
+    {
+        "video_id": "wpNl-JwwplA",
+        "title": "StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data",
+        "published_at": "2018-01-29T15:06:20Z",
+        "duration": "PT5M16S",
+        "view_count": "264647",
+        "like_count": "4553",
+        "comment_count": "196"
+    },
+    {
+        "video_id": "Lsue2gEM9D0",
+        "title": "StatQuest: PCA in Python",
+        "published_at": "2018-01-08T21:06:15Z",
+        "duration": "PT11M37S",
+        "view_count": "228629",
+        "like_count": "5279",
+        "comment_count": "420"
+    },
+    {
+        "video_id": "kGIIJ8rIrfs",
+        "title": "She Blinded Me With Science!!!",
+        "published_at": "2018-01-01T13:14:47Z",
+        "duration": "PT3M42S",
+        "view_count": "6811",
+        "like_count": "104",
+        "comment_count": "10"
+    },
+    {
+        "video_id": "pGAUHhLYp5Q",
+        "title": "StatQuest: MDS and PCoA in R",
+        "published_at": "2017-12-18T22:56:21Z",
+        "duration": "PT7M45S",
+        "view_count": "49077",
+        "like_count": "607",
+        "comment_count": "45"
+    },
+    {
+        "video_id": "GEn-_dAyYME",
+        "title": "StatQuest: MDS and PCoA",
+        "published_at": "2017-12-11T15:41:29Z",
+        "duration": "PT8M18S",
+        "view_count": "229138",
+        "like_count": "3998",
+        "comment_count": "212"
+    },
+    {
+        "video_id": "HMOI_lkzW08",
+        "title": "StatQuest: PCA main ideas in only 5 minutes!!!",
+        "published_at": "2017-12-04T20:18:06Z",
+        "duration": "PT6M5S",
+        "view_count": "1625862",
+        "like_count": "32048",
+        "comment_count": "809"
+    },
+    {
+        "video_id": "adx4fsdwpfM",
+        "title": "Snow",
+        "published_at": "2017-11-29T13:35:13Z",
+        "duration": "PT2M50S",
+        "view_count": "1130",
+        "like_count": "45",
+        "comment_count": "9"
+    },
+    {
+        "video_id": "0Jp4gsfOLMs",
+        "title": "StatQuest: PCA in R",
+        "published_at": "2017-11-27T14:35:50Z",
+        "duration": "PT8M57S",
+        "view_count": "333744",
+        "like_count": "4935",
+        "comment_count": "359"
+    },
+    {
+        "video_id": "ecjN6Xpv6SE",
+        "title": "Quantile Normalization, Clearly Explained!!!",
+        "published_at": "2017-11-20T10:51:06Z",
+        "duration": "PT4M52S",
+        "view_count": "85964",
+        "like_count": "1956",
+        "comment_count": "123"
+    },
+    {
+        "video_id": "okjYjClSjOg",
+        "title": "Quantile-Quantile Plots (QQ plots), Clearly Explained!!!",
+        "published_at": "2017-11-13T13:09:12Z",
+        "duration": "PT6M56S",
+        "view_count": "642332",
+        "like_count": "10427",
+        "comment_count": "514"
+    },
+    {
+        "video_id": "IFKQLDmRK0Y",
+        "title": "Quantiles and Percentiles, Clearly Explained!!!",
+        "published_at": "2017-11-06T17:42:22Z",
+        "duration": "PT6M30S",
+        "view_count": "378626",
+        "like_count": "7192",
+        "comment_count": "281"
+    },
+    {
+        "video_id": "Lg0okx38rOQ",
+        "title": "A Song For Only You",
+        "published_at": "2017-10-31T04:00:01Z",
+        "duration": "PT3M26S",
+        "view_count": "1071",
+        "like_count": "40",
+        "comment_count": "7"
+    },
+    {
+        "video_id": "hokALdIst8k",
+        "title": "Multiple Regression in R, Step-by-Step!!!",
+        "published_at": "2017-10-30T16:56:57Z",
+        "duration": "PT7M43S",
+        "view_count": "195164",
+        "like_count": "3375",
+        "comment_count": "220"
+    },
+    {
+        "video_id": "zITIFTsivN8",
+        "title": "Multiple Regression, Clearly Explained!!!",
+        "published_at": "2017-10-30T16:52:41Z",
+        "duration": "PT5M25S",
+        "view_count": "659894",
+        "like_count": "7456",
+        "comment_count": "230"
+    },
+    {
+        "video_id": "67zCIqdeXpo",
+        "title": "Sample Size and Effective Sample Size, Clearly Explained!!!",
+        "published_at": "2017-10-23T19:41:10Z",
+        "duration": "PT6M33S",
+        "view_count": "125300",
+        "like_count": "1850",
+        "comment_count": "88"
+    },
+    {
+        "video_id": "Exk0OoRG0PQ",
+        "title": "The Difference Between Technical and Biological Replicates",
+        "published_at": "2017-10-09T15:20:45Z",
+        "duration": "PT5M27S",
+        "view_count": "77879",
+        "like_count": "1541",
+        "comment_count": "73"
+    },
+    {
+        "video_id": "rzFX5NWojp0",
+        "title": "The Normal Distribution, Clearly Explained!!!",
+        "published_at": "2017-10-09T15:12:09Z",
+        "duration": "PT5M13S",
+        "view_count": "2055596",
+        "like_count": "35707",
+        "comment_count": "898"
+    },
+    {
+        "video_id": "Hrr2anyK_5s",
+        "title": "Design Matrix Examples in R, Clearly Explained!!!",
+        "published_at": "2017-10-03T00:13:45Z",
+        "duration": "PT8M20S",
+        "view_count": "51059",
+        "like_count": "789",
+        "comment_count": "77"
+    },
+    {
+        "video_id": "Odt_r4cAD8A",
+        "title": "Employee Of The Week",
+        "published_at": "2017-10-01T15:25:44Z",
+        "duration": "PT3M17S",
+        "view_count": "2226",
+        "like_count": "39",
+        "comment_count": "6"
+    },
+    {
+        "video_id": "qBigTkBLU6g",
+        "title": "StatQuest: Histograms, Clearly Explained",
+        "published_at": "2017-09-25T13:38:28Z",
+        "duration": "PT3M42S",
+        "view_count": "1064668",
+        "like_count": "17399",
+        "comment_count": "472"
+    },
+    {
+        "video_id": "NEaUSP4YerM",
+        "title": "StatQuest: t-SNE, Clearly Explained",
+        "published_at": "2017-09-18T14:55:30Z",
+        "duration": "PT11M48S",
+        "view_count": "568421",
+        "like_count": "13235",
+        "comment_count": "789"
+    },
+    {
+        "video_id": "arSkMA2uLFU",
+        "title": "I'm Alive",
+        "published_at": "2017-09-02T20:00:12Z",
+        "duration": "PT3M26S",
+        "view_count": "2052",
+        "like_count": "62",
+        "comment_count": "10"
+    },
+    {
+        "video_id": "tlf6wYJrwKY",
+        "title": "StatQuest: A gentle introduction to RNA-seq",
+        "published_at": "2017-08-31T18:28:40Z",
+        "duration": "PT18M26S",
+        "view_count": "597368",
+        "like_count": "13176",
+        "comment_count": "593"
+    },
+    {
+        "video_id": "01205ys-GtI",
+        "title": "StatQuest: How to make a Mean Pizza Crust!!!",
+        "published_at": "2017-08-31T18:07:09Z",
+        "duration": "PT8M12S",
+        "view_count": "9734",
+        "like_count": "329",
+        "comment_count": "53"
+    },
+    {
+        "video_id": "NF5_btOaCig",
+        "title": "Using Linear Models for t-tests and ANOVA, Clearly Explained!!!",
+        "published_at": "2017-08-07T15:26:19Z",
+        "duration": "PT11M38S",
+        "view_count": "492594",
+        "like_count": "6975",
+        "comment_count": "427"
+    },
+    {
+        "video_id": "UY8iYbxuzjc",
+        "title": "Brothers",
+        "published_at": "2017-07-31T21:28:31Z",
+        "duration": "PT3M26S",
+        "view_count": "925",
+        "like_count": "25",
+        "comment_count": "6"
+    },
+    {
+        "video_id": "XepXtl9YKwc",
+        "title": "Maximum Likelihood, clearly explained!!!",
+        "published_at": "2017-07-31T17:26:45Z",
+        "duration": "PT6M12S",
+        "view_count": "1762050",
+        "like_count": "35490",
+        "comment_count": "1439"
+    },
+    {
+        "video_id": "u1cc1r_Y7M0",
+        "title": "Linear Regression in R, Step-by-Step",
+        "published_at": "2017-07-25T15:29:00Z",
+        "duration": "PT5M1S",
+        "view_count": "261352",
+        "like_count": "4745",
+        "comment_count": "249"
+    },
+    {
+        "video_id": "nk2CQITm_eo",
+        "title": "Linear Regression, Clearly Explained!!!",
+        "published_at": "2017-07-24T19:06:27Z",
+        "duration": "PT27M27S",
+        "view_count": "1578644",
+        "like_count": "25615",
+        "comment_count": "1673"
+    },
+    {
+        "video_id": "yQhTtdq_y9M",
+        "title": "What is a (mathematical) model?",
+        "published_at": "2017-07-17T15:31:28Z",
+        "duration": "PT3M45S",
+        "view_count": "292253",
+        "like_count": "5492",
+        "comment_count": "116"
+    },
+    {
+        "video_id": "fHLhBnmwUM0",
+        "title": "Boxplots are Awesome!!!",
+        "published_at": "2017-07-11T00:25:59Z",
+        "duration": "PT2M33S",
+        "view_count": "162107",
+        "like_count": "3212",
+        "comment_count": "112"
+    },
+    {
+        "video_id": "FKM7hZKYEqw",
+        "title": "Your Dark Side",
+        "published_at": "2017-07-01T14:39:57Z",
+        "duration": "PT3M39S",
+        "view_count": "1212",
+        "like_count": "38",
+        "comment_count": "6"
+    },
+    {
+        "video_id": "HVXime0nQeI",
+        "title": "StatQuest: K-nearest neighbors, Clearly Explained",
+        "published_at": "2017-06-26T18:54:55Z",
+        "duration": "PT5M30S",
+        "view_count": "807313",
+        "like_count": "14831",
+        "comment_count": "493"
+    },
+    {
+        "video_id": "7xHsRkOdVwo",
+        "title": "StatQuest: Hierarchical Clustering",
+        "published_at": "2017-06-20T12:33:24Z",
+        "duration": "PT11M19S",
+        "view_count": "562691",
+        "like_count": "11408",
+        "comment_count": "419"
+    },
+    {
+        "video_id": "Vf7oJ6z2LCc",
+        "title": "Lowess and Loess, Clearly Explained!!!",
+        "published_at": "2017-06-05T17:17:53Z",
+        "duration": "PT10M10S",
+        "view_count": "156724",
+        "like_count": "3247",
+        "comment_count": "209"
+    },
+    {
+        "video_id": "BXeZgqXAKAU",
+        "title": "The Sum of Regrets",
+        "published_at": "2017-05-31T22:10:10Z",
+        "duration": "PT3M57S",
+        "view_count": "971",
+        "like_count": "31",
+        "comment_count": "15"
+    },
+    {
+        "video_id": "PaFPbb66DxQ",
+        "title": "The Main Ideas of Fitting a Line to Data (The Main Ideas of Least Squares and Linear Regression.)",
+        "published_at": "2017-05-22T20:37:28Z",
+        "duration": "PT9M22S",
+        "view_count": "841727",
+        "like_count": "15056",
+        "comment_count": "757"
+    },
+    {
+        "video_id": "Gi0JdrxRq5s",
+        "title": "StatQuest: edgeR and DESeq2, part 2 - Independent Filtering",
+        "published_at": "2017-05-16T13:15:19Z",
+        "duration": "PT21M24S",
+        "view_count": "55153",
+        "like_count": "712",
+        "comment_count": "61"
+    },
+    {
+        "video_id": "XLCWeSVzHUU",
+        "title": "Sampling from a Distribution, Clearly Explained!!!",
+        "published_at": "2017-05-08T13:47:35Z",
+        "duration": "PT3M49S",
+        "view_count": "293781",
+        "like_count": "4663",
+        "comment_count": "129"
+    },
+    {
+        "video_id": "TGvLteZCdAc",
+        "title": "Evil Genius",
+        "published_at": "2017-04-30T20:34:01Z",
+        "duration": "PT2M57S",
+        "view_count": "1739",
+        "like_count": "41",
+        "comment_count": "3"
+    },
+    {
+        "video_id": "bsZGt-caXO4",
+        "title": "StatQuest:  One or Two Tailed P-Values",
+        "published_at": "2017-04-24T21:17:32Z",
+        "duration": "PT7M6S",
+        "view_count": "65616",
+        "like_count": "1151",
+        "comment_count": "72"
+    },
+    {
+        "video_id": "oI3hZJqXJuc",
+        "title": "The Main Ideas behind Probability Distributions",
+        "published_at": "2017-04-17T17:55:46Z",
+        "duration": "PT5M15S",
+        "view_count": "621749",
+        "like_count": "11326",
+        "comment_count": "319"
+    },
+    {
+        "video_id": "Wdt6jdi-NQo",
+        "title": "StatQuest: edgeR, part 1, Library Normalization",
+        "published_at": "2017-04-03T16:19:36Z",
+        "duration": "PT14M17S",
+        "view_count": "46992",
+        "like_count": "690",
+        "comment_count": "59"
+    },
+    {
+        "video_id": "Mgm-T-dILAQ",
+        "title": "The Rainbow",
+        "published_at": "2017-03-31T20:28:37Z",
+        "duration": "PT3M33S",
+        "view_count": "994",
+        "like_count": "32",
+        "comment_count": "7"
+    },
+    {
+        "video_id": "UFB993xufUU",
+        "title": "StatQuest: DESeq2, part 1, Library Normalization",
+        "published_at": "2017-03-27T16:06:30Z",
+        "duration": "PT12M42S",
+        "view_count": "112100",
+        "like_count": "1748",
+        "comment_count": "149"
+    },
+    {
+        "video_id": "A82brFpdr9g",
+        "title": "Standard Deviation vs Standard Error, Clearly Explained!!!",
+        "published_at": "2017-03-20T15:03:59Z",
+        "duration": "PT2M52S",
+        "view_count": "685728",
+        "like_count": "12941",
+        "comment_count": "541"
+    },
+    {
+        "video_id": "udyAvvaMjfM",
+        "title": "Fisher's Exact Test and the Hypergeometric Distribution",
+        "published_at": "2017-03-13T20:00:30Z",
+        "duration": "PT5M15S",
+        "view_count": "145962",
+        "like_count": "2139",
+        "comment_count": "123"
+    },
+    {
+        "video_id": "nnBJeb_I-q8",
+        "title": "StatQuickie: Which t test to use",
+        "published_at": "2017-03-06T19:51:38Z",
+        "duration": "PT5M10S",
+        "view_count": "58193",
+        "like_count": "1383",
+        "comment_count": "81"
+    },
+    {
+        "video_id": "aVvTVYi5vBk",
+        "title": "Mr  Hattie",
+        "published_at": "2017-02-27T23:19:48Z",
+        "duration": "PT3M5S",
+        "view_count": "953",
+        "like_count": "30",
+        "comment_count": "7"
+    },
+    {
+        "video_id": "RiEZ_hEf96A",
+        "title": "Bar Charts Are Better than Pie Charts",
+        "published_at": "2017-02-27T14:39:07Z",
+        "duration": "PT1M45S",
+        "view_count": "41457",
+        "like_count": "920",
+        "comment_count": "37"
+    },
+    {
+        "video_id": "VSi0Z04fWj0",
+        "title": "Logs (logarithms), Clearly Explained!!!",
+        "published_at": "2017-02-23T17:12:08Z",
+        "duration": "PT15M37S",
+        "view_count": "159519",
+        "like_count": "4002",
+        "comment_count": "291"
+    },
+    {
+        "video_id": "KEofcJ1tfkI",
+        "title": "StatQuickie: Thresholds for Significance",
+        "published_at": "2017-02-22T16:20:16Z",
+        "duration": "PT6M40S",
+        "view_count": "37723",
+        "like_count": "847",
+        "comment_count": "68"
+    },
+    {
+        "video_id": "zXEvFLj2880",
+        "title": "A New Song",
+        "published_at": "2017-01-31T23:28:27Z",
+        "duration": "PT3M32S",
+        "view_count": "986",
+        "like_count": "29",
+        "comment_count": "10"
+    },
+    {
+        "video_id": "K8LQSvtjcEo",
+        "title": "False Discovery Rates, FDR, clearly explained",
+        "published_at": "2017-01-10T13:40:32Z",
+        "duration": "PT18M27S",
+        "view_count": "265332",
+        "like_count": "5268",
+        "comment_count": "481"
+    },
+    {
+        "video_id": "MIgCbrNJyGo",
+        "title": "Psycho Killer",
+        "published_at": "2017-01-02T16:28:35Z",
+        "duration": "PT4M35S",
+        "view_count": "1883",
+        "like_count": "60",
+        "comment_count": "16"
+    },
+    {
+        "video_id": "68e5i5D8qYU",
+        "title": "The Coldest Day of the Year",
+        "published_at": "2016-11-29T03:05:36Z",
+        "duration": "PT3M56S",
+        "view_count": "899",
+        "like_count": "18",
+        "comment_count": "3"
+    },
+    {
+        "video_id": "DyaQp6Cz8RA",
+        "title": "I Love You",
+        "published_at": "2016-10-31T14:15:17Z",
+        "duration": "PT3M4S",
+        "view_count": "1740",
+        "like_count": "49",
+        "comment_count": "13"
+    },
+    {
+        "video_id": "UFhJefdVCjE",
+        "title": "p-hacking and power calculations",
+        "published_at": "2016-10-11T17:46:29Z",
+        "duration": "PT19M12S",
+        "view_count": "48231",
+        "like_count": "1056",
+        "comment_count": "79"
+    },
+    {
+        "video_id": "Rblav_ehMTE",
+        "title": "Roses",
+        "published_at": "2016-10-01T16:24:14Z",
+        "duration": "PT3M29S",
+        "view_count": "476",
+        "like_count": "14",
+        "comment_count": "7"
+    },
+    {
+        "video_id": "G-9USywzN3E",
+        "title": "Nasty Weather",
+        "published_at": "2016-08-31T22:15:22Z",
+        "duration": "PT3M33S",
+        "view_count": "936",
+        "like_count": "19",
+        "comment_count": "6"
+    },
+    {
+        "video_id": "R6ALolnItXg",
+        "title": "Maybe It'll Go Away",
+        "published_at": "2016-07-26T07:40:57Z",
+        "duration": "PT3M50S",
+        "view_count": "1357",
+        "like_count": "24",
+        "comment_count": "4"
+    },
+    {
+        "video_id": "azXCzI57Yfc",
+        "title": "StatQuest: Linear Discriminant Analysis (LDA) clearly explained.",
+        "published_at": "2016-07-10T21:36:51Z",
+        "duration": "PT15M12S",
+        "view_count": "911414",
+        "like_count": "15700",
+        "comment_count": "987"
+    },
+    {
+        "video_id": "xXqa7sVypYI",
+        "title": "Another Day",
+        "published_at": "2016-07-01T01:43:12Z",
+        "duration": "PT3M35S",
+        "view_count": "554",
+        "like_count": "12",
+        "comment_count": "3"
+    },
+    {
+        "video_id": "cKdUdPAVyOU",
+        "title": "Say Your Goodbyes",
+        "published_at": "2016-05-30T14:01:13Z",
+        "duration": "PT4M9S",
+        "view_count": "1524",
+        "like_count": "31",
+        "comment_count": "7"
+    },
+    {
+        "video_id": "-tibALm6VEI",
+        "title": "Deal With It",
+        "published_at": "2016-05-01T16:43:18Z",
+        "duration": "PT2M16S",
+        "view_count": "1501",
+        "like_count": "15",
+        "comment_count": "6"
+    },
+    {
+        "video_id": "WkjBXrX1Q2k",
+        "title": "Rachel's Song (the ballad of Hazel Motes)",
+        "published_at": "2016-04-01T19:42:05Z",
+        "duration": "PT3M54S",
+        "view_count": "1099",
+        "like_count": "34",
+        "comment_count": "2"
+    },
+    {
+        "video_id": "oMtDyOn2TCc",
+        "title": "Drawing and Interpreting Heatmaps",
+        "published_at": "2016-01-06T15:46:44Z",
+        "duration": "PT16M49S",
+        "view_count": "155097",
+        "like_count": "2565",
+        "comment_count": "141"
+    },
+    {
+        "video_id": "K2QWmW6LKmg",
+        "title": "Christmas In Rio! (now on iTunes!)",
+        "published_at": "2015-12-05T17:11:39Z",
+        "duration": "PT2M20S",
+        "view_count": "15426",
+        "like_count": "48",
+        "comment_count": "11"
+    },
+    {
+        "video_id": "TCrC8Vdv1_4",
+        "title": "That's Alright",
+        "published_at": "2015-09-30T01:06:29Z",
+        "duration": "PT2M27S",
+        "view_count": "10317",
+        "like_count": "329",
+        "comment_count": "66"
+    },
+    {
+        "video_id": "gKnfP2_Xdpo",
+        "title": "StatQuest: RNA-seq - the problem with technical replicates",
+        "published_at": "2015-08-27T19:47:18Z",
+        "duration": "PT12M55S",
+        "view_count": "15803",
+        "like_count": "290",
+        "comment_count": "37"
+    },
+    {
+        "video_id": "_UVHneBUBW0",
+        "title": "Principal Component Analysis (PCA) clearly explained (2015)",
+        "published_at": "2015-08-13T17:37:04Z",
+        "duration": "PT20M16S",
+        "view_count": "1055586",
+        "like_count": "15170",
+        "comment_count": "1108"
+    },
+    {
+        "video_id": "TTUrtCY2k-w",
+        "title": "RPKM, FPKM and TPM, Clearly Explained!!!",
+        "published_at": "2015-07-09T17:37:05Z",
+        "duration": "PT10M14S",
+        "view_count": "235682",
+        "like_count": "2560",
+        "comment_count": "195"
+    },
+    {
+        "video_id": "TqOeMYtOc1w",
+        "title": "Confidence Intervals, Clearly Explained!!!",
+        "published_at": "2015-07-09T16:43:04Z",
+        "duration": "PT6M42S",
+        "view_count": "448396",
+        "like_count": "8709",
+        "comment_count": "382"
+    },
+    {
+        "video_id": "O33LgXNk87g",
+        "title": "How to puree garlic",
+        "published_at": "2015-07-01T01:37:00Z",
+        "duration": "PT47S",
+        "view_count": "38436",
+        "like_count": "291",
+        "comment_count": "50"
+    },
+    {
+        "video_id": "zB7CCWQbkWs",
+        "title": "That Dude (in the movies)",
+        "published_at": "2015-06-21T19:44:08Z",
+        "duration": "PT3M18S",
+        "view_count": "2664",
+        "like_count": "107",
+        "comment_count": "18"
+    },
+    {
+        "video_id": "XNgt7F6FqDU",
+        "title": "The standard error, Clearly Explained!!!",
+        "published_at": "2015-05-12T14:10:24Z",
+        "duration": "PT11M44S",
+        "view_count": "264421",
+        "like_count": "5374",
+        "comment_count": "291"
+    },
+    {
+        "video_id": "fglJIFv08hs",
+        "title": "Wrapping up dumplings for pot stickers.",
+        "published_at": "2015-04-19T21:18:04Z",
+        "duration": "PT23S",
+        "view_count": "11892",
+        "like_count": "145",
+        "comment_count": "21"
+    },
+    {
+        "video_id": "2AQKmw14mHM",
+        "title": "R-squared, Clearly Explained!!!",
+        "published_at": "2015-02-03T14:48:20Z",
+        "duration": "PT11M1S",
+        "view_count": "723269",
+        "like_count": "14385",
+        "comment_count": "761"
+    },
+    {
+        "video_id": "Sn-keVh_ERw",
+        "title": "onion-dice",
+        "published_at": "2014-09-28T16:12:29Z",
+        "duration": "PT36S",
+        "view_count": "16434",
+        "like_count": "211",
+        "comment_count": "63"
+    },
+    {
+        "video_id": "yMYcH8-OfJk",
+        "title": "Cutting Butter",
+        "published_at": "2014-08-24T21:40:26Z",
+        "duration": "PT38S",
+        "view_count": "21021",
+        "like_count": "246",
+        "comment_count": "63"
+    }
+]
