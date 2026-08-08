@@ -16,7 +16,7 @@ def insert_rows(conn, curr, schema, row):
         )
 
         else:
-            video_id = 'Video_id'
+            video_id = 'Video_Id'
 
             curr.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Type", "Video_Views", "Likes_Count", "Comments_Count")
             VALUES (%(Video_Id)s, %(Video_Title)s, %(Upload_Date)s, %(Duration)s, %(Video_Type)s, %(Video_Views)s, %(Like_Count)s, %(Comment_Count)s)
@@ -44,7 +44,7 @@ def update_rows(curr, conn, schema, row):
 
         # Core
         else:
-            video_id = 'Video_id'
+            video_id = 'Video_Id'
             upload_date = 'Upload_Date'
             video_title = 'Video_Title'
             video_views = 'Video_Views'
