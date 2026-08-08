@@ -114,9 +114,9 @@ def extract_video_data(video_ids):
                     "title": snippet['title'],
                     "published_at": snippet['publishedAt'],
                     "duration": content_details['duration'],
-                    "view_count": statistics.get('viewCount', None),
-                    "like_count": statistics.get('likeCount', None),
-                    "comment_count": statistics.get('commentCount', None),
+                    "views_count": statistics.get('viewCount', None),
+                    "likes_count": statistics.get('likeCount', None),
+                    "comments_count": statistics.get('commentCount', None),
                 }
 
                 extracted_data.append(video_data)

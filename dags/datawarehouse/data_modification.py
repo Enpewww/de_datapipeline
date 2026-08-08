@@ -11,7 +11,7 @@ def insert_rows(conn, curr, schema, row):
             video_id = 'video_id'
 
             curr.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Views", "Likes_Count", "Comments_Count")
-            VALUES (%(video_id)s, %(title)s, %(published_at)s, %(duration)s, %(view_count)s, %(like_count)s, %(comment_count)s);
+            VALUES (%(video_id)s, %(title)s, %(published_at)s, %(duration)s, %(views_count)s, %(likes_count)s, %(comments_count)s);
             """, row,
         )
 
@@ -19,7 +19,7 @@ def insert_rows(conn, curr, schema, row):
             video_id = 'Video_Id'
 
             curr.execute(f""" INSERT INTO {schema}.{table} ("Video_Id", "Video_Title", "Upload_Date", "Duration", "Video_Type", "Video_Views", "Likes_Count", "Comments_Count")
-            VALUES (%(Video_Id)s, %(Video_Title)s, %(Upload_Date)s, %(Duration)s, %(Video_Type)s, %(Video_Views)s, %(Like_Count)s, %(Comment_Count)s)
+            VALUES (%(Video_Id)s, %(Video_Title)s, %(Upload_Date)s, %(Duration)s, %(Video_Type)s, %(Video_Views)s, %(Likes_Count)s, %(Comments_Count)s)
             """, row,
         )
 
@@ -38,9 +38,9 @@ def update_rows(curr, conn, schema, row):
             video_id = 'video_id'
             upload_date = 'published_at'
             video_title = 'title'
-            video_views = 'view_count'
-            likes_count = 'like_count'
-            comments_count = 'comment_count'
+            video_views = 'views_count'
+            likes_count = 'likes_count'
+            comments_count = 'comments_count'
 
         # Core
         else:
@@ -48,8 +48,8 @@ def update_rows(curr, conn, schema, row):
             upload_date = 'Upload_Date'
             video_title = 'Video_Title'
             video_views = 'Video_Views'
-            likes_count = 'Like_Count'
-            comments_count = 'Comment_Count'
+            likes_count = 'Likes_Count'
+            comments_count = 'Comments_Count'
 
         curr.execute(
             f"""
