@@ -130,7 +130,7 @@ services:
       - POSTGRES_CONN_HOST=${POSTGRES_CONN_HOST}
       - POSTGRES_CONN_PORT=${POSTGRES_CONN_PORT}
     ports:
-      - 5432:5432
+      - ${POSTGRES_PORT}:5432
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
       - ./docker/postgres/init-multiple-databases.sh:/docker-entrypoint-initdb.d/init-multiple-databases.sh
