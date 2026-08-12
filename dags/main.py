@@ -1,4 +1,5 @@
 from airflow import DAG
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 import pendulum
 from datetime import timedelta, datetime
 from api.stats_video import get_playlist_id, get_video_ids, extract_video_data, save_to_json
@@ -27,8 +28,9 @@ with DAG(
     dag_id="produce_json",
     default_args=default_args,
     description="DAG to produce JSON file from YouTube API",
-    schedule="0 14 * * *",
+    schedule="0 9 * * *",
     catchup=False,
+    dagrun_timeout=timedelta(minutes=30),
 ) as dag:
 
     # Define dag tasks
@@ -37,14 +39,20 @@ with DAG(
     extracted_data = extract_video_data(video_ids)
     save_json_data = save_to_json(extracted_data)
 
+    trigger_update_db = TriggerDagRunOperator(
+        task_id="trigger_update_db",
+        trigger_dag_id="update_db",
+        wait_for_completion=False,
+    )
+
     # Define task dependencies
-    playlist_id >> video_ids >> extracted_data >> save_json_data
+    playlist_id >> video_ids >> extracted_data >> save_json_data >> trigger_update_db
 
 with DAG(
     dag_id="update_db",
     default_args=default_args,
     description="DAG to update database with YouTube API data into staging and core tables",
-    schedule="0 14 * * *",
+    schedule=None,
     catchup=False,
 ) as dag:
 
