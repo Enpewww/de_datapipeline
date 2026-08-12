@@ -33,42 +33,58 @@ def insert_rows(conn, curr, schema, row):
 def update_rows(curr, conn, schema, row):
 
     try:
-        # Stagging
+        # Staging
         if schema == "staging":
-            video_id = 'video_id'
-            upload_date = 'published_at'
-            video_title = 'title'
-            video_views = 'views_count'
-            likes_count = 'likes_count'
-            comments_count = 'comments_count'
+            video_id = "video_id"
+            upload_date = "published_at"
+            video_title = "title"
+            video_views = "views_count"
+            likes_count = "likes_count"
+            comments_count = "comments_count"
+
+            curr.execute(
+                f"""
+                UPDATE {schema}.{table}
+                SET
+                    "Video_Title" = %({video_title})s,
+                    "Video_Views" = %({video_views})s,
+                    "Likes_Count" = %({likes_count})s,
+                    "Comments_Count" = %({comments_count})s
+                WHERE "Video_Id" = %({video_id})s
+                  AND "Upload_Date" = %({upload_date})s;
+                """,
+                row
+            )
 
         # Core
         else:
-            video_id = 'Video_Id'
-            upload_date = 'Upload_Date'
-            video_title = 'Video_Title'
-            video_views = 'Video_Views'
-            likes_count = 'Likes_Count'
-            comments_count = 'Comments_Count'
-
-        curr.execute(
-            f"""
-            UPDATE {schema}.{table} 
-            SET "Video_Title" = %({video_title})s,
-                "Video_Views" = %({video_views})s,
-                "Likes_Count" = %({likes_count})s, 
-                "Comments_Count" = %({comments_count})s 
-            WHERE "Video_Id" = %({video_id})s AND "Upload_Date" = %({upload_date})s;
-            """, row
-
-        )
+            curr.execute(
+                f"""
+                UPDATE {schema}.{table}
+                SET
+                    "Video_Title" = %(Video_Title)s,
+                    "Duration" = %(Duration)s,
+                    "Video_Type" = %(Video_Type)s,
+                    "Video_Views" = %(Video_Views)s,
+                    "Likes_Count" = %(Likes_Count)s,
+                    "Comments_Count" = %(Comments_Count)s
+                WHERE "Video_Id" = %(Video_Id)s
+                  AND "Upload_Date" = %(Upload_Date)s;
+                """,
+                row
+            )
 
         conn.commit()
 
-        logger.info(f"Updated row in {schema}.{table}: {row[video_id]}")
+        logger.info(
+            f"Updated row in {schema}.{table}: {row[video_id if schema == 'staging' else 'Video_Id']}"
+        )
 
     except Exception as e:
-        logger.error(f"Error updating row in {schema}.{table}: {row[video_id]} - {e}")
+        logger.error(
+            f"Error updating row in {schema}.{table}: {e}",
+            exc_info=True
+        )
         raise e
 
 def delete_rows(curr, conn, schema, ids_to_delete):

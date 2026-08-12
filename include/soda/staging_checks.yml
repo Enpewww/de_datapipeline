@@ -1,0 +1,141 @@
+checks for yt_api:
+
+  # ==========================================
+  # 1. VOLUME / COMPLETENESS
+  # ==========================================
+
+  - row_count > 0
+
+  - missing_count("Video_Id") = 0
+
+  - missing_count("Video_Title") = 0
+
+  - missing_count("Upload_Date") = 0
+
+  - missing_count("Duration") = 0
+
+  - missing_count("Video_Views") = 0
+
+  - missing_count("Likes_Count") = 0
+
+  - missing_count("Comments_Count") = 0
+
+
+  # ==========================================
+  # 2. VIDEO ID UNIQUENESS / INTEGRITY
+  # ==========================================
+
+  - duplicate_count("Video_Id") = 0
+
+  - empty_video_id = 0:
+      name: Video ID must not be empty
+      empty_video_id query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Video_Id" IS NULL
+           OR TRIM("Video_Id") = ''
+
+  - invalid_video_id_format = 0:
+      name: Video ID must follow valid YouTube format
+      invalid_video_id_format query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Video_Id" IS NULL
+           OR "Video_Id" !~ '^[A-Za-z0-9_-]{11}$'
+
+
+  # ==========================================
+  # 3. TEXT DATA QUALITY
+  # ==========================================
+
+  - empty_video_title = 0:
+      name: Video title must not be empty
+      empty_video_title query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Video_Title" IS NULL
+           OR TRIM("Video_Title") = ''
+
+
+# ==========================================
+# 4. DURATION VALIDATION
+# ==========================================
+
+# ==========================================
+# 4. DURATION FORMAT VALIDATION
+# ==========================================
+
+  - invalid_duration_format = 0:
+      name: Duration must use a valid source format
+      invalid_duration_format query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Duration" IS NULL
+          OR (
+                TRIM("Duration") !~ '^PT([0-9]+H([0-9]+M([0-9]+S)?)?|[0-9]+M([0-9]+S)?|[0-9]+S)$'
+                AND TRIM("Duration") !~ '^[0-9]{3}$'
+                AND TRIM("Duration") !~ '^P[0-9]+D$'
+              )
+
+  # ==========================================
+  # 5. NUMERIC DATA QUALITY
+  # ==========================================
+
+  - negative_video_views = 0:
+      name: Video views cannot be negative
+      negative_video_views query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Video_Views" < 0
+
+  - negative_likes_count = 0:
+      name: Likes count cannot be negative
+      negative_likes_count query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Likes_Count" < 0
+
+  - negative_comments_count = 0:
+      name: Comments count cannot be negative
+      negative_comments_count query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Comments_Count" < 0
+
+
+  # ==========================================
+  # 6. ENGAGEMENT BUSINESS RULES
+  # ==========================================
+
+  - likes_count_greater_than_vid_views = 0:
+      name: Likes count should be less than or equal to video views count
+      likes_count_greater_than_vid_views query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Likes_Count" > "Video_Views"
+
+  - comments_count_greater_than_vid_views = 0:
+      name: Comments count should be less than or equal to video views count
+      comments_count_greater_than_vid_views query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Comments_Count" > "Video_Views"
+
+
+  # ==========================================
+  # 7. DATE VALIDATION
+  # ==========================================
+
+  - future_upload_date = 0:
+      name: Upload date cannot be in the future
+      future_upload_date query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Upload_Date" > CURRENT_TIMESTAMP
+
+  - invalid_upload_date = 0:
+      name: Upload date cannot be before YouTube existed
+      invalid_upload_date query: |
+        SELECT COUNT(*)
+        FROM ${SCHEMA}.yt_api
+        WHERE "Upload_Date" < TIMESTAMP '2005-04-23'

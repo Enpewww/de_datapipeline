@@ -1,0 +1,175 @@
+checks for yt_api:
+
+# ==========================================
+# 1. VOLUME / COMPLETENESS
+# ==========================================
+
+- row_count > 0
+
+- missing_count("Video_Id") = 0
+
+- missing_count("Video_Title") = 0
+
+- missing_count("Upload_Date") = 0
+
+- missing_count("Duration") = 0
+
+- missing_count("Video_Type") = 0
+
+- missing_count("Video_Views") = 0
+
+- missing_count("Likes_Count") = 0
+
+- missing_count("Comments_Count") = 0
+
+
+# ==========================================
+# 2. ENTITY / UNIQUENESS
+# ==========================================
+
+- duplicate_count("Video_Id") = 0
+
+- empty_video_id = 0:
+    name: Video ID must not be empty
+    empty_video_id query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Id" IS NULL
+         OR TRIM("Video_Id") = ''
+
+- invalid_video_id_format = 0:
+    name: Video ID must follow valid YouTube format
+    invalid_video_id_format query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Id" IS NULL
+         OR "Video_Id" !~ '^[A-Za-z0-9_-]{11}$'
+
+
+# ==========================================
+# 3. TEXT / BUSINESS DIMENSION
+# ==========================================
+
+- empty_video_title = 0:
+    name: Video title must not be empty
+    empty_video_title query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Title" IS NULL
+         OR TRIM("Video_Title") = ''
+
+- invalid_video_type = 0:
+    name: Video type must be Normal, Short, or Unavailable
+    invalid_video_type query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Type" IS NULL
+         OR "Video_Type" NOT IN ('Normal', 'Short', 'Unavailable')
+
+
+# ==========================================
+# 4. DURATION / VIDEO TYPE TRANSFORMATION
+# ==========================================
+
+- invalid_normal_duration = 0:
+    name: Normal videos must have duration of at least 1 minute
+    invalid_normal_duration query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Type" = 'Normal'
+        AND "Duration" < TIME '00:01:00'
+
+- invalid_short_duration = 0:
+    name: Short videos must have duration less than 1 minute
+    invalid_short_duration query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Type" = 'Short'
+        AND "Duration" >= TIME '00:01:00'
+
+- invalid_unavailable_duration = 0:
+    name: Unavailable videos must have zero duration
+    invalid_unavailable_duration query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Type" = 'Unavailable'
+        AND "Duration" <> TIME '00:00:00'
+
+- zero_duration_non_unavailable = 0:
+    name: Zero duration is only allowed for unavailable videos
+    zero_duration_non_unavailable query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Duration" = TIME '00:00:00'
+        AND "Video_Type" <> 'Unavailable'
+
+
+# ==========================================
+# 5. NUMERIC DATA QUALITY
+# ==========================================
+
+- negative_video_views = 0:
+    name: Video views cannot be negative
+    negative_video_views query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Video_Views" < 0
+
+- negative_likes_count = 0:
+    name: Likes count cannot be negative
+    negative_likes_count query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Likes_Count" < 0
+
+- negative_comments_count = 0:
+    name: Comments count cannot be negative
+    negative_comments_count query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Comments_Count" < 0
+
+
+# ==========================================
+# 6. ENGAGEMENT BUSINESS RULES
+# ==========================================
+
+- likes_exceed_views = 0:
+    name: Likes cannot exceed video views
+    likes_exceed_views query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Likes_Count" > "Video_Views"
+
+- comments_exceed_views = 0:
+    name: Comments cannot exceed video views
+    comments_exceed_views query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Comments_Count" > "Video_Views"
+
+- comments_exceed_likes = 0:
+    name: Comments should not exceed likes
+    comments_exceed_likes query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Comments_Count" > "Likes_Count"
+
+
+# ==========================================
+# 7. TEMPORAL VALIDATION
+# ==========================================
+
+- future_upload_date = 0:
+    name: Upload date cannot be in the future
+    future_upload_date query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Upload_Date" > CURRENT_TIMESTAMP
+
+- invalid_upload_date = 0:
+    name: Upload date cannot be before YouTube existed
+    invalid_upload_date query: |
+      SELECT COUNT(*)
+      FROM ${SCHEMA}.yt_api
+      WHERE "Upload_Date" < TIMESTAMP '2005-04-23'
