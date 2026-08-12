@@ -4,6 +4,7 @@ import pendulum
 from datetime import timedelta, datetime
 from api.stats_video import get_playlist_id, get_video_ids, extract_video_data, save_to_json
 from datawarehouse.dwh import staging_table, core_table
+from dataquality.soda import yt_elt_data_quality
 
 # Define local timezone
 local_tz = pendulum.timezone("Asia/Jakarta")
@@ -23,6 +24,9 @@ default_args = {
     "start_date": datetime(2026, 8, 6, tzinfo=local_tz),
     # "end_date": datetime(2030, 12, 31, tzinfo=local_tz),
 }
+
+staging_schema = "staging"
+core_schema = "core"
 
 with DAG(
     dag_id="produce_json",
@@ -54,7 +58,7 @@ with DAG(
     description="DAG to update database with YouTube API data into staging and core tables",
     schedule=None,
     catchup=False,
-) as dag:
+) as dag_update:
 
     # Define dag tasks
     update_staging = staging_table()
@@ -62,3 +66,18 @@ with DAG(
 
     # Define task dependencies
     update_staging >> update_core
+
+with DAG(
+    dag_id="data_quality",
+    default_args=default_args,
+    description="DAG to run data quality checks on the table",
+    schedule= "0 10 * * *",
+    catchup=False,
+) as dag_update:
+
+    # Define dag tasks
+    soda_validate_staging= yt_elt_data_quality(staging_schema)
+    soda_validate_core= yt_elt_data_quality(core_schema)
+
+    # Define task dependencies
+    soda_validate_staging >> soda_validate_core
