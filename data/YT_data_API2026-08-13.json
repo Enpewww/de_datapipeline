@@ -4,7 +4,7 @@
         "title": "The Simplex Algorithm, Mathematical Details!!!",
         "published_at": "2026-07-13T04:00:15Z",
         "duration": "PT26M38S",
-        "views_count": "10384",
+        "views_count": "10444",
         "likes_count": "325",
         "comments_count": "46"
     },
@@ -13,7 +13,7 @@
         "title": "Optimization with Linear Programming (and the Simplex Algorithm), Main Ideas!!!",
         "published_at": "2026-07-06T04:00:30Z",
         "duration": "PT24M2S",
-        "views_count": "15907",
+        "views_count": "15925",
         "likes_count": "662",
         "comments_count": "51"
     },
@@ -22,8 +22,8 @@
         "title": "StatQuest: Random Forests Part 2: Missing data and clustering",
         "published_at": "2026-06-08T15:02:05Z",
         "duration": "PT10M48S",
-        "views_count": "7535",
-        "likes_count": "191",
+        "views_count": "7587",
+        "likes_count": "193",
         "comments_count": "33"
     },
     {
@@ -31,8 +31,8 @@
         "title": "False Discovery Rates, FDR, clearly explained",
         "published_at": "2026-06-08T15:01:35Z",
         "duration": "PT18M27S",
-        "views_count": "3403",
-        "likes_count": "89",
+        "views_count": "3428",
+        "likes_count": "88",
         "comments_count": "15"
     },
     {
@@ -40,8 +40,8 @@
         "title": "The Essence of Linear Regression!!!",
         "published_at": "2026-05-18T04:00:01Z",
         "duration": "PT32M1S",
-        "views_count": "34632",
-        "likes_count": "1050",
+        "views_count": "34785",
+        "likes_count": "1055",
         "comments_count": "131"
     },
     {
@@ -49,8 +49,8 @@
         "title": "How AI works in Super Simple Terms!!!",
         "published_at": "2026-01-12T05:01:06Z",
         "duration": "PT22M51S",
-        "views_count": "35901",
-        "likes_count": "1278",
+        "views_count": "35924",
+        "likes_count": "1279",
         "comments_count": "159"
     },
     {
@@ -58,8 +58,8 @@
         "title": "StatQuest: Career Advice from Tech Industry Leaders",
         "published_at": "2025-09-04T04:00:42Z",
         "duration": "PT5M59S",
-        "views_count": "32771",
-        "likes_count": "1091",
+        "views_count": "32780",
+        "likes_count": "1092",
         "comments_count": "97"
     },
     {
@@ -67,7 +67,7 @@
         "title": "Reinforcement Learning with Human Feedback (RLHF), Clearly Explained!!!",
         "published_at": "2025-05-05T04:01:03Z",
         "duration": "PT18M2S",
-        "views_count": "64810",
+        "views_count": "64857",
         "likes_count": "1747",
         "comments_count": "159"
     },
@@ -76,7 +76,7 @@
         "title": "Reinforcement Learning with Neural Networks: Mathematical Details",
         "published_at": "2025-04-14T04:00:27Z",
         "duration": "PT25M1S",
-        "views_count": "32226",
+        "views_count": "32232",
         "likes_count": "790",
         "comments_count": "71"
     },
@@ -85,7 +85,7 @@
         "title": "Reinforcement Learning with Neural Networks: Essential Concepts",
         "published_at": "2025-04-07T04:00:17Z",
         "duration": "PT24M",
-        "views_count": "56060",
+        "views_count": "56085",
         "likes_count": "1409",
         "comments_count": "109"
     },
@@ -94,8 +94,8 @@
         "title": "Reinforcement Learning: Essential Concepts",
         "published_at": "2025-03-31T04:00:25Z",
         "duration": "PT18M13S",
-        "views_count": "104255",
-        "likes_count": "3461",
+        "views_count": "104304",
+        "likes_count": "3462",
         "comments_count": "218"
     },
     {
@@ -103,8 +103,8 @@
         "title": "StatQuest on DeepLearning.AI!!! Check out my short course on attention!",
         "published_at": "2025-02-12T14:20:19Z",
         "duration": "PT1M",
-        "views_count": "33191",
-        "likes_count": "1368",
+        "views_count": "33209",
+        "likes_count": "1370",
         "comments_count": "71"
     },
     {
@@ -112,7 +112,7 @@
         "title": "StatQuest with Josh Starmer is live!",
         "published_at": "2025-02-06T19:12:02Z",
         "duration": "PT59M55S",
-        "views_count": "9475",
+        "views_count": "9476",
         "likes_count": "193",
         "comments_count": "25"
     },
@@ -121,8 +121,8 @@
         "title": "Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!",
         "published_at": "2024-11-18T05:00:11Z",
         "duration": "PT18M52S",
-        "views_count": "106656",
-        "likes_count": "2878",
+        "views_count": "106759",
+        "likes_count": "2882",
         "comments_count": "201"
     },
     {
@@ -130,7 +130,7 @@
         "title": "Luis Serrano + Josh  Starmer Q&A Livestream!!!",
         "published_at": "2024-10-10T04:04:08Z",
         "duration": "PT54M35S",
-        "views_count": "5365",
+        "views_count": "5367",
         "likes_count": "120",
         "comments_count": "12"
     },
@@ -139,7 +139,7 @@
         "title": "Human Stories in AI: Nana Janashia@TechWorld With Nana",
         "published_at": "2024-09-09T04:00:17Z",
         "duration": "PT24M8S",
-        "views_count": "9239",
+        "views_count": "9241",
         "likes_count": "177",
         "comments_count": "27"
     },
@@ -175,8 +175,8 @@
         "title": "Coding a ChatGPT Like Transformer From Scratch in PyTorch",
         "published_at": "2024-07-01T04:00:05Z",
         "duration": "PT31M11S",
-        "views_count": "119289",
-        "likes_count": "3211",
+        "views_count": "119330",
+        "likes_count": "3213",
         "comments_count": "272"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Human Stories in AI: Amy Finnegan",
         "published_at": "2024-06-17T04:00:34Z",
         "duration": "PT28M25S",
-        "views_count": "6053",
+        "views_count": "6054",
         "likes_count": "87",
         "comments_count": "9"
     },
@@ -247,8 +247,8 @@
         "title": "The matrix math behind transformer neural networks, one step at a time!!!",
         "published_at": "2024-04-08T04:00:09Z",
         "duration": "PT23M43S",
-        "views_count": "92722",
-        "likes_count": "1950",
+        "views_count": "92747",
+        "likes_count": "1951",
         "comments_count": "150"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Human Stories in AI: Rick Marks",
         "published_at": "2024-02-19T12:41:38Z",
         "duration": "PT31M13S",
-        "views_count": "15955",
+        "views_count": "15957",
         "likes_count": "262",
         "comments_count": "26"
     },
@@ -292,8 +292,8 @@
         "title": "Essential Matrix Algebra for Neural Networks, Clearly Explained!!!",
         "published_at": "2023-12-11T05:00:25Z",
         "duration": "PT30M1S",
-        "views_count": "84495",
-        "likes_count": "2363",
+        "views_count": "84514",
+        "likes_count": "2364",
         "comments_count": "194"
     },
     {
@@ -301,8 +301,8 @@
         "title": "Word Embedding in PyTorch + Lightning",
         "published_at": "2023-11-06T13:03:55Z",
         "duration": "PT32M2S",
-        "views_count": "52973",
-        "likes_count": "1034",
+        "views_count": "52980",
+        "likes_count": "1035",
         "comments_count": "100"
     },
     {
@@ -310,8 +310,8 @@
         "title": "The Golden Play Button, Clearly Explained!!!’",
         "published_at": "2023-10-07T00:30:48Z",
         "duration": "PT2M30S",
-        "views_count": "27268",
-        "likes_count": "2435",
+        "views_count": "27271",
+        "likes_count": "2434",
         "comments_count": "534"
     },
     {
@@ -328,7 +328,7 @@
         "title": "Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!",
         "published_at": "2023-08-28T04:00:30Z",
         "duration": "PT36M45S",
-        "views_count": "235131",
+        "views_count": "235216",
         "likes_count": "5314",
         "comments_count": "451"
     },
@@ -337,8 +337,8 @@
         "title": "Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!",
         "published_at": "2023-07-24T04:00:34Z",
         "duration": "PT36M15S",
-        "views_count": "1164308",
-        "likes_count": "26339",
+        "views_count": "1164513",
+        "likes_count": "26343",
         "comments_count": "1732"
     },
     {
@@ -346,8 +346,8 @@
         "title": "What is a Logit?",
         "published_at": "2023-06-19T04:00:04Z",
         "duration": "PT29S",
-        "views_count": "36752",
-        "likes_count": "1188",
+        "views_count": "36760",
+        "likes_count": "1189",
         "comments_count": "46"
     },
     {
@@ -355,7 +355,7 @@
         "title": "Logistic vs Logit Functions",
         "published_at": "2023-06-12T04:00:16Z",
         "duration": "PT30S",
-        "views_count": "22191",
+        "views_count": "22200",
         "likes_count": "782",
         "comments_count": "34"
     },
@@ -364,7 +364,7 @@
         "title": "Attention for Neural Networks, Clearly Explained!!!",
         "published_at": "2023-06-05T04:00:19Z",
         "duration": "PT15M51S",
-        "views_count": "457211",
+        "views_count": "457286",
         "likes_count": "8499",
         "comments_count": "497"
     },
@@ -373,7 +373,7 @@
         "title": "Likelihood vs Probability",
         "published_at": "2023-05-15T04:00:08Z",
         "duration": "PT30S",
-        "views_count": "97469",
+        "views_count": "97494",
         "likes_count": "5189",
         "comments_count": "128"
     },
@@ -382,7 +382,7 @@
         "title": "p-values",
         "published_at": "2023-05-15T04:00:00Z",
         "duration": "PT23S",
-        "views_count": "15895",
+        "views_count": "15902",
         "likes_count": "535",
         "comments_count": "20"
     },
@@ -391,8 +391,8 @@
         "title": "Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!",
         "published_at": "2023-05-08T04:00:17Z",
         "duration": "PT16M50S",
-        "views_count": "368995",
-        "likes_count": "7044",
+        "views_count": "369064",
+        "likes_count": "7043",
         "comments_count": "470"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Matrix Multiplication",
         "published_at": "2023-04-16T04:00:33Z",
         "duration": "PT20S",
-        "views_count": "38722",
+        "views_count": "38736",
         "likes_count": "907",
         "comments_count": "20"
     },
@@ -409,7 +409,7 @@
         "title": "Matrix Notation",
         "published_at": "2023-04-16T04:00:09Z",
         "duration": "PT20S",
-        "views_count": "10820",
+        "views_count": "10822",
         "likes_count": "403",
         "comments_count": "20"
     },
@@ -418,7 +418,7 @@
         "title": "The Ukulele: Clearly Explained!!!",
         "published_at": "2023-04-01T04:00:28Z",
         "duration": "PT3M27S",
-        "views_count": "19292",
+        "views_count": "19293",
         "likes_count": "616",
         "comments_count": "109"
     },
@@ -427,7 +427,7 @@
         "title": "PCA Eigenvalues",
         "published_at": "2023-03-21T17:13:30Z",
         "duration": "PT32S",
-        "views_count": "57630",
+        "views_count": "57640",
         "likes_count": "2130",
         "comments_count": "65"
     },
@@ -436,7 +436,7 @@
         "title": "PCA Eigenvectors",
         "published_at": "2023-03-20T11:46:03Z",
         "duration": "PT32S",
-        "views_count": "31617",
+        "views_count": "31618",
         "likes_count": "1413",
         "comments_count": "35"
     },
@@ -445,7 +445,7 @@
         "title": "Normalized Data",
         "published_at": "2023-03-20T11:45:51Z",
         "duration": "PT34S",
-        "views_count": "11453",
+        "views_count": "11459",
         "likes_count": "436",
         "comments_count": "14"
     },
@@ -454,7 +454,7 @@
         "title": "Standardized Data",
         "published_at": "2023-03-20T11:45:47Z",
         "duration": "PT29S",
-        "views_count": "14582",
+        "views_count": "14584",
         "likes_count": "627",
         "comments_count": "16"
     },
@@ -463,7 +463,7 @@
         "title": "Type 2 Errors",
         "published_at": "2023-03-20T11:45:38Z",
         "duration": "PT28S",
-        "views_count": "10774",
+        "views_count": "10775",
         "likes_count": "477",
         "comments_count": "15"
     },
@@ -472,7 +472,7 @@
         "title": "Type 1 Errors",
         "published_at": "2023-03-20T11:45:33Z",
         "duration": "PT42S",
-        "views_count": "15025",
+        "views_count": "15027",
         "likes_count": "488",
         "comments_count": "14"
     },
@@ -481,8 +481,8 @@
         "title": "Word Embedding and Word2Vec, Clearly Explained!!!",
         "published_at": "2023-03-13T04:00:23Z",
         "duration": "PT16M12S",
-        "views_count": "585981",
-        "likes_count": "13314",
+        "views_count": "586120",
+        "likes_count": "13316",
         "comments_count": "751"
     },
     {
@@ -490,7 +490,7 @@
         "title": "The AI Buzz, Episode #5: A new wave of AI-based products and the resurgence of personal applications",
         "published_at": "2023-03-07T16:00:08Z",
         "duration": "PT35M57S",
-        "views_count": "14399",
+        "views_count": "14403",
         "likes_count": "177",
         "comments_count": "15"
     },
@@ -499,8 +499,8 @@
         "title": "CatBoost Part 2: Building and Using Trees",
         "published_at": "2023-03-06T05:00:01Z",
         "duration": "PT16M16S",
-        "views_count": "35129",
-        "likes_count": "653",
+        "views_count": "35135",
+        "likes_count": "652",
         "comments_count": "127"
     },
     {
@@ -508,8 +508,8 @@
         "title": "CatBoost Part 1: Ordered Target Encoding",
         "published_at": "2023-02-27T05:00:07Z",
         "duration": "PT8M32S",
-        "views_count": "66232",
-        "likes_count": "1076",
+        "views_count": "66265",
+        "likes_count": "1075",
         "comments_count": "117"
     },
     {
@@ -526,7 +526,7 @@
         "title": "One-Hot, Label, Target and K-Fold Target Encoding, Clearly Explained!!!",
         "published_at": "2023-02-13T05:00:03Z",
         "duration": "PT15M23S",
-        "views_count": "107091",
+        "views_count": "107125",
         "likes_count": "3204",
         "comments_count": "237"
     },
@@ -544,7 +544,7 @@
         "title": "Mutual Information, Clearly Explained!!!",
         "published_at": "2023-02-06T05:00:15Z",
         "duration": "PT16M14S",
-        "views_count": "189360",
+        "views_count": "189417",
         "likes_count": "4433",
         "comments_count": "228"
     },
@@ -553,8 +553,8 @@
         "title": "Cosine Similarity, Clearly Explained!!!",
         "published_at": "2023-01-30T05:00:13Z",
         "duration": "PT10M14S",
-        "views_count": "178357",
-        "likes_count": "6805",
+        "views_count": "178406",
+        "likes_count": "6807",
         "comments_count": "486"
     },
     {
@@ -562,7 +562,7 @@
         "title": "Long Short-Term Memory with PyTorch + Lightning",
         "published_at": "2023-01-24T21:21:53Z",
         "duration": "PT33M24S",
-        "views_count": "95752",
+        "views_count": "95761",
         "likes_count": "1944",
         "comments_count": "227"
     },
@@ -598,7 +598,7 @@
         "title": "Design Matrices For Linear Models, Clearly Explained!!!",
         "published_at": "2022-11-18T19:22:30Z",
         "duration": "PT14M40S",
-        "views_count": "16847",
+        "views_count": "16850",
         "likes_count": "271",
         "comments_count": "36"
     },
@@ -607,8 +607,8 @@
         "title": "Using Linear Models for t tests and ANOVA, Clearly Explained!!!",
         "published_at": "2022-11-18T19:19:19Z",
         "duration": "PT11M38S",
-        "views_count": "85866",
-        "likes_count": "1360",
+        "views_count": "85892",
+        "likes_count": "1361",
         "comments_count": "58"
     },
     {
@@ -616,8 +616,8 @@
         "title": "Multiple Regression in R, Step by Step!!!",
         "published_at": "2022-11-18T19:14:19Z",
         "duration": "PT7M43S",
-        "views_count": "111359",
-        "likes_count": "1908",
+        "views_count": "111366",
+        "likes_count": "1909",
         "comments_count": "86"
     },
     {
@@ -625,7 +625,7 @@
         "title": "Multiple Regression, Clearly Explained!!!",
         "published_at": "2022-11-18T19:11:48Z",
         "duration": "PT5M25S",
-        "views_count": "357490",
+        "views_count": "357587",
         "likes_count": "3987",
         "comments_count": "80"
     },
@@ -634,7 +634,7 @@
         "title": "Linear Regression in R, Step by Step",
         "published_at": "2022-11-18T19:09:00Z",
         "duration": "PT5M1S",
-        "views_count": "140271",
+        "views_count": "140292",
         "likes_count": "2497",
         "comments_count": "79"
     },
@@ -643,8 +643,8 @@
         "title": "Linear Regression, Clearly Explained!!!",
         "published_at": "2022-11-18T19:08:44Z",
         "duration": "PT27M27S",
-        "views_count": "685028",
-        "likes_count": "11582",
+        "views_count": "685351",
+        "likes_count": "11586",
         "comments_count": "418"
     },
     {
@@ -652,7 +652,7 @@
         "title": "R-squared, Clearly Explained!!!",
         "published_at": "2022-11-18T18:55:45Z",
         "duration": "PT11M1S",
-        "views_count": "321551",
+        "views_count": "321624",
         "likes_count": "6026",
         "comments_count": "336"
     },
@@ -661,8 +661,8 @@
         "title": "Long Short-Term Memory (LSTM), Clearly Explained",
         "published_at": "2022-11-07T05:00:15Z",
         "duration": "PT20M45S",
-        "views_count": "1016230",
-        "likes_count": "25080",
+        "views_count": "1016399",
+        "likes_count": "25086",
         "comments_count": "1780"
     },
     {
@@ -679,8 +679,8 @@
         "title": "Happy Halloween (Neural Networks Are Not Scary)",
         "published_at": "2022-10-31T04:00:30Z",
         "duration": "PT59S",
-        "views_count": "488336",
-        "likes_count": "5312",
+        "views_count": "488474",
+        "likes_count": "5311",
         "comments_count": "166"
     },
     {
@@ -724,7 +724,7 @@
         "title": "Introduction to Coding Neural Networks with PyTorch and Lightning",
         "published_at": "2022-09-19T04:00:14Z",
         "duration": "PT20M43S",
-        "views_count": "89048",
+        "views_count": "89056",
         "likes_count": "1965",
         "comments_count": "224"
     },
@@ -733,7 +733,7 @@
         "title": "Three more lessons from my Pop!!!",
         "published_at": "2022-09-04T04:00:03Z",
         "duration": "PT5M28S",
-        "views_count": "11825",
+        "views_count": "11826",
         "likes_count": "490",
         "comments_count": "77"
     },
@@ -742,8 +742,8 @@
         "title": "Recurrent Neural Networks (RNNs), Clearly Explained!!!",
         "published_at": "2022-07-11T04:00:06Z",
         "duration": "PT16M37S",
-        "views_count": "1017074",
-        "likes_count": "23453",
+        "views_count": "1017336",
+        "likes_count": "23457",
         "comments_count": "996"
     },
     {
@@ -760,7 +760,7 @@
         "title": "The StatQuest Introduction to PyTorch",
         "published_at": "2022-04-25T04:00:12Z",
         "duration": "PT23M22S",
-        "views_count": "216913",
+        "views_count": "216938",
         "likes_count": "5686",
         "comments_count": "425"
     },
@@ -769,7 +769,7 @@
         "title": "Troll 2, Clearly Explained!!!",
         "published_at": "2022-04-01T04:00:09Z",
         "duration": "PT5M6S",
-        "views_count": "21363",
+        "views_count": "21366",
         "likes_count": "610",
         "comments_count": "90"
     },
@@ -778,7 +778,7 @@
         "title": "The Binomial Distribution in 30 Seconds!!!",
         "published_at": "2022-03-22T18:39:32Z",
         "duration": "PT30S",
-        "views_count": "35895",
+        "views_count": "35896",
         "likes_count": "1479",
         "comments_count": "94"
     },
@@ -787,7 +787,7 @@
         "title": "UMAP: Mathematical Details (clearly explained!!!)",
         "published_at": "2022-03-14T16:00:13Z",
         "duration": "PT16M2S",
-        "views_count": "49915",
+        "views_count": "49922",
         "likes_count": "1058",
         "comments_count": "89"
     },
@@ -796,7 +796,7 @@
         "title": "UMAP Dimension Reduction, Main Ideas!!!",
         "published_at": "2022-03-07T17:00:10Z",
         "duration": "PT18M52S",
-        "views_count": "165366",
+        "views_count": "165410",
         "likes_count": "4182",
         "comments_count": "245"
     },
@@ -805,8 +805,8 @@
         "title": "Tensors for Neural Networks, Clearly Explained!!!",
         "published_at": "2022-02-28T17:00:11Z",
         "duration": "PT9M40S",
-        "views_count": "268753",
-        "likes_count": "8073",
+        "views_count": "268798",
+        "likes_count": "8078",
         "comments_count": "337"
     },
     {
@@ -814,8 +814,8 @@
         "title": "The Sensitivity, Specificity, Precision, Recall Sing-a-Long!!!",
         "published_at": "2022-02-10T17:19:53Z",
         "duration": "PT42S",
-        "views_count": "156638",
-        "likes_count": "4081",
+        "views_count": "156696",
+        "likes_count": "4083",
         "comments_count": "209"
     },
     {
@@ -823,8 +823,8 @@
         "title": "The Exponential Distribution",
         "published_at": "2022-01-14T19:44:47Z",
         "duration": "PT16S",
-        "views_count": "154901",
-        "likes_count": "2518",
+        "views_count": "154978",
+        "likes_count": "2519",
         "comments_count": "153"
     },
     {
@@ -832,8 +832,8 @@
         "title": "The mean, the median, and the mode.",
         "published_at": "2022-01-14T19:17:37Z",
         "duration": "PT13S",
-        "views_count": "142129",
-        "likes_count": "1694",
+        "views_count": "142199",
+        "likes_count": "1695",
         "comments_count": "65"
     },
     {
@@ -841,8 +841,8 @@
         "title": "Clustering with DBSCAN, Clearly Explained!!!",
         "published_at": "2022-01-10T12:51:02Z",
         "duration": "PT9M30S",
-        "views_count": "523571",
-        "likes_count": "15641",
+        "views_count": "523641",
+        "likes_count": "15642",
         "comments_count": "654"
     },
     {
@@ -850,7 +850,7 @@
         "title": "Frank Starmer Clearly Explained (How my pop influenced StatQuest!!!)",
         "published_at": "2021-09-04T04:00:01Z",
         "duration": "PT6M28S",
-        "views_count": "36088",
+        "views_count": "36090",
         "likes_count": "1746",
         "comments_count": "238"
     },
@@ -859,8 +859,8 @@
         "title": "Entropy (for data science) Clearly Explained!!!",
         "published_at": "2021-08-25T04:00:08Z",
         "duration": "PT16M35S",
-        "views_count": "884433",
-        "likes_count": "26511",
+        "views_count": "884573",
+        "likes_count": "26513",
         "comments_count": "1575"
     },
     {
@@ -868,8 +868,8 @@
         "title": "Bayes' Theorem, Clearly Explained!!!!",
         "published_at": "2021-08-16T04:00:05Z",
         "duration": "PT14M",
-        "views_count": "507422",
-        "likes_count": "10292",
+        "views_count": "507527",
+        "likes_count": "10293",
         "comments_count": "542"
     },
     {
@@ -877,8 +877,8 @@
         "title": "Conditional Probabilities, Clearly Explained!!!",
         "published_at": "2021-07-21T04:00:12Z",
         "duration": "PT10M56S",
-        "views_count": "327565",
-        "likes_count": "9062",
+        "views_count": "327607",
+        "likes_count": "9064",
         "comments_count": "484"
     },
     {
@@ -886,7 +886,7 @@
         "title": "Using Bootstrapping to Calculate p-values!!!",
         "published_at": "2021-07-13T04:00:07Z",
         "duration": "PT8M8S",
-        "views_count": "142987",
+        "views_count": "143004",
         "likes_count": "3387",
         "comments_count": "285"
     },
@@ -895,8 +895,8 @@
         "title": "Bootstrapping Main Ideas!!!",
         "published_at": "2021-07-06T04:00:15Z",
         "duration": "PT9M27S",
-        "views_count": "619381",
-        "likes_count": "17008",
+        "views_count": "619464",
+        "likes_count": "17010",
         "comments_count": "742"
     },
     {
@@ -913,7 +913,7 @@
         "title": "Expected Values for Continuous Variables!!!",
         "published_at": "2021-06-22T04:00:06Z",
         "duration": "PT19M44S",
-        "views_count": "132580",
+        "views_count": "132596",
         "likes_count": "3327",
         "comments_count": "229"
     },
@@ -922,7 +922,7 @@
         "title": "Three (3) things to do when starting out in Data Science",
         "published_at": "2021-05-27T04:00:10Z",
         "duration": "PT11M10S",
-        "views_count": "67012",
+        "views_count": "67017",
         "likes_count": "2262",
         "comments_count": "167"
     },
@@ -931,7 +931,7 @@
         "title": "How to make your own StatQuest!!!",
         "published_at": "2021-05-03T04:00:22Z",
         "duration": "PT5M",
-        "views_count": "16967",
+        "views_count": "16969",
         "likes_count": "990",
         "comments_count": "173"
     },
@@ -940,8 +940,8 @@
         "title": "Decision and Classification Trees, Clearly Explained!!!",
         "published_at": "2021-04-26T04:00:08Z",
         "duration": "PT18M8S",
-        "views_count": "1273873",
-        "likes_count": "25471",
+        "views_count": "1274088",
+        "likes_count": "25475",
         "comments_count": "1037"
     },
     {
@@ -949,7 +949,7 @@
         "title": "Silly Songs, Clearly Explained!!!",
         "published_at": "2021-04-01T04:00:10Z",
         "duration": "PT3M53S",
-        "views_count": "14096",
+        "views_count": "14097",
         "likes_count": "742",
         "comments_count": "118"
     },
@@ -958,8 +958,8 @@
         "title": "Expected Values, Main Ideas!!!",
         "published_at": "2021-03-29T04:00:03Z",
         "duration": "PT13M39S",
-        "views_count": "284799",
-        "likes_count": "8849",
+        "views_count": "284837",
+        "likes_count": "8851",
         "comments_count": "502"
     },
     {
@@ -967,8 +967,8 @@
         "title": "Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)",
         "published_at": "2021-03-08T05:00:12Z",
         "duration": "PT15M24S",
-        "views_count": "426171",
-        "likes_count": "12581",
+        "views_count": "426259",
+        "likes_count": "12584",
         "comments_count": "929"
     },
     {
@@ -976,7 +976,7 @@
         "title": "Neural Networks Part 7: Cross Entropy Derivatives and Backpropagation",
         "published_at": "2021-03-01T05:15:01Z",
         "duration": "PT22M8S",
-        "views_count": "184496",
+        "views_count": "184524",
         "likes_count": "4258",
         "comments_count": "384"
     },
@@ -985,7 +985,7 @@
         "title": "Neural Networks Part 6: Cross Entropy",
         "published_at": "2021-03-01T05:00:01Z",
         "duration": "PT9M31S",
-        "views_count": "354301",
+        "views_count": "354363",
         "likes_count": "8637",
         "comments_count": "333"
     },
@@ -994,7 +994,7 @@
         "title": "The SoftMax Derivative, Step-by-Step!!!",
         "published_at": "2021-02-08T03:34:35Z",
         "duration": "PT7M13S",
-        "views_count": "113859",
+        "views_count": "113868",
         "likes_count": "2485",
         "comments_count": "129"
     },
@@ -1003,8 +1003,8 @@
         "title": "Neural Networks Part 5: ArgMax and SoftMax",
         "published_at": "2021-02-08T03:34:23Z",
         "duration": "PT14M3S",
-        "views_count": "241091",
-        "likes_count": "6197",
+        "views_count": "241130",
+        "likes_count": "6195",
         "comments_count": "305"
     },
     {
@@ -1012,8 +1012,8 @@
         "title": "Neural Networks Pt. 4: Multiple Inputs and Outputs",
         "published_at": "2021-02-01T05:00:03Z",
         "duration": "PT13M50S",
-        "views_count": "237669",
-        "likes_count": "5799",
+        "views_count": "237703",
+        "likes_count": "5798",
         "comments_count": "336"
     },
     {
@@ -1021,7 +1021,7 @@
         "title": "US Census Data and Contest!!!",
         "published_at": "2020-12-08T01:00:16Z",
         "duration": "PT8M36S",
-        "views_count": "16977",
+        "views_count": "16978",
         "likes_count": "298",
         "comments_count": "52"
     },
@@ -1030,8 +1030,8 @@
         "title": "Neural Networks Pt. 3: ReLU In Action!!!",
         "published_at": "2020-11-23T09:05:29Z",
         "duration": "PT8M58S",
-        "views_count": "384891",
-        "likes_count": "8449",
+        "views_count": "384944",
+        "likes_count": "8446",
         "comments_count": "363"
     },
     {
@@ -1039,7 +1039,7 @@
         "title": "Backpropagation Details Pt. 2: Going bonkers with The Chain Rule",
         "published_at": "2020-11-02T05:15:01Z",
         "duration": "PT13M9S",
-        "views_count": "194737",
+        "views_count": "194761",
         "likes_count": "5636",
         "comments_count": "599"
     },
@@ -1048,8 +1048,8 @@
         "title": "Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.",
         "published_at": "2020-11-02T05:00:06Z",
         "duration": "PT18M32S",
-        "views_count": "306753",
-        "likes_count": "6677",
+        "views_count": "306816",
+        "likes_count": "6678",
         "comments_count": "400"
     },
     {
@@ -1057,8 +1057,8 @@
         "title": "Neural Networks Pt. 2: Backpropagation Main Ideas",
         "published_at": "2020-10-19T04:00:02Z",
         "duration": "PT17M34S",
-        "views_count": "793987",
-        "likes_count": "15402",
+        "views_count": "794121",
+        "likes_count": "15401",
         "comments_count": "681"
     },
     {
@@ -1075,8 +1075,8 @@
         "title": "The Essential Main Ideas of Neural Networks",
         "published_at": "2020-08-31T04:00:03Z",
         "duration": "PT18M54S",
-        "views_count": "1399220",
-        "likes_count": "36684",
+        "views_count": "1399484",
+        "likes_count": "36687",
         "comments_count": "2499"
     },
     {
@@ -1084,8 +1084,8 @@
         "title": "XGBoost in Python from Start to Finish",
         "published_at": "2020-08-01T18:13:06Z",
         "duration": "PT56M43S",
-        "views_count": "283810",
-        "likes_count": "7568",
+        "views_count": "283833",
+        "likes_count": "7569",
         "comments_count": "790"
     },
     {
@@ -1102,8 +1102,8 @@
         "title": "The Chain Rule, Clearly Explained!!!",
         "published_at": "2020-07-13T04:00:18Z",
         "duration": "PT18M24S",
-        "views_count": "405579",
-        "likes_count": "9956",
+        "views_count": "405669",
+        "likes_count": "9958",
         "comments_count": "630"
     },
     {
@@ -1111,7 +1111,7 @@
         "title": "Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!",
         "published_at": "2020-07-06T04:00:01Z",
         "duration": "PT14M41S",
-        "views_count": "835690",
+        "views_count": "835904",
         "likes_count": "16239",
         "comments_count": "618"
     },
@@ -1120,7 +1120,7 @@
         "title": "Alternative Hypotheses: Main Ideas!!!",
         "published_at": "2020-07-06T04:00:00Z",
         "duration": "PT9M50S",
-        "views_count": "213844",
+        "views_count": "213891",
         "likes_count": "5494",
         "comments_count": "192"
     },
@@ -1129,7 +1129,7 @@
         "title": "Support Vector Machines in Python from Start to Finish.",
         "published_at": "2020-06-30T17:34:48Z",
         "duration": "PT44M49S",
-        "views_count": "159675",
+        "views_count": "159684",
         "likes_count": "4254",
         "comments_count": "393"
     },
@@ -1147,7 +1147,7 @@
         "title": "Classification Trees in Python from Start to Finish",
         "published_at": "2020-06-07T01:50:06Z",
         "duration": "PT1H6M24S",
-        "views_count": "218815",
+        "views_count": "218830",
         "likes_count": "4680",
         "comments_count": "633"
     },
@@ -1156,7 +1156,7 @@
         "title": "Gaussian Naive Bayes, Clearly Explained!!!",
         "published_at": "2020-06-03T12:36:37Z",
         "duration": "PT9M26S",
-        "views_count": "441202",
+        "views_count": "441243",
         "likes_count": "9843",
         "comments_count": "522"
     },
@@ -1165,8 +1165,8 @@
         "title": "Naive Bayes, Clearly Explained!!!",
         "published_at": "2020-06-03T12:35:57Z",
         "duration": "PT15M12S",
-        "views_count": "1392804",
-        "likes_count": "34910",
+        "views_count": "1392937",
+        "likes_count": "34911",
         "comments_count": "1811"
     },
     {
@@ -1174,7 +1174,7 @@
         "title": "Live 2020-06-01!!! Hypothesis Testing",
         "published_at": "2020-06-01T15:35:49Z",
         "duration": "PT31M20S",
-        "views_count": "18754",
+        "views_count": "18755",
         "likes_count": "763",
         "comments_count": "104"
     },
@@ -1183,8 +1183,8 @@
         "title": "Ridge vs Lasso Regression, Visualized!!!",
         "published_at": "2020-05-19T04:00:08Z",
         "duration": "PT9M6S",
-        "views_count": "347927",
-        "likes_count": "7932",
+        "views_count": "347981",
+        "likes_count": "7935",
         "comments_count": "471"
     },
     {
@@ -1192,7 +1192,7 @@
         "title": "Live 2020-05-18!!! Bayes' Theorem",
         "published_at": "2020-05-18T15:42:14Z",
         "duration": "PT30M17S",
-        "views_count": "25766",
+        "views_count": "25765",
         "likes_count": "890",
         "comments_count": "107"
     },
@@ -1210,8 +1210,8 @@
         "title": "Statistical Power, Clearly Explained!!!",
         "published_at": "2020-05-04T04:00:11Z",
         "duration": "PT8M19S",
-        "views_count": "406301",
-        "likes_count": "8817",
+        "views_count": "406353",
+        "likes_count": "8816",
         "comments_count": "377"
     },
     {
@@ -1219,8 +1219,8 @@
         "title": "Power Analysis, Clearly Explained!!!",
         "published_at": "2020-05-04T04:00:11Z",
         "duration": "PT16M45S",
-        "views_count": "402978",
-        "likes_count": "7831",
+        "views_count": "403018",
+        "likes_count": "7829",
         "comments_count": "467"
     },
     {
@@ -1228,7 +1228,7 @@
         "title": "p-hacking: What it is and how to avoid it!",
         "published_at": "2020-05-04T04:00:05Z",
         "duration": "PT13M45S",
-        "views_count": "182526",
+        "views_count": "182563",
         "likes_count": "4770",
         "comments_count": "304"
     },
@@ -1237,7 +1237,7 @@
         "title": "Live 2020-04-20!!! Expected Values",
         "published_at": "2020-04-20T16:46:34Z",
         "duration": "PT33M",
-        "views_count": "21548",
+        "views_count": "21549",
         "likes_count": "891",
         "comments_count": "152"
     },
@@ -1246,7 +1246,7 @@
         "title": "Live 2020-04-06!!! Naive Bayes: Gaussian",
         "published_at": "2020-04-06T16:49:34Z",
         "duration": "PT36M41S",
-        "views_count": "18403",
+        "views_count": "18404",
         "likes_count": "626",
         "comments_count": "117"
     },
@@ -1255,8 +1255,8 @@
         "title": "Bam!!! Clearly Explained!!!",
         "published_at": "2020-04-01T04:00:14Z",
         "duration": "PT2M49S",
-        "views_count": "71689",
-        "likes_count": "3911",
+        "views_count": "71698",
+        "likes_count": "3912",
         "comments_count": "552"
     },
     {
@@ -1264,8 +1264,8 @@
         "title": "How to calculate p-values",
         "published_at": "2020-03-23T04:15:00Z",
         "duration": "PT25M15S",
-        "views_count": "544864",
-        "likes_count": "12860",
+        "views_count": "544940",
+        "likes_count": "12864",
         "comments_count": "879"
     },
     {
@@ -1273,8 +1273,8 @@
         "title": "p-values: What they are and how to interpret them",
         "published_at": "2020-03-23T04:00:17Z",
         "duration": "PT11M21S",
-        "views_count": "1527405",
-        "likes_count": "33736",
+        "views_count": "1527656",
+        "likes_count": "33739",
         "comments_count": "1231"
     },
     {
@@ -1282,7 +1282,7 @@
         "title": "Live 2020-03-16!!! Naive Bayes",
         "published_at": "2020-03-16T13:49:34Z",
         "duration": "PT33M51S",
-        "views_count": "28581",
+        "views_count": "28580",
         "likes_count": "1198",
         "comments_count": "183"
     },
@@ -1300,7 +1300,7 @@
         "title": "XGBoost Part 4 (of 4): Crazy Cool Optimizations",
         "published_at": "2020-03-02T05:00:06Z",
         "duration": "PT24M27S",
-        "views_count": "117315",
+        "views_count": "117327",
         "likes_count": "2587",
         "comments_count": "228"
     },
@@ -1309,8 +1309,8 @@
         "title": "Live 2020-02-17!!! Imbalanced Data and Post-Hoc Tests",
         "published_at": "2020-02-17T14:39:56Z",
         "duration": "PT30M54S",
-        "views_count": "16792",
-        "likes_count": "635",
+        "views_count": "16795",
+        "likes_count": "636",
         "comments_count": "95"
     },
     {
@@ -1318,7 +1318,7 @@
         "title": "XGBoost Part 3 (of 4): Mathematical Details",
         "published_at": "2020-02-10T05:00:08Z",
         "duration": "PT27M24S",
-        "views_count": "164486",
+        "views_count": "164507",
         "likes_count": "2465",
         "comments_count": "318"
     },
@@ -1327,7 +1327,7 @@
         "title": "Live 2020-02-03!!! Statistical Models, Regularization, Best ML Algorithm.",
         "published_at": "2020-02-04T02:45:07Z",
         "duration": "PT30M35S",
-        "views_count": "11217",
+        "views_count": "11218",
         "likes_count": "880",
         "comments_count": "86"
     },
@@ -1336,7 +1336,7 @@
         "title": "Live 2020-01-20!!! Favorite ML, Data Leakage, How to Learn ML",
         "published_at": "2020-01-20T14:34:50Z",
         "duration": "PT25M42S",
-        "views_count": "12489",
+        "views_count": "12492",
         "likes_count": "550",
         "comments_count": "86"
     },
@@ -1345,8 +1345,8 @@
         "title": "XGBoost Part 2 (of 4): Classification",
         "published_at": "2020-01-13T12:30:01Z",
         "duration": "PT25M18S",
-        "views_count": "304279",
-        "likes_count": "4432",
+        "views_count": "304336",
+        "likes_count": "4431",
         "comments_count": "436"
     },
     {
@@ -1363,8 +1363,8 @@
         "title": "XGBoost Part 1 (of 4): Regression",
         "published_at": "2019-12-16T14:00:04Z",
         "duration": "PT25M46S",
-        "views_count": "892171",
-        "likes_count": "11605",
+        "views_count": "892292",
+        "likes_count": "11604",
         "comments_count": "860"
     },
     {
@@ -1372,8 +1372,8 @@
         "title": "Machine Learning Fundamentals: Sensitivity and Specificity",
         "published_at": "2019-12-02T14:07:38Z",
         "duration": "PT11M47S",
-        "views_count": "492937",
-        "likes_count": "10534",
+        "views_count": "493064",
+        "likes_count": "10535",
         "comments_count": "418"
     },
     {
@@ -1381,7 +1381,7 @@
         "title": "How to Prune Regression Trees, Clearly Explained!!!",
         "published_at": "2019-11-25T10:59:44Z",
         "duration": "PT16M15S",
-        "views_count": "306071",
+        "views_count": "306116",
         "likes_count": "6246",
         "comments_count": "602"
     },
@@ -1390,8 +1390,8 @@
         "title": "Support Vector Machines Part 3: The Radial (RBF) Kernel (Part 3 of 3)",
         "published_at": "2019-11-04T13:00:06Z",
         "duration": "PT15M52S",
-        "views_count": "346763",
-        "likes_count": "9030",
+        "views_count": "346805",
+        "likes_count": "9029",
         "comments_count": "674"
     },
     {
@@ -1399,8 +1399,8 @@
         "title": "Support Vector Machines Part 2: The Polynomial Kernel (Part 2 of 3)",
         "published_at": "2019-11-04T12:00:05Z",
         "duration": "PT7M15S",
-        "views_count": "439427",
-        "likes_count": "8825",
+        "views_count": "439475",
+        "likes_count": "8824",
         "comments_count": "477"
     },
     {
@@ -1408,8 +1408,8 @@
         "title": "Support Vector Machines Part 1 (of 3): Main Ideas!!!",
         "published_at": "2019-09-30T18:45:50Z",
         "duration": "PT20M32S",
-        "views_count": "1775993",
-        "likes_count": "40299",
+        "views_count": "1776224",
+        "likes_count": "40301",
         "comments_count": "2240"
     },
     {
@@ -1417,8 +1417,8 @@
         "title": "Regression Trees, Clearly Explained!!!",
         "published_at": "2019-08-20T00:30:00Z",
         "duration": "PT22M33S",
-        "views_count": "830657",
-        "likes_count": "19010",
+        "views_count": "830747",
+        "likes_count": "19012",
         "comments_count": "1381"
     },
     {
@@ -1426,8 +1426,8 @@
         "title": "Pearson's Correlation, Clearly Explained!!!",
         "published_at": "2019-08-05T15:30:03Z",
         "duration": "PT19M13S",
-        "views_count": "488871",
-        "likes_count": "10709",
+        "views_count": "488942",
+        "likes_count": "10711",
         "comments_count": "670"
     },
     {
@@ -1435,8 +1435,8 @@
         "title": "Covariance, Clearly Explained!!!",
         "published_at": "2019-07-29T19:15:01Z",
         "duration": "PT22M23S",
-        "views_count": "660380",
-        "likes_count": "15459",
+        "views_count": "660439",
+        "likes_count": "15460",
         "comments_count": "856"
     },
     {
@@ -1444,8 +1444,8 @@
         "title": "Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!",
         "published_at": "2019-07-15T18:15:02Z",
         "duration": "PT14M22S",
-        "views_count": "614863",
-        "likes_count": "14231",
+        "views_count": "615016",
+        "likes_count": "14233",
         "comments_count": "631"
     },
     {
@@ -1453,7 +1453,7 @@
         "title": "Why Dividing By N Underestimates the Variance",
         "published_at": "2019-07-15T18:15:02Z",
         "duration": "PT17M15S",
-        "views_count": "158101",
+        "views_count": "158124",
         "likes_count": "5266",
         "comments_count": "675"
     },
@@ -1462,8 +1462,8 @@
         "title": "ROC and AUC, Clearly Explained!",
         "published_at": "2019-07-11T21:15:02Z",
         "duration": "PT16M17S",
-        "views_count": "1958833",
-        "likes_count": "45889",
+        "views_count": "1959086",
+        "likes_count": "45895",
         "comments_count": "2363"
     },
     {
@@ -1471,8 +1471,8 @@
         "title": "Population and Estimated Parameters, Clearly Explained!!!",
         "published_at": "2019-07-01T17:30:00Z",
         "duration": "PT14M31S",
-        "views_count": "498396",
-        "likes_count": "9572",
+        "views_count": "498532",
+        "likes_count": "9574",
         "comments_count": "386"
     },
     {
@@ -1480,8 +1480,8 @@
         "title": "Stochastic Gradient Descent, Clearly Explained!!!",
         "published_at": "2019-05-13T20:45:00Z",
         "duration": "PT10M53S",
-        "views_count": "591593",
-        "likes_count": "13484",
+        "views_count": "591646",
+        "likes_count": "13483",
         "comments_count": "580"
     },
     {
@@ -1489,8 +1489,8 @@
         "title": "Gradient Boost Part 4 (of 4): Classification Details",
         "published_at": "2019-04-22T15:30:00Z",
         "duration": "PT37M",
-        "views_count": "158868",
-        "likes_count": "3062",
+        "views_count": "158892",
+        "likes_count": "3060",
         "comments_count": "583"
     },
     {
@@ -1498,8 +1498,8 @@
         "title": "Gradient Boost Part 3 (of 4): Classification",
         "published_at": "2019-04-08T14:00:04Z",
         "duration": "PT17M3S",
-        "views_count": "333190",
-        "likes_count": "6196",
+        "views_count": "333221",
+        "likes_count": "6197",
         "comments_count": "605"
     },
     {
@@ -1507,8 +1507,8 @@
         "title": "Saturday",
         "published_at": "2019-04-06T02:00:00Z",
         "duration": "PT3M10S",
-        "views_count": "32177",
-        "likes_count": "1027",
+        "views_count": "32179",
+        "likes_count": "1028",
         "comments_count": "122"
     },
     {
@@ -1516,8 +1516,8 @@
         "title": "Gradient Boost Part 2 (of 4): Regression Details",
         "published_at": "2019-04-01T23:00:02Z",
         "duration": "PT26M46S",
-        "views_count": "371574",
-        "likes_count": "7867",
+        "views_count": "371636",
+        "likes_count": "7865",
         "comments_count": "969"
     },
     {
@@ -1525,8 +1525,8 @@
         "title": "Gradient Boost Part 1 (of 4): Regression Main Ideas",
         "published_at": "2019-03-25T16:00:01Z",
         "duration": "PT15M52S",
-        "views_count": "1057410",
-        "likes_count": "15918",
+        "views_count": "1057595",
+        "likes_count": "15919",
         "comments_count": "977"
     },
     {
@@ -1543,8 +1543,8 @@
         "title": "Gradient Descent, Step-by-Step",
         "published_at": "2019-02-05T16:15:01Z",
         "duration": "PT23M54S",
-        "views_count": "1832220",
-        "likes_count": "43754",
+        "views_count": "1832509",
+        "likes_count": "43760",
         "comments_count": "3058"
     },
     {
@@ -1561,8 +1561,8 @@
         "title": "AdaBoost, Clearly Explained",
         "published_at": "2019-01-14T20:00:04Z",
         "duration": "PT20M54S",
-        "views_count": "951562",
-        "likes_count": "19006",
+        "views_count": "951668",
+        "likes_count": "19003",
         "comments_count": "1931"
     },
     {
@@ -1570,8 +1570,8 @@
         "title": "Design Matrices For Linear Models, Clearly Explained!!!",
         "published_at": "2019-01-08T02:00:00Z",
         "duration": "PT14M40S",
-        "views_count": "176550",
-        "likes_count": "2805",
+        "views_count": "176607",
+        "likes_count": "2807",
         "comments_count": "216"
     },
     {
@@ -1588,8 +1588,8 @@
         "title": "ROC and AUC in R",
         "published_at": "2018-12-18T00:00:03Z",
         "duration": "PT15M13S",
-        "views_count": "301421",
-        "likes_count": "4082",
+        "views_count": "301437",
+        "likes_count": "4083",
         "comments_count": "391"
     },
     {
@@ -1606,9 +1606,9 @@
         "title": "A Gentle Introduction to Machine Learning",
         "published_at": "2018-11-26T17:00:01Z",
         "duration": "PT12M45S",
-        "views_count": "1614548",
-        "likes_count": "26276",
-        "comments_count": "1182"
+        "views_count": "1614998",
+        "likes_count": "26280",
+        "comments_count": "1183"
     },
     {
         "video_id": "hRdBqO4FFDs",
@@ -1624,8 +1624,8 @@
         "title": "Machine Learning Fundamentals: The Confusion Matrix",
         "published_at": "2018-10-29T14:00:01Z",
         "duration": "PT7M13S",
-        "views_count": "966751",
-        "likes_count": "21750",
+        "views_count": "966972",
+        "likes_count": "21754",
         "comments_count": "755"
     },
     {
@@ -1633,7 +1633,7 @@
         "title": "Ridge, Lasso and Elastic-Net Regression in R",
         "published_at": "2018-10-23T13:30:00Z",
         "duration": "PT17M51S",
-        "views_count": "144452",
+        "views_count": "144462",
         "likes_count": "2433",
         "comments_count": "289"
     },
@@ -1642,8 +1642,8 @@
         "title": "Regularization Part 3: Elastic Net Regression",
         "published_at": "2018-10-08T13:06:13Z",
         "duration": "PT5M19S",
-        "views_count": "255828",
-        "likes_count": "5560",
+        "views_count": "255859",
+        "likes_count": "5561",
         "comments_count": "351"
     },
     {
@@ -1651,8 +1651,8 @@
         "title": "Regularization Part 2: Lasso (L1) Regression",
         "published_at": "2018-10-01T13:20:40Z",
         "duration": "PT8M19S",
-        "views_count": "716874",
-        "likes_count": "13476",
+        "views_count": "716946",
+        "likes_count": "13478",
         "comments_count": "696"
     },
     {
@@ -1669,8 +1669,8 @@
         "title": "Regularization Part 1: Ridge (L2) Regression",
         "published_at": "2018-09-24T16:59:00Z",
         "duration": "PT20M27S",
-        "views_count": "1400484",
-        "likes_count": "24611",
+        "views_count": "1400762",
+        "likes_count": "24618",
         "comments_count": "1653"
     },
     {
@@ -1678,8 +1678,8 @@
         "title": "Machine Learning Fundamentals: Bias and Variance",
         "published_at": "2018-09-17T16:00:42Z",
         "duration": "PT6M36S",
-        "views_count": "1738840",
-        "likes_count": "46697",
+        "views_count": "1739147",
+        "likes_count": "46700",
         "comments_count": "1629"
     },
     {
@@ -1687,7 +1687,7 @@
         "title": "Maximum Likelihood For the Normal Distribution, step-by-step!!!",
         "published_at": "2018-09-10T15:00:12Z",
         "duration": "PT19M50S",
-        "views_count": "624001",
+        "views_count": "624042",
         "likes_count": "16787",
         "comments_count": "1430"
     },
@@ -1696,8 +1696,8 @@
         "title": "The Central Limit Theorem, Clearly Explained!!!",
         "published_at": "2018-09-03T17:04:06Z",
         "duration": "PT7M35S",
-        "views_count": "1109406",
-        "likes_count": "26924",
+        "views_count": "1109554",
+        "likes_count": "26929",
         "comments_count": "1254"
     },
     {
@@ -1714,8 +1714,8 @@
         "title": "Maximum Likelihood for the Binomial Distribution, Clearly Explained!!!",
         "published_at": "2018-08-13T15:17:38Z",
         "duration": "PT11M24S",
-        "views_count": "122759",
-        "likes_count": "2415",
+        "views_count": "122773",
+        "likes_count": "2417",
         "comments_count": "206"
     },
     {
@@ -1723,8 +1723,8 @@
         "title": "The Binomial Distribution and Test, Clearly Explained!!!",
         "published_at": "2018-08-06T19:58:36Z",
         "duration": "PT15M47S",
-        "views_count": "349193",
-        "likes_count": "8934",
+        "views_count": "349238",
+        "likes_count": "8931",
         "comments_count": "611"
     },
     {
@@ -1733,7 +1733,7 @@
         "published_at": "2018-08-02T01:40:27Z",
         "duration": "PT2M55S",
         "views_count": "3821",
-        "likes_count": "111",
+        "likes_count": "112",
         "comments_count": "32"
     },
     {
@@ -1741,8 +1741,8 @@
         "title": "Maximum Likelihood for the Exponential Distribution, Clearly Explained!!!",
         "published_at": "2018-07-30T15:18:07Z",
         "duration": "PT9M39S",
-        "views_count": "241739",
-        "likes_count": "6503",
+        "views_count": "241757",
+        "likes_count": "6505",
         "comments_count": "389"
     },
     {
@@ -1750,7 +1750,7 @@
         "title": "Logistic Regression in R, Clearly Explained!!!!",
         "published_at": "2018-07-26T10:58:24Z",
         "duration": "PT17M15S",
-        "views_count": "575819",
+        "views_count": "575845",
         "likes_count": "9471",
         "comments_count": "677"
     },
@@ -1759,7 +1759,7 @@
         "title": "Deviance Residuals",
         "published_at": "2018-07-16T16:26:47Z",
         "duration": "PT6M18S",
-        "views_count": "105718",
+        "views_count": "105731",
         "likes_count": "1483",
         "comments_count": "92"
     },
@@ -1768,7 +1768,7 @@
         "title": "Saturated Models and Deviance",
         "published_at": "2018-07-09T18:48:49Z",
         "duration": "PT18M40S",
-        "views_count": "137289",
+        "views_count": "137316",
         "likes_count": "2175",
         "comments_count": "201"
     },
@@ -1786,8 +1786,8 @@
         "title": "Odds Ratios and Log(Odds Ratios), Clearly Explained!!!",
         "published_at": "2018-06-21T21:07:23Z",
         "duration": "PT16M20S",
-        "views_count": "419387",
-        "likes_count": "7532",
+        "views_count": "419444",
+        "likes_count": "7531",
         "comments_count": "489"
     },
     {
@@ -1795,7 +1795,7 @@
         "title": "Logistic Regression Details Pt 3: R-squared and p-value",
         "published_at": "2018-06-18T18:38:47Z",
         "duration": "PT15M25S",
-        "views_count": "336050",
+        "views_count": "336081",
         "likes_count": "5457",
         "comments_count": "306"
     },
@@ -1804,8 +1804,8 @@
         "title": "Logistic Regression Details Pt 2: Maximum Likelihood",
         "published_at": "2018-06-11T17:48:12Z",
         "duration": "PT10M23S",
-        "views_count": "549404",
-        "likes_count": "8787",
+        "views_count": "549453",
+        "likes_count": "8786",
         "comments_count": "891"
     },
     {
@@ -1813,8 +1813,8 @@
         "title": "Logistic Regression Details Pt1: Coefficients",
         "published_at": "2018-06-04T14:13:50Z",
         "duration": "PT19M2S",
-        "views_count": "1084065",
-        "likes_count": "16426",
+        "views_count": "1084161",
+        "likes_count": "16427",
         "comments_count": "854"
     },
     {
@@ -1831,8 +1831,8 @@
         "title": "StatQuest: K-means clustering",
         "published_at": "2018-05-23T20:18:55Z",
         "duration": "PT8M30S",
-        "views_count": "2201284",
-        "likes_count": "41821",
+        "views_count": "2201510",
+        "likes_count": "41825",
         "comments_count": "1382"
     },
     {
@@ -1840,8 +1840,8 @@
         "title": "Odds and Log(Odds), Clearly Explained!!!",
         "published_at": "2018-05-07T17:30:36Z",
         "duration": "PT11M31S",
-        "views_count": "451881",
-        "likes_count": "12531",
+        "views_count": "451960",
+        "likes_count": "12529",
         "comments_count": "748"
     },
     {
@@ -1849,7 +1849,7 @@
         "title": "Hey Dom",
         "published_at": "2018-04-28T19:15:50Z",
         "duration": "PT2M18S",
-        "views_count": "3365",
+        "views_count": "3366",
         "likes_count": "84",
         "comments_count": "16"
     },
@@ -1858,8 +1858,8 @@
         "title": "Machine Learning Fundamentals: Cross Validation",
         "published_at": "2018-04-24T18:37:54Z",
         "duration": "PT6M5S",
-        "views_count": "1481146",
-        "likes_count": "41574",
+        "views_count": "1481369",
+        "likes_count": "41573",
         "comments_count": "1723"
     },
     {
@@ -1867,8 +1867,8 @@
         "title": "StatQuest: A gentle introduction to ChIP-Seq",
         "published_at": "2018-04-16T20:12:28Z",
         "duration": "PT8M30S",
-        "views_count": "174232",
-        "likes_count": "4779",
+        "views_count": "174241",
+        "likes_count": "4778",
         "comments_count": "216"
     },
     {
@@ -1885,8 +1885,8 @@
         "title": "StatQuest: PCA - Practical Tips",
         "published_at": "2018-04-09T14:13:54Z",
         "duration": "PT8M20S",
-        "views_count": "227063",
-        "likes_count": "4833",
+        "views_count": "227103",
+        "likes_count": "4834",
         "comments_count": "185"
     },
     {
@@ -1894,8 +1894,8 @@
         "title": "StatQuest: Principal Component Analysis (PCA), Step-by-Step",
         "published_at": "2018-04-02T20:06:10Z",
         "duration": "PT21M58S",
-        "views_count": "3667408",
-        "likes_count": "72656",
+        "views_count": "3667788",
+        "likes_count": "72664",
         "comments_count": "4919"
     },
     {
@@ -1912,17 +1912,17 @@
         "title": "In Statistics, Probability is not Likelihood.",
         "published_at": "2018-03-09T19:38:43Z",
         "duration": "PT5M1S",
-        "views_count": "1546844",
-        "likes_count": "42425",
-        "comments_count": "1505"
+        "views_count": "1546926",
+        "likes_count": "42426",
+        "comments_count": "1504"
     },
     {
         "video_id": "yIYKR4sgzI8",
         "title": "StatQuest: Logistic Regression",
         "published_at": "2018-03-05T15:17:39Z",
         "duration": "PT8M48S",
-        "views_count": "2775406",
-        "likes_count": "47351",
+        "views_count": "2775707",
+        "likes_count": "47354",
         "comments_count": "1301"
     },
     {
@@ -1939,7 +1939,7 @@
         "title": "StatQuest: Random Forests in R",
         "published_at": "2018-02-26T16:44:24Z",
         "duration": "PT15M10S",
-        "views_count": "180328",
+        "views_count": "180333",
         "likes_count": "3320",
         "comments_count": "407"
     },
@@ -1948,8 +1948,8 @@
         "title": "StatQuest: Random Forests Part 1 - Building, Using and Evaluating",
         "published_at": "2018-02-05T15:55:40Z",
         "duration": "PT9M54S",
-        "views_count": "1456779",
-        "likes_count": "24010",
+        "views_count": "1456933",
+        "likes_count": "24011",
         "comments_count": "1417"
     },
     {
@@ -1957,7 +1957,7 @@
         "title": "Love Song",
         "published_at": "2018-01-29T15:18:45Z",
         "duration": "PT3M14S",
-        "views_count": "4021",
+        "views_count": "4022",
         "likes_count": "106",
         "comments_count": "25"
     },
@@ -1966,8 +1966,8 @@
         "title": "StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data",
         "published_at": "2018-01-29T15:06:20Z",
         "duration": "PT5M16S",
-        "views_count": "265032",
-        "likes_count": "4556",
+        "views_count": "265077",
+        "likes_count": "4559",
         "comments_count": "196"
     },
     {
@@ -1975,7 +1975,7 @@
         "title": "StatQuest: PCA in Python",
         "published_at": "2018-01-08T21:06:15Z",
         "duration": "PT11M37S",
-        "views_count": "228701",
+        "views_count": "228710",
         "likes_count": "5281",
         "comments_count": "420"
     },
@@ -1993,7 +1993,7 @@
         "title": "StatQuest: MDS and PCoA in R",
         "published_at": "2017-12-18T22:56:21Z",
         "duration": "PT7M45S",
-        "views_count": "49092",
+        "views_count": "49095",
         "likes_count": "607",
         "comments_count": "45"
     },
@@ -2002,8 +2002,8 @@
         "title": "StatQuest: MDS and PCoA",
         "published_at": "2017-12-11T15:41:29Z",
         "duration": "PT8M18S",
-        "views_count": "229256",
-        "likes_count": "3998",
+        "views_count": "229279",
+        "likes_count": "3999",
         "comments_count": "212"
     },
     {
@@ -2011,8 +2011,8 @@
         "title": "StatQuest: PCA main ideas in only 5 minutes!!!",
         "published_at": "2017-12-04T20:18:06Z",
         "duration": "PT6M5S",
-        "views_count": "1626968",
-        "likes_count": "32080",
+        "views_count": "1627132",
+        "likes_count": "32085",
         "comments_count": "811"
     },
     {
@@ -2029,8 +2029,8 @@
         "title": "StatQuest: PCA in R",
         "published_at": "2017-11-27T14:35:50Z",
         "duration": "PT8M57S",
-        "views_count": "333934",
-        "likes_count": "4938",
+        "views_count": "333969",
+        "likes_count": "4937",
         "comments_count": "359"
     },
     {
@@ -2038,7 +2038,7 @@
         "title": "Quantile Normalization, Clearly Explained!!!",
         "published_at": "2017-11-20T10:51:06Z",
         "duration": "PT4M52S",
-        "views_count": "86003",
+        "views_count": "86009",
         "likes_count": "1960",
         "comments_count": "123"
     },
@@ -2047,8 +2047,8 @@
         "title": "Quantile-Quantile Plots (QQ plots), Clearly Explained!!!",
         "published_at": "2017-11-13T13:09:12Z",
         "duration": "PT6M56S",
-        "views_count": "642648",
-        "likes_count": "10430",
+        "views_count": "642708",
+        "likes_count": "10433",
         "comments_count": "514"
     },
     {
@@ -2056,7 +2056,7 @@
         "title": "Quantiles and Percentiles, Clearly Explained!!!",
         "published_at": "2017-11-06T17:42:22Z",
         "duration": "PT6M30S",
-        "views_count": "378848",
+        "views_count": "378876",
         "likes_count": "7198",
         "comments_count": "281"
     },
@@ -2074,8 +2074,8 @@
         "title": "Multiple Regression in R, Step-by-Step!!!",
         "published_at": "2017-10-30T16:56:57Z",
         "duration": "PT7M43S",
-        "views_count": "195243",
-        "likes_count": "3377",
+        "views_count": "195252",
+        "likes_count": "3378",
         "comments_count": "220"
     },
     {
@@ -2083,8 +2083,8 @@
         "title": "Multiple Regression, Clearly Explained!!!",
         "published_at": "2017-10-30T16:52:41Z",
         "duration": "PT5M25S",
-        "views_count": "660388",
-        "likes_count": "7462",
+        "views_count": "660450",
+        "likes_count": "7463",
         "comments_count": "230"
     },
     {
@@ -2092,8 +2092,8 @@
         "title": "Sample Size and Effective Sample Size, Clearly Explained!!!",
         "published_at": "2017-10-23T19:41:10Z",
         "duration": "PT6M33S",
-        "views_count": "125379",
-        "likes_count": "1854",
+        "views_count": "125390",
+        "likes_count": "1855",
         "comments_count": "88"
     },
     {
@@ -2101,7 +2101,7 @@
         "title": "The Difference Between Technical and Biological Replicates",
         "published_at": "2017-10-09T15:20:45Z",
         "duration": "PT5M27S",
-        "views_count": "77944",
+        "views_count": "77947",
         "likes_count": "1543",
         "comments_count": "73"
     },
@@ -2110,7 +2110,7 @@
         "title": "The Normal Distribution, Clearly Explained!!!",
         "published_at": "2017-10-09T15:12:09Z",
         "duration": "PT5M13S",
-        "views_count": "2057914",
+        "views_count": "2058221",
         "likes_count": "35746",
         "comments_count": "898"
     },
@@ -2137,8 +2137,8 @@
         "title": "StatQuest: Histograms, Clearly Explained",
         "published_at": "2017-09-25T13:38:28Z",
         "duration": "PT3M42S",
-        "views_count": "1067075",
-        "likes_count": "17436",
+        "views_count": "1067412",
+        "likes_count": "17439",
         "comments_count": "477"
     },
     {
@@ -2146,8 +2146,8 @@
         "title": "StatQuest: t-SNE, Clearly Explained",
         "published_at": "2017-09-18T14:55:30Z",
         "duration": "PT11M48S",
-        "views_count": "568752",
-        "likes_count": "13239",
+        "views_count": "568815",
+        "likes_count": "13240",
         "comments_count": "789"
     },
     {
@@ -2164,8 +2164,8 @@
         "title": "StatQuest: A gentle introduction to RNA-seq",
         "published_at": "2017-08-31T18:28:40Z",
         "duration": "PT18M26S",
-        "views_count": "597844",
-        "likes_count": "13188",
+        "views_count": "597900",
+        "likes_count": "13187",
         "comments_count": "593"
     },
     {
@@ -2173,7 +2173,7 @@
         "title": "StatQuest: How to make a Mean Pizza Crust!!!",
         "published_at": "2017-08-31T18:07:09Z",
         "duration": "PT8M12S",
-        "views_count": "9738",
+        "views_count": "9739",
         "likes_count": "329",
         "comments_count": "53"
     },
@@ -2182,7 +2182,7 @@
         "title": "Using Linear Models for t-tests and ANOVA, Clearly Explained!!!",
         "published_at": "2017-08-07T15:26:19Z",
         "duration": "PT11M38S",
-        "views_count": "492977",
+        "views_count": "493043",
         "likes_count": "6983",
         "comments_count": "427"
     },
@@ -2200,7 +2200,7 @@
         "title": "Maximum Likelihood, clearly explained!!!",
         "published_at": "2017-07-31T17:26:45Z",
         "duration": "PT6M12S",
-        "views_count": "1763190",
+        "views_count": "1763357",
         "likes_count": "35517",
         "comments_count": "1439"
     },
@@ -2209,7 +2209,7 @@
         "title": "Linear Regression in R, Step-by-Step",
         "published_at": "2017-07-25T15:29:00Z",
         "duration": "PT5M1S",
-        "views_count": "261415",
+        "views_count": "261422",
         "likes_count": "4747",
         "comments_count": "249"
     },
@@ -2218,7 +2218,7 @@
         "title": "Linear Regression, Clearly Explained!!!",
         "published_at": "2017-07-24T19:06:27Z",
         "duration": "PT27M27S",
-        "views_count": "1579067",
+        "views_count": "1579122",
         "likes_count": "25625",
         "comments_count": "1671"
     },
@@ -2227,7 +2227,7 @@
         "title": "What is a (mathematical) model?",
         "published_at": "2017-07-17T15:31:28Z",
         "duration": "PT3M45S",
-        "views_count": "292647",
+        "views_count": "292710",
         "likes_count": "5502",
         "comments_count": "116"
     },
@@ -2236,8 +2236,8 @@
         "title": "Boxplots are Awesome!!!",
         "published_at": "2017-07-11T00:25:59Z",
         "duration": "PT2M33S",
-        "views_count": "162231",
-        "likes_count": "3214",
+        "views_count": "162257",
+        "likes_count": "3217",
         "comments_count": "112"
     },
     {
@@ -2254,7 +2254,7 @@
         "title": "StatQuest: K-nearest neighbors, Clearly Explained",
         "published_at": "2017-06-26T18:54:55Z",
         "duration": "PT5M30S",
-        "views_count": "807785",
+        "views_count": "807846",
         "likes_count": "14840",
         "comments_count": "493"
     },
@@ -2263,8 +2263,8 @@
         "title": "StatQuest: Hierarchical Clustering",
         "published_at": "2017-06-20T12:33:24Z",
         "duration": "PT11M19S",
-        "views_count": "563005",
-        "likes_count": "11419",
+        "views_count": "563051",
+        "likes_count": "11420",
         "comments_count": "419"
     },
     {
@@ -2272,7 +2272,7 @@
         "title": "Lowess and Loess, Clearly Explained!!!",
         "published_at": "2017-06-05T17:17:53Z",
         "duration": "PT10M10S",
-        "views_count": "156837",
+        "views_count": "156852",
         "likes_count": "3252",
         "comments_count": "209"
     },
@@ -2290,7 +2290,7 @@
         "title": "The Main Ideas of Fitting a Line to Data (The Main Ideas of Least Squares and Linear Regression.)",
         "published_at": "2017-05-22T20:37:28Z",
         "duration": "PT9M22S",
-        "views_count": "842369",
+        "views_count": "842470",
         "likes_count": "15073",
         "comments_count": "757"
     },
@@ -2299,7 +2299,7 @@
         "title": "StatQuest: edgeR and DESeq2, part 2 - Independent Filtering",
         "published_at": "2017-05-16T13:15:19Z",
         "duration": "PT21M24S",
-        "views_count": "55168",
+        "views_count": "55174",
         "likes_count": "712",
         "comments_count": "61"
     },
@@ -2308,8 +2308,8 @@
         "title": "Sampling from a Distribution, Clearly Explained!!!",
         "published_at": "2017-05-08T13:47:35Z",
         "duration": "PT3M49S",
-        "views_count": "293987",
-        "likes_count": "4667",
+        "views_count": "294030",
+        "likes_count": "4668",
         "comments_count": "129"
     },
     {
@@ -2326,7 +2326,7 @@
         "title": "StatQuest:  One or Two Tailed P-Values",
         "published_at": "2017-04-24T21:17:32Z",
         "duration": "PT7M6S",
-        "views_count": "65657",
+        "views_count": "65664",
         "likes_count": "1154",
         "comments_count": "72"
     },
@@ -2335,8 +2335,8 @@
         "title": "The Main Ideas behind Probability Distributions",
         "published_at": "2017-04-17T17:55:46Z",
         "duration": "PT5M15S",
-        "views_count": "622899",
-        "likes_count": "11346",
+        "views_count": "623057",
+        "likes_count": "11351",
         "comments_count": "319"
     },
     {
@@ -2344,7 +2344,7 @@
         "title": "StatQuest: edgeR, part 1, Library Normalization",
         "published_at": "2017-04-03T16:19:36Z",
         "duration": "PT14M17S",
-        "views_count": "47011",
+        "views_count": "47017",
         "likes_count": "690",
         "comments_count": "59"
     },
@@ -2362,7 +2362,7 @@
         "title": "StatQuest: DESeq2, part 1, Library Normalization",
         "published_at": "2017-03-27T16:06:30Z",
         "duration": "PT12M42S",
-        "views_count": "112153",
+        "views_count": "112162",
         "likes_count": "1749",
         "comments_count": "149"
     },
@@ -2371,8 +2371,8 @@
         "title": "Standard Deviation vs Standard Error, Clearly Explained!!!",
         "published_at": "2017-03-20T15:03:59Z",
         "duration": "PT2M52S",
-        "views_count": "686292",
-        "likes_count": "12958",
+        "views_count": "686457",
+        "likes_count": "12959",
         "comments_count": "541"
     },
     {
@@ -2380,8 +2380,8 @@
         "title": "Fisher's Exact Test and the Hypergeometric Distribution",
         "published_at": "2017-03-13T20:00:30Z",
         "duration": "PT5M15S",
-        "views_count": "146217",
-        "likes_count": "2145",
+        "views_count": "146270",
+        "likes_count": "2146",
         "comments_count": "125"
     },
     {
@@ -2389,8 +2389,8 @@
         "title": "StatQuickie: Which t test to use",
         "published_at": "2017-03-06T19:51:38Z",
         "duration": "PT5M10S",
-        "views_count": "58242",
-        "likes_count": "1385",
+        "views_count": "58252",
+        "likes_count": "1384",
         "comments_count": "81"
     },
     {
@@ -2407,8 +2407,8 @@
         "title": "Bar Charts Are Better than Pie Charts",
         "published_at": "2017-02-27T14:39:07Z",
         "duration": "PT1M45S",
-        "views_count": "41505",
-        "likes_count": "922",
+        "views_count": "41510",
+        "likes_count": "923",
         "comments_count": "37"
     },
     {
@@ -2416,8 +2416,8 @@
         "title": "Logs (logarithms), Clearly Explained!!!",
         "published_at": "2017-02-23T17:12:08Z",
         "duration": "PT15M37S",
-        "views_count": "159631",
-        "likes_count": "4005",
+        "views_count": "159654",
+        "likes_count": "4007",
         "comments_count": "291"
     },
     {
@@ -2425,7 +2425,7 @@
         "title": "StatQuickie: Thresholds for Significance",
         "published_at": "2017-02-22T16:20:16Z",
         "duration": "PT6M40S",
-        "views_count": "37750",
+        "views_count": "37754",
         "likes_count": "850",
         "comments_count": "68"
     },
@@ -2443,7 +2443,7 @@
         "title": "False Discovery Rates, FDR, clearly explained",
         "published_at": "2017-01-10T13:40:32Z",
         "duration": "PT18M27S",
-        "views_count": "265459",
+        "views_count": "265481",
         "likes_count": "5270",
         "comments_count": "481"
     },
@@ -2479,7 +2479,7 @@
         "title": "p-hacking and power calculations",
         "published_at": "2016-10-11T17:46:29Z",
         "duration": "PT19M12S",
-        "views_count": "48245",
+        "views_count": "48247",
         "likes_count": "1056",
         "comments_count": "79"
     },
@@ -2515,8 +2515,8 @@
         "title": "StatQuest: Linear Discriminant Analysis (LDA) clearly explained.",
         "published_at": "2016-07-10T21:36:51Z",
         "duration": "PT15M12S",
-        "views_count": "911802",
-        "likes_count": "15706",
+        "views_count": "911840",
+        "likes_count": "15705",
         "comments_count": "987"
     },
     {
@@ -2524,7 +2524,7 @@
         "title": "Another Day",
         "published_at": "2016-07-01T01:43:12Z",
         "duration": "PT3M35S",
-        "views_count": "554",
+        "views_count": "555",
         "likes_count": "12",
         "comments_count": "3"
     },
@@ -2560,7 +2560,7 @@
         "title": "Drawing and Interpreting Heatmaps",
         "published_at": "2016-01-06T15:46:44Z",
         "duration": "PT16M49S",
-        "views_count": "155162",
+        "views_count": "155170",
         "likes_count": "2566",
         "comments_count": "141"
     },
@@ -2578,7 +2578,7 @@
         "title": "That's Alright",
         "published_at": "2015-09-30T01:06:29Z",
         "duration": "PT2M27S",
-        "views_count": "10324",
+        "views_count": "10325",
         "likes_count": "329",
         "comments_count": "66"
     },
@@ -2587,7 +2587,7 @@
         "title": "StatQuest: RNA-seq - the problem with technical replicates",
         "published_at": "2015-08-27T19:47:18Z",
         "duration": "PT12M55S",
-        "views_count": "15807",
+        "views_count": "15808",
         "likes_count": "290",
         "comments_count": "37"
     },
@@ -2596,8 +2596,8 @@
         "title": "Principal Component Analysis (PCA) clearly explained (2015)",
         "published_at": "2015-08-13T17:37:04Z",
         "duration": "PT20M16S",
-        "views_count": "1055692",
-        "likes_count": "15173",
+        "views_count": "1055710",
+        "likes_count": "15171",
         "comments_count": "1108"
     },
     {
@@ -2605,7 +2605,7 @@
         "title": "RPKM, FPKM and TPM, Clearly Explained!!!",
         "published_at": "2015-07-09T17:37:05Z",
         "duration": "PT10M14S",
-        "views_count": "235757",
+        "views_count": "235767",
         "likes_count": "2559",
         "comments_count": "195"
     },
@@ -2614,7 +2614,7 @@
         "title": "Confidence Intervals, Clearly Explained!!!",
         "published_at": "2015-07-09T16:43:04Z",
         "duration": "PT6M42S",
-        "views_count": "448892",
+        "views_count": "448963",
         "likes_count": "8722",
         "comments_count": "382"
     },
@@ -2623,7 +2623,7 @@
         "title": "How to puree garlic",
         "published_at": "2015-07-01T01:37:00Z",
         "duration": "PT47S",
-        "views_count": "38460",
+        "views_count": "38468",
         "likes_count": "291",
         "comments_count": "50"
     },
@@ -2632,7 +2632,7 @@
         "title": "That Dude (in the movies)",
         "published_at": "2015-06-21T19:44:08Z",
         "duration": "PT3M18S",
-        "views_count": "2664",
+        "views_count": "2665",
         "likes_count": "107",
         "comments_count": "18"
     },
@@ -2641,7 +2641,7 @@
         "title": "The standard error, Clearly Explained!!!",
         "published_at": "2015-05-12T14:10:24Z",
         "duration": "PT11M44S",
-        "views_count": "264613",
+        "views_count": "264636",
         "likes_count": "5378",
         "comments_count": "291"
     },
@@ -2650,7 +2650,7 @@
         "title": "Wrapping up dumplings for pot stickers.",
         "published_at": "2015-04-19T21:18:04Z",
         "duration": "PT23S",
-        "views_count": "11908",
+        "views_count": "11910",
         "likes_count": "145",
         "comments_count": "21"
     },
@@ -2659,8 +2659,8 @@
         "title": "R-squared, Clearly Explained!!!",
         "published_at": "2015-02-03T14:48:20Z",
         "duration": "PT11M1S",
-        "views_count": "723671",
-        "likes_count": "14391",
+        "views_count": "723724",
+        "likes_count": "14394",
         "comments_count": "761"
     },
     {
@@ -2668,7 +2668,7 @@
         "title": "onion-dice",
         "published_at": "2014-09-28T16:12:29Z",
         "duration": "PT36S",
-        "views_count": "16444",
+        "views_count": "16448",
         "likes_count": "211",
         "comments_count": "63"
     },
@@ -2677,7 +2677,7 @@
         "title": "Cutting Butter",
         "published_at": "2014-08-24T21:40:26Z",
         "duration": "PT38S",
-        "views_count": "21037",
+        "views_count": "21036",
         "likes_count": "246",
         "comments_count": "63"
     }
