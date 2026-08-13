@@ -35,7 +35,7 @@ with DAG(
     schedule="0 9 * * *",
     catchup=False,
     dagrun_timeout=timedelta(minutes=30),
-) as dag:
+) as dag_produce:
 
     # Define dag tasks
     playlist_id = get_playlist_id()
@@ -43,6 +43,7 @@ with DAG(
     extracted_data = extract_video_data(video_ids)
     save_json_data = save_to_json(extracted_data)
 
+    # Trigger update json to db
     trigger_update_db = TriggerDagRunOperator(
         task_id="trigger_update_db",
         trigger_dag_id="update_db",
@@ -64,16 +65,24 @@ with DAG(
     update_staging = staging_table()
     update_core = core_table()
 
+    # Trigger Task DQ
+    trigger_data_quality = TriggerDagRunOperator(
+    task_id="trigger_data_quality",
+    trigger_dag_id="data_quality",
+    wait_for_completion=False,
+    )
+
     # Define task dependencies
-    update_staging >> update_core
+    update_staging >> update_core >> trigger_data_quality
+
 
 with DAG(
     dag_id="data_quality",
     default_args=default_args,
     description="DAG to run data quality checks on the table",
-    schedule= "0 10 * * *",
+    schedule= None,
     catchup=False,
-) as dag_update:
+) as dag_quality:
 
     # Define dag tasks
     soda_validate_staging= yt_elt_data_quality(staging_schema)
