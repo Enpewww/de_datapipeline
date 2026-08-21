@@ -36,7 +36,7 @@ def test_dag_integrity(dagbag):
     # 4 Rule Test
     expected_task_counts = {
         "produce_json" : 5,
-        "update_db" : 2,
+        "update_db" : 3,
         "data_quality": 2,
     }
     print("============")
