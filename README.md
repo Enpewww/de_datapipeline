@@ -1,4 +1,4 @@
-# de_datapipeline
+# Extract-Load-Transform (ELT): Simulating Automation ELT with Validation and End-to-End CI-CD Project
 
 A production-style **ELT (Extract–Load–Transform) data pipeline** that pulls video metadata from the YouTube Data API v3, lands it in PostgreSQL, models it into a two-layer warehouse (`staging` → `core`), and validates it at every stage with automated data-quality checks — all orchestrated by Apache Airflow, containerized with Docker, and shipped through a GitHub Actions CI/CD pipeline.
 
