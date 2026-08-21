@@ -85,14 +85,14 @@ jobs:
           if: steps.changed-files-tests.outputs.any_changed == 'true' ||  github.event_name == 'workflow_dispatch'
           run: docker compose up -d
         - name: Run Unit and Integration Tests
-          if: steps.changed-any-files-tests.outputs.any_changed == 'true' ||  github.event_name == 'workflow_dispatch'
-          run: docker exec -it airflow-worker sh -c "pytest tests/ -v"
+          if: steps.changed-files-tests.outputs.any_changed == 'true' ||  github.event_name == 'workflow_dispatch'
+          run: docker exec -t airflow-worker sh -c "pytest tests/ -v"
         - name: Run End-to-End DAG tests
           if: steps.changed-files-tests.outputs.any_changed == 'true' ||  github.event_name == 'workflow_dispatch'
           run: |
             DAG_NAMES=("produce_json" "update_db" "data_quality")
             for DAG in "${DAG_NAMES[@]}"; do
-              docker exec -it airflow-worker sh -c "airflow dags test $DAG"
+              docker exec -t airflow-worker sh -c "airflow dags test $DAG"
             done
         - name: Turn down all docker services
           if: steps.changed-files-tests.outputs.any_changed == 'true' ||  github.event_name == 'workflow_dispatch'
