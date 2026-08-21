@@ -6,7 +6,7 @@ A production-style **ELT (Extract–Load–Transform) data pipeline** that pulls
 
 ## 1. Overview
 
-`de_datapipeline` continuously tracks a YouTube channel's video catalog (views, likes, comments, duration, publish date, etc.), keeping a PostgreSQL warehouse in sync with the channel's current state — including inserts, updates, and deletions (videos removed or made private are also cleaned out of the tables).
+This repository project (`de_datapipeline`) continuously tracks a YouTube channel's video catalog (views, likes, comments, duration, publish date, etc.), keeping a PostgreSQL warehouse in sync with the channel's current state — including inserts, updates, and deletions (videos removed or made private are also cleaned out of the tables).
 
 The pipeline is built around **three chained Airflow DAGs**:
 
