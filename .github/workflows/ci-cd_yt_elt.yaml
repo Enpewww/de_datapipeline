@@ -86,7 +86,7 @@ jobs:
           if: steps.changed-files-tests.outputs.any_changed == 'true'
           run: docker compose up -d
         - name: Run Unit and Integration Tests
-          if: teps.changed-any-files-tests.outputs.any_changed == 'true'
+          if: steps.changed-any-files-tests.outputs.any_changed == 'true'
           run: docker exec -it airflow-worker sh -c "pytest tests/ -v"
         - name: Run End-to-End DAG tests
           if: steps.changed-files-tests.outputs.any_changed == 'true'
