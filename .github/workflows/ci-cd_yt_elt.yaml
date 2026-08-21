@@ -43,7 +43,7 @@ jobs:
                         .
 
     unit-and-integration-and-e2e-tests:
-      runs on: ubuntu-latest
+      runs-on: ubuntu-latest
       needs: build-and-push-image
       env: 
         AIRFLOW_WWW_USER_PASSWORD: ${{ secrets.AIRFLOW_WWW_USER_PASSWORD }}
