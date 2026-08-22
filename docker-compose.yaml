@@ -50,7 +50,7 @@ x-airflow-common:
   # Image stored on Dockerhub
   image: ${DOCKERHUB_NAMESPACE}/${DOCKERHUB_REPOSITORY}:latest  # ${IMAGE_TAG} for manually init docker and airflow manually use this TAG
   # Use the .env file to read the connection params and variables - SWITCH THIS OFF WHEN USING GITHUB ACTIONS
-  # env_file: <- uncommand this
+  # env_file:
   #   - .env
   environment:
     &airflow-common-env
@@ -63,7 +63,7 @@ x-airflow-common:
     # URL for the Redis message broker - handles the communication and task distribution between the scheduler and workers
     AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
     # Key for encrypting data
-    AIRFLOW__CORE__FERNET_KEY: ${FERNET_KEY}
+    AIRFLOW__CORE__FERNET_KEY:  | grep${FERNET_KEY}
     # New DAGs are paused by default
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
     # Set to false to remove default DAGs - https://stackoverflow.com/questions/43410836/how-to-remove-default-example-dags-in-airflow
@@ -112,7 +112,7 @@ services:
     container_name: postgres
     image: postgres:13
     # Use the .env file to read the connection params - SWITCH THIS OFF WHEN USING GITHUB ACTIONS
-    # env_file: <- uncommand this
+    # env_file: 
     #   - .env
     # Env vars after POSTGRES_PASSWORD are needed for CI-CD workflow - SWITCH THIS ALL ON WHEN USING GITHUB ACTIONS
     environment:
