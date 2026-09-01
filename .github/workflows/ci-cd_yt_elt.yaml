@@ -80,7 +80,7 @@ jobs:
         DOCKERHUB_NAMESPACE: ${{ vars.DOCKERHUB_NAMESPACE }}
         DOCKERHUB_REPOSITORY: ${{ vars.DOCKERHUB_REPOSITORY }}
         DOCKERHUB_USERNAME: ${{ vars.DOCKERHUB_USERNAME }}
-        
+
       steps: 
         - name: Checkout code
           uses: actions/checkout@v4
@@ -140,6 +140,11 @@ jobs:
 
             docker exec airflow-worker \
               airflow dags list | grep update_db
+
+            echo "===== CHECK data_quality ====="
+
+            docker exec airflow-worker \
+              airflow dags list | grep data_quality
 
         - name: Check DAG import errors
           if: |
