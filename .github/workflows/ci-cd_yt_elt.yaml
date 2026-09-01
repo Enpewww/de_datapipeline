@@ -80,9 +80,11 @@ jobs:
         DOCKERHUB_NAMESPACE: ${{ vars.DOCKERHUB_NAMESPACE }}
         DOCKERHUB_REPOSITORY: ${{ vars.DOCKERHUB_REPOSITORY }}
         DOCKERHUB_USERNAME: ${{ vars.DOCKERHUB_USERNAME }}
+        
       steps: 
         - name: Checkout code
           uses: actions/checkout@v4
+
         - name: Get changed files
           id: changed-files-tests
           uses: tj-actions/changed-files@v45
@@ -91,25 +93,94 @@ jobs:
                 dags/**
                 include/**
                 docker-compose.yaml
+
         - name: Set up Docker Compose
-          if: steps.changed-files-tests.outputs.any_changed == 'true' ||  
-              github.event_name == 'workflow_dispatch'  #||
-              #github.event_name == 'schedule'
-          run: docker compose up -d
+          if: |
+            steps.changed-files-tests.outputs.any_changed == 'true' ||
+            github.event_name == 'workflow_dispatch'
+          run: |
+            docker compose up -d
+
+            echo "Waiting for Airflow services to initialize..."
+
+            sleep 15
+
+            docker compose ps
+
+        - name: Check Airflow services
+          if: |
+            steps.changed-files-tests.outputs.any_changed == 'true' ||
+            github.event_name == 'workflow_dispatch'
+          run: |
+            echo "===== DOCKER SERVICES ====="
+
+            docker compose ps
+
+            echo "===== AIRFLOW WORKER ====="
+
+            docker exec airflow-worker \
+              airflow version
+
+            echo "===== AIRFLOW DAG DIRECTORY ====="
+
+            docker exec airflow-worker \
+              ls -lah /opt/airflow/dags/
+
+        - name: Check Airflow DAG registration
+          if: |
+            steps.changed-files-tests.outputs.any_changed == 'true' ||
+            github.event_name == 'workflow_dispatch'
+          run: |
+            echo "===== REGISTERED DAGS ====="
+
+            docker exec airflow-worker \
+              airflow dags list
+
+            echo "===== CHECK update_db ====="
+
+            docker exec airflow-worker \
+              airflow dags list | grep update_db
+
+        - name: Check DAG import errors
+          if: |
+            steps.changed-files-tests.outputs.any_changed == 'true' ||
+            github.event_name == 'workflow_dispatch'
+          run: |
+            docker exec airflow-worker \
+              airflow dags list-import-errors
+
         - name: Run Unit and Integration Tests
           if: steps.changed-files-tests.outputs.any_changed == 'true' ||  
               github.event_name == 'workflow_dispatch'  #||
               #github.event_name == 'schedule'
           run: docker exec -t airflow-worker sh -c "pytest tests/ -v"
+
         - name: Run End-to-End DAG tests
-          if: steps.changed-files-tests.outputs.any_changed == 'true' ||  
-              github.event_name == 'workflow_dispatch'  #||
-              #github.event_name == 'schedule'
+          if: |
+            steps.changed-files-tests.outputs.any_changed == 'true' ||
+            github.event_name == 'workflow_dispatch'
           run: |
+
             DAG_NAMES=("produce_json" "update_db" "data_quality")
+
             for DAG in "${DAG_NAMES[@]}"; do
-              docker exec -t airflow-worker sh -c "airflow dags test $DAG"
+
+              echo "========================================="
+              echo "Testing DAG: $DAG"
+              echo "========================================="
+
+              docker exec -t airflow-worker \
+                sh -c "airflow dags test $DAG"
+
             done
+
+        - name: Show logs if tests fail
+          if: failure()
+          run: |
+            docker compose ps
+            docker compose logs --tail=200 airflow-scheduler
+            docker compose logs --tail=200 airflow-worker     
+
         - name: Turn down all docker services
           if: steps.changed-files-tests.outputs.any_changed == 'true' ||  
               github.event_name == 'workflow_dispatch'  #||
